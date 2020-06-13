@@ -4,26 +4,27 @@ using UnityEngine;
 
 public class Moveable : MonoBehaviour
 {
-    public float MoveSpeed = 0.5f;
-    [SerializeField]
-    private bool m_Arrived = false;
-    private Vector3 m_TargetPos = Vector3.zero;
+    public float MoveSpeed = 3f;
+    public Vector3 targetPos = Vector3.zero;
+    //[SerializeField]
+    //private bool m_Arrived = false;
+
+    private void Awake()
+    {
+        targetPos = transform.position;
+    }
 
     private void Update()
     {
-        Vector3 dir = m_TargetPos - transform.position;
+        Vector3 dir = targetPos - transform.position;
+        dir = new Vector3(dir.x, dir.y, 0.0f);
         if (dir.magnitude > 0.1f)
         {
-            m_Arrived = false;
             transform.Translate(dir.normalized * MoveSpeed * Time.deltaTime);
         }
         else
         {
-            if (m_Arrived == false)
-            {
-                m_Arrived = true;
-                SendMessage("ArriveTargetReciver");
-            }
+            SendMessage("ArriveTargetReciver", SendMessageOptions.DontRequireReceiver);
         }
     }
 }
