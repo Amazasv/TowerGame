@@ -89,10 +89,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bf4825cd1bbf1694f969613dc3481cc6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  CommandRadius: 3
   maxSoliderCount: 3
-  respawnTime: 5
-  soldierPrefab: {fileID: 2653986989553664010, guid: 2817ddbf16a515941bfa3b195e952251,
+  soldierPrefab: {fileID: 2653986989553664010, guid: 2096daa8af85f3045a25d9495622c2a7,
     type: 3}
   soldiersContainer: {fileID: 712386761190952339}
   assemblyPoint: {fileID: 3980002377727327883}
@@ -112,7 +110,7 @@ PrefabInstance:
     - target: {fileID: 3565298805056236340, guid: 00220f22c58e6444495b8e0496599485,
         type: 3}
       propertyPath: m_Color.r
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3565298805056236340, guid: 00220f22c58e6444495b8e0496599485,
         type: 3}
@@ -122,7 +120,7 @@ PrefabInstance:
     - target: {fileID: 3565298805056236340, guid: 00220f22c58e6444495b8e0496599485,
         type: 3}
       propertyPath: m_Color.b
-      value: 1
+      value: 0.7606497
       objectReference: {fileID: 0}
     - target: {fileID: 3565298805056236340, guid: 00220f22c58e6444495b8e0496599485,
         type: 3}
@@ -208,13 +206,13 @@ PrefabInstance:
     - target: {fileID: 7073038767882426243, guid: 00220f22c58e6444495b8e0496599485,
         type: 3}
       propertyPath: m_Name
-      value: RangerCamp
+      value: RiderCamp
       objectReference: {fileID: 0}
     - target: {fileID: 8978684348794562136, guid: 00220f22c58e6444495b8e0496599485,
         type: 3}
       propertyPath: prefab
       value: 
-      objectReference: {fileID: 1663569853865370542, guid: 7260185a43f7d2343beb550c98c2abcf,
+      objectReference: {fileID: 1663569853865370542, guid: 8b60c36d5300ca24cb67969ab27c0d3e,
         type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 00220f22c58e6444495b8e0496599485, type: 3}

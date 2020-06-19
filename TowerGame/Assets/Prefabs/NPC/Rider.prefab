@@ -13,14 +13,14 @@ GameObject:
   - component: {fileID: 3165009867019557598}
   - component: {fileID: 320435829363141110}
   - component: {fileID: 5763716211623489130}
-  - component: {fileID: 1305922811856217361}
-  - component: {fileID: 919433954541658329}
-  - component: {fileID: 6959360389097990199}
-  - component: {fileID: 5241454852423090527}
+  - component: {fileID: 1582116870559182629}
+  - component: {fileID: 6388569824338649338}
+  - component: {fileID: 2089533296641198475}
   - component: {fileID: 2812710754804717700}
-  - component: {fileID: 4951042792732258099}
+  - component: {fileID: 6081076522390767807}
+  - component: {fileID: 7475324436892449161}
   m_Layer: 0
-  m_Name: Ranger
+  m_Name: Rider
   m_TagString: Ally
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -80,7 +80,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: 9058eef06bcea8142a011251afe1b9a5, type: 3}
+  m_Sprite: {fileID: 21300000, guid: d6efa489030ce2b4d9f14e1cd0941517, type: 3}
   m_Color: {r: 1, g: 1, b: 0, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -131,24 +131,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   target: {fileID: 0}
   statusList: []
-  NPCName: "\u5F13\u7BAD\u624B"
+  NPCName: "\u9A91\u5175"
   MaxHealth: 10
   m_Health: 10
   invincible: 0
   HealthBar: {fileID: 3391730041438293697}
---- !u!114 &1305922811856217361
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2653986989553664010}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4e0b437079eeab542a126c036180be01, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &919433954541658329
+--- !u!114 &1582116870559182629
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -163,25 +151,7 @@ MonoBehaviour:
   attackSpeed: 1
   animating: 0
   abilityList: []
---- !u!114 &6959360389097990199
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2653986989553664010}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1e2c2487cc707774bb173736a4896eb8, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  abilityCD: 0
-  attackAnim: 0.3
-  castAnim: 0
-  autoCastPriority: 0
-  AARAG: 4
-  AADmg: 1
---- !u!114 &5241454852423090527
+--- !u!114 &6388569824338649338
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -199,6 +169,27 @@ MonoBehaviour:
   autoCastPriority: 1
   AutoSearchRAG: 2
   AADmg: 1
+--- !u!114 &2089533296641198475
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2653986989553664010}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 322c9905ddca37f45b8ffbb609308f0f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  abilityCD: 8
+  attackAnim: 0.3
+  castAnim: 0
+  autoCastPriority: 0
+  speed: 3
+  AutoSearchRAG: 4
+  ChargeDmg: 3
+  AOEPrefab: {fileID: 8437268649285114504, guid: b7693809416d462459876a9813670f9b,
+    type: 3}
 --- !u!61 &2812710754804717700
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -225,7 +216,7 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
---- !u!50 &4951042792732258099
+--- !u!50 &6081076522390767807
 Rigidbody2D:
   serializedVersion: 4
   m_ObjectHideFlags: 0
@@ -246,6 +237,18 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &7475324436892449161
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2653986989553664010}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e0b437079eeab542a126c036180be01, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &3192979994094711448
 GameObject:
   m_ObjectHideFlags: 0

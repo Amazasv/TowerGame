@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 712386761190952339}
-  - component: {fileID: 3867803178914045207}
+  - component: {fileID: 4414759533849726397}
   m_Layer: 0
   m_Name: Soldiers
   m_TagString: Untagged
@@ -32,7 +32,7 @@ Transform:
   m_Father: {fileID: 8814032799950960858}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &3867803178914045207
+--- !u!114 &4414759533849726397
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -56,6 +56,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3980002377727327883}
+  - component: {fileID: 2931191522171250094}
   m_Layer: 0
   m_Name: AssemblyPoint
   m_TagString: Untagged
@@ -77,6 +78,22 @@ Transform:
   m_Father: {fileID: 712386761190952339}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!58 &2931191522171250094
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1126412617827598882}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.3
 --- !u!114 &8387749977618719576
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -92,7 +109,7 @@ MonoBehaviour:
   CommandRadius: 3
   maxSoliderCount: 3
   respawnTime: 5
-  soldierPrefab: {fileID: 2653986989553664010, guid: 2817ddbf16a515941bfa3b195e952251,
+  soldierPrefab: {fileID: 6702361561248035554, guid: 8d2889039fe956248846779bed315e17,
     type: 3}
   soldiersContainer: {fileID: 712386761190952339}
   assemblyPoint: {fileID: 3980002377727327883}
@@ -112,7 +129,7 @@ PrefabInstance:
     - target: {fileID: 3565298805056236340, guid: 00220f22c58e6444495b8e0496599485,
         type: 3}
       propertyPath: m_Color.r
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3565298805056236340, guid: 00220f22c58e6444495b8e0496599485,
         type: 3}
@@ -122,7 +139,7 @@ PrefabInstance:
     - target: {fileID: 3565298805056236340, guid: 00220f22c58e6444495b8e0496599485,
         type: 3}
       propertyPath: m_Color.b
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3565298805056236340, guid: 00220f22c58e6444495b8e0496599485,
         type: 3}
@@ -208,7 +225,7 @@ PrefabInstance:
     - target: {fileID: 7073038767882426243, guid: 00220f22c58e6444495b8e0496599485,
         type: 3}
       propertyPath: m_Name
-      value: RangerCamp
+      value: CampT1
       objectReference: {fileID: 0}
     - target: {fileID: 8978684348794562136, guid: 00220f22c58e6444495b8e0496599485,
         type: 3}

@@ -1,0 +1,157 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &80903242143547824
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7671149470866993317}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a8f9b50ea885449a3cb2a4610eee75, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  attackSpeed: 1.5
+  animating: 0
+  abilityList: []
+--- !u!114 &1231710376107589433
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7671149470866993317}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e0b437079eeab542a126c036180be01, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &6922423955247485631
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7671149470866993317}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65eb70cd284029e4baef8cf0af0f1cb6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  abilityCD: 0
+  attackAnim: 0.3
+  castAnim: 0.5
+  autoCastPriority: 0
+  RAG: 4
+  DMG: 1
+  stormAttackCount: 5
+--- !u!114 &7416710578827012968
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7671149470866993317}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7785cb7864a5cb942a4443f5fa7beb01, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  target: {fileID: 0}
+  statusList: []
+  NPCName: Archer
+  MaxHealth: 10
+  m_Health: 10
+  invincible: 1
+  HealthBar: {fileID: 0}
+--- !u!1001 &602671478357436198
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3659639066004095328, guid: 00220f22c58e6444495b8e0496599485,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3659639066004095328, guid: 00220f22c58e6444495b8e0496599485,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3659639066004095328, guid: 00220f22c58e6444495b8e0496599485,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3659639066004095328, guid: 00220f22c58e6444495b8e0496599485,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3659639066004095328, guid: 00220f22c58e6444495b8e0496599485,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3659639066004095328, guid: 00220f22c58e6444495b8e0496599485,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3659639066004095328, guid: 00220f22c58e6444495b8e0496599485,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3659639066004095328, guid: 00220f22c58e6444495b8e0496599485,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3659639066004095328, guid: 00220f22c58e6444495b8e0496599485,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3659639066004095328, guid: 00220f22c58e6444495b8e0496599485,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3659639066004095328, guid: 00220f22c58e6444495b8e0496599485,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6197343399450188214, guid: 00220f22c58e6444495b8e0496599485,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6197343399450188214, guid: 00220f22c58e6444495b8e0496599485,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7073038767882426243, guid: 00220f22c58e6444495b8e0496599485,
+        type: 3}
+      propertyPath: m_Name
+      value: ArcherT3Storm
+      objectReference: {fileID: 0}
+    - target: {fileID: 7073038767882426243, guid: 00220f22c58e6444495b8e0496599485,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ally
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 00220f22c58e6444495b8e0496599485, type: 3}
+--- !u!1 &7671149470866993317 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7073038767882426243, guid: 00220f22c58e6444495b8e0496599485,
+    type: 3}
+  m_PrefabInstance: {fileID: 602671478357436198}
+  m_PrefabAsset: {fileID: 0}
