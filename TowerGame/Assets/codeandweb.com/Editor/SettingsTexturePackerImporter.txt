@@ -1,0 +1,63 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+- Assets/Resources/Enemys/SoliderT1/Attack/a00_soldier_t1.tpsheet
+- Assets/Resources/Enemys/SoliderT1/Attack/a01_soldier_t1.tpsheet
+- Assets/Resources/Enemys/SoliderT1/Attack/a02_soldier_t1.tpsheet
+- Assets/Resources/Enemys/SoliderT1/Attack/a03_soldier_t1.tpsheet
+- Assets/Resources/Enemys/SoliderT1/Attack/a04_soldier_t1.tpsheet
+- Assets/Resources/Enemys/SoliderT1/Attack/a05_soldier_t1.tpsheet
+- Assets/Resources/Enemys/SoliderT1/Attack/a06_soldier_t1.tpsheet
+- Assets/Resources/Enemys/SoliderT1/Attack/a07_soldier_t1.tpsheet
+- Assets/Resources/Enemys/SoliderT1/Attack/a08_soldier_t1.tpsheet
+- Assets/Resources/Enemys/SoliderT1/Attack/a09_soldier_t1.tpsheet
+- Assets/Resources/Enemys/SoliderT1/Attack/a10_soldier_t1.tpsheet
+- Assets/Resources/Enemys/SoliderT1/Attack/a11_soldier_t1.tpsheet
+- Assets/Resources/Enemys/SoliderT1/Attack/a12_soldier_t1.tpsheet
+- Assets/Resources/Enemys/SoliderT1/Attack/a13_soldier_t1.tpsheet
+- Assets/Resources/Enemys/SoliderT1/Attack/a14_soldier_t1.tpsheet
+- Assets/Resources/Enemys/SoliderT1/Attack/a15_soldier_t1.tpsheet
+- Assets/Resources/Enemys/SoliderT1/Idle/i_soldier_t1(2).tpsheet
+- Assets/Resources/Enemys/SoliderT1/Idle/i_soldier_t1.tpsheet
+textureFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.png
+- Assets/Resources/Enemys/SoliderT1/Attack/a00_soldier_t1.png
+- Assets/Resources/Enemys/SoliderT1/Attack/a01_soldier_t1.png
+- Assets/Resources/Enemys/SoliderT1/Attack/a02_soldier_t1.png
+- Assets/Resources/Enemys/SoliderT1/Attack/a03_soldier_t1.png
+- Assets/Resources/Enemys/SoliderT1/Attack/a04_soldier_t1.png
+- Assets/Resources/Enemys/SoliderT1/Attack/a05_soldier_t1.png
+- Assets/Resources/Enemys/SoliderT1/Attack/a06_soldier_t1.png
+- Assets/Resources/Enemys/SoliderT1/Attack/a07_soldier_t1.png
+- Assets/Resources/Enemys/SoliderT1/Attack/a08_soldier_t1.png
+- Assets/Resources/Enemys/SoliderT1/Attack/a09_soldier_t1.png
+- Assets/Resources/Enemys/SoliderT1/Attack/a10_soldier_t1.png
+- Assets/Resources/Enemys/SoliderT1/Attack/a11_soldier_t1.png
+- Assets/Resources/Enemys/SoliderT1/Attack/a12_soldier_t1.png
+- Assets/Resources/Enemys/SoliderT1/Attack/a13_soldier_t1.png
+- Assets/Resources/Enemys/SoliderT1/Attack/a14_soldier_t1.png
+- Assets/Resources/Enemys/SoliderT1/Attack/a15_soldier_t1.png
+- Assets/Resources/Enemys/SoliderT1/Idle/i_soldier_t1(2).png
+- Assets/Resources/Enemys/SoliderT1/Idle/i_soldier_t1.png
+normalmapFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+enableDebugOutput: 0

@@ -11,7 +11,7 @@ public class ChargeAttack : AbilityBase
     public GameObject AOEPrefab = null;
 
     protected Moveable moveable = null;
-    
+
     protected override void UpdateREF()
     {
         base.UpdateREF();
@@ -27,8 +27,8 @@ public class ChargeAttack : AbilityBase
 
     protected override void UpdateWaitEffect()
     {
-        Vector3 offset = AARange * (NPCinfo.target.GetComponent<Moveable>().dirHor == Moveable.Direction.left ? Vector2.left : Vector2.right);
-        moveable.targetPos = NPCinfo.target.transform.position + offset;
+        Vector3 dirVector = transform.position - NPCinfo.target.transform.position;
+        moveable.targetPos = NPCinfo.target.transform.position + (AARange - 0.1f) * dirVector.normalized; ;
     }
 
     protected override void InstantEffect()

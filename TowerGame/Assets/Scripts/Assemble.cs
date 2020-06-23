@@ -22,16 +22,17 @@ public class Assemble : MonoBehaviour
             lastPosition = assembleLayout.transform.position;
             NPCinfo.target = null;
             NPCinfo.invincible = true;
-            SendMessage("PauseTargeting", SendMessageOptions.DontRequireReceiver);
+            moveable.arriveDelegate += SetInvincibleFalse;
         }
         if (NPCinfo.target == null) moveable.targetPos = assembleLayout.GetTargetPoint(this);
     }
 
-    public void ArriveTargetReciver()
+    private void SetInvincibleFalse()
     {
         NPCinfo.invincible = false;
-        SendMessage("ResumeTargeting", SendMessageOptions.DontRequireReceiver);
+        moveable.arriveDelegate -= SetInvincibleFalse;
     }
+
 
     private void UpdateRefference()
     {

@@ -23,7 +23,10 @@ public class MoveAlongPath : MonoBehaviour
 
     private void Update()
     {
-        if (NPCinfo.target == null) moveable.targetPos = wayPoints.pointsPos[m_CurrentPoint];
+        if (NPCinfo.target == null)
+        {
+            moveable.targetPos = wayPoints.pointsPos[m_CurrentPoint];
+        }
     }
 
     private void NextPoint()
@@ -36,7 +39,7 @@ public class MoveAlongPath : MonoBehaviour
         else Destroy(gameObject);
     }
 
-    private void OnDestroy()
+    private void OnDisable()
     {
         moveable.arriveDelegate -= NextPoint;
     }

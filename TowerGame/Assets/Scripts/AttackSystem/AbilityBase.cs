@@ -14,18 +14,17 @@ public class AbilityBase : MonoBehaviour
 
     protected AutoAttackSystem attackSystem = null;
     protected NPCInfo NPCinfo = null;
+    protected Animator anim = null;
 
-    [SerializeField]
     protected bool wait = false;
-    [SerializeField]
     protected float cd = 0.0f;
-    [SerializeField]
     protected float channeling = 0.0f;
     //protected float animating = 0.0f;
     virtual protected void UpdateREF()
     {
         attackSystem = GetComponent<AutoAttackSystem>();
         NPCinfo = GetComponent<NPCInfo>();
+        anim = GetComponent<Animator>();
     }
     virtual protected void StartWaitEffect() //用于指示选择目标，这个取名不满意啊啊
     {
@@ -38,6 +37,11 @@ public class AbilityBase : MonoBehaviour
     }
     virtual protected void InstantEffect()
     {
+        if (anim)
+        {
+            anim.ResetTrigger("attack");
+            anim.SetTrigger("attack");
+        }
         if (castAnim > 0.0) channeling = castAnim;
         else EndEffect();
     }
@@ -57,11 +61,6 @@ public class AbilityBase : MonoBehaviour
         }
         return false;
     }
-
-    //public bool CheckCanUse()
-    //{
-    //    return (cd == 0.0f) && CheckTarget();
-    //}
 
     public void Interrupt()
     {

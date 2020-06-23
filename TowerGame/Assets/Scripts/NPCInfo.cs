@@ -1,7 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.UI;
 
 public class NPCInfo : MonoBehaviour
 {
@@ -24,10 +23,6 @@ public class NPCInfo : MonoBehaviour
 
     public static float contactRAG = 0.3f;
 
-
-    [SerializeField]
-    private Slider HealthBar = null;
-
     private void OnEnable()
     {
         health = MaxHealth;
@@ -37,16 +32,11 @@ public class NPCInfo : MonoBehaviour
     private void Update()
     {
         CheckTarget();
-        UpdateVisuals();
         if (health == 0.0f) Destroy(gameObject);
     }
     public void DealDmg(float value)
     {
         health -= value;
-    }
-    private void UpdateVisuals()
-    {
-        if (HealthBar) HealthBar.value = health / MaxHealth;
     }
 
     public void UpdateInfoPanel()

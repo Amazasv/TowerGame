@@ -1,0 +1,1532 @@
+fileFormatVersion: 2
+guid: f9117ad02acfc5a41885ef03e70bb54c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 251108494196984560
+    second: u_vil_male_villager_attackA_x1_121
+  - first:
+      213: 8563775252042648144
+    second: u_vil_male_villager_attackA_x1_122
+  - first:
+      213: -4150659229660821536
+    second: u_vil_male_villager_attackA_x1_123
+  - first:
+      213: 604392539859447417
+    second: u_vil_male_villager_attackA_x1_124
+  - first:
+      213: -9101592996859153169
+    second: u_vil_male_villager_attackA_x1_125
+  - first:
+      213: -7678563341492454934
+    second: u_vil_male_villager_attackA_x1_126
+  - first:
+      213: 3211268473817767067
+    second: u_vil_male_villager_attackA_x1_127
+  - first:
+      213: -402184882117826482
+    second: u_vil_male_villager_attackA_x1_128
+  - first:
+      213: 82027539749707385
+    second: u_vil_male_villager_attackA_x1_129
+  - first:
+      213: -3471136055107668383
+    second: u_vil_male_villager_attackA_x1_130
+  - first:
+      213: -5301720450501395548
+    second: u_vil_male_villager_attackA_x1_131
+  - first:
+      213: 8337595848795267517
+    second: u_vil_male_villager_attackA_x1_132
+  - first:
+      213: 2613510578245306700
+    second: u_vil_male_villager_attackA_x1_133
+  - first:
+      213: -1932545952670699521
+    second: u_vil_male_villager_attackA_x1_134
+  - first:
+      213: 5696892715534146829
+    second: u_vil_male_villager_attackA_x1_135
+  - first:
+      213: 6501497999824018525
+    second: u_vil_male_villager_attackA_x1_136
+  - first:
+      213: -7112841427881806751
+    second: u_vil_male_villager_attackA_x1_137
+  - first:
+      213: -1844409491723685800
+    second: u_vil_male_villager_attackA_x1_138
+  - first:
+      213: 5908919413523906237
+    second: u_vil_male_villager_attackA_x1_139
+  - first:
+      213: -8628245033471698974
+    second: u_vil_male_villager_attackA_x1_140
+  - first:
+      213: 4609549459215163611
+    second: u_vil_male_villager_attackA_x1_141
+  - first:
+      213: 842651352019046720
+    second: u_vil_male_villager_attackA_x1_142
+  - first:
+      213: 5740600206969112738
+    second: u_vil_male_villager_attackA_x1_143
+  - first:
+      213: 8725657147165076846
+    second: u_vil_male_villager_attackA_x1_144
+  - first:
+      213: -8848161226234596955
+    second: u_vil_male_villager_attackA_x1_145
+  - first:
+      213: 566698596271793481
+    second: u_vil_male_villager_attackA_x1_146
+  - first:
+      213: 5418271464617989173
+    second: u_vil_male_villager_attackA_x1_147
+  - first:
+      213: -6289868527657845110
+    second: u_vil_male_villager_attackA_x1_148
+  - first:
+      213: -4496735035071112778
+    second: u_vil_male_villager_attackA_x1_149
+  - first:
+      213: 1282923825841355477
+    second: u_vil_male_villager_attackA_x1_150
+  - first:
+      213: -2583875631943654631
+    second: u_vil_male_villager_attackA_x1_151
+  - first:
+      213: 1285207205051403829
+    second: u_vil_male_villager_attackA_x1_152
+  - first:
+      213: 5037608239004859533
+    second: u_vil_male_villager_attackA_x1_153
+  - first:
+      213: -2884945575005816432
+    second: u_vil_male_villager_attackA_x1_154
+  - first:
+      213: -5312282648853879004
+    second: u_vil_male_villager_attackA_x1_155
+  - first:
+      213: 7951865701779832283
+    second: u_vil_male_villager_attackA_x1_156
+  - first:
+      213: -8980223407389660825
+    second: u_vil_male_villager_attackA_x1_157
+  - first:
+      213: 6432444307448382834
+    second: u_vil_male_villager_attackA_x1_158
+  - first:
+      213: 6283749906497608092
+    second: u_vil_male_villager_attackA_x1_159
+  - first:
+      213: 8265291665770367485
+    second: u_vil_male_villager_attackA_x1_160
+  - first:
+      213: 8920618649594896110
+    second: u_vil_male_villager_attackA_x1_161
+  - first:
+      213: -6156360930213426041
+    second: u_vil_male_villager_attackA_x1_162
+  - first:
+      213: -2140964788455202126
+    second: u_vil_male_villager_attackA_x1_163
+  - first:
+      213: -8969061395339287444
+    second: u_vil_male_villager_attackA_x1_164
+  - first:
+      213: 4263813411109367210
+    second: u_vil_male_villager_attackA_x1_165
+  - first:
+      213: -599641875119357221
+    second: u_vil_male_villager_attackA_x1_166
+  - first:
+      213: -1787282816871309330
+    second: u_vil_male_villager_attackA_x1_167
+  - first:
+      213: -7785320416976548923
+    second: u_vil_male_villager_attackA_x1_168
+  - first:
+      213: -7747241998205102693
+    second: u_vil_male_villager_attackA_x1_169
+  - first:
+      213: 145334488522992995
+    second: u_vil_male_villager_attackA_x1_170
+  - first:
+      213: 1075538716791945763
+    second: u_vil_male_villager_attackA_x1_171
+  - first:
+      213: 2497699198414378940
+    second: u_vil_male_villager_attackA_x1_172
+  - first:
+      213: 8369986968963356364
+    second: u_vil_male_villager_attackA_x1_173
+  - first:
+      213: -1762647645530996426
+    second: u_vil_male_villager_attackA_x1_174
+  - first:
+      213: 3347081909057821558
+    second: u_vil_male_villager_attackA_x1_175
+  - first:
+      213: -3472791805142465948
+    second: u_vil_male_villager_attackA_x1_176
+  - first:
+      213: -5455919806275267487
+    second: u_vil_male_villager_attackA_x1_177
+  - first:
+      213: -3894936869462945221
+    second: u_vil_male_villager_attackA_x1_178
+  - first:
+      213: -2648679434160888056
+    second: u_vil_male_villager_attackA_x1_179
+  - first:
+      213: 8659827042265203898
+    second: u_vil_male_villager_attackA_x1_180
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: u_vil_male_villager_attackA_x1_121
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 326
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fac1b458dd1c7300800000000000000
+      internalID: 251108494196984560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_vil_male_villager_attackA_x1_122
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 508
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a884a0834a8d670800000000000000
+      internalID: 8563775252042648144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_vil_male_villager_attackA_x1_123
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 877
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7ce58fb65e566c0800000000000000
+      internalID: -4150659229660821536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_vil_male_villager_attackA_x1_124
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 58
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ee73310db336800800000000000000
+      internalID: 604392539859447417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_vil_male_villager_attackA_x1_125
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 251
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4f6044465a0b180800000000000000
+      internalID: -9101592996859153169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_vil_male_villager_attackA_x1_126
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 203
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9710dd253407590800000000000000
+      internalID: -7678563341492454934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_vil_male_villager_attackA_x1_127
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 155
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c9154b9a7b09c20800000000000000
+      internalID: 3211268473817767067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_vil_male_villager_attackA_x1_128
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 348
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e48a5570bf62b6af0800000000000000
+      internalID: -402184882117826482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_vil_male_villager_attackA_x1_129
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 299
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e9490ec9b632100800000000000000
+      internalID: 82027539749707385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_vil_male_villager_attackA_x1_130
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 106
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166b144162c04dfc0800000000000000
+      internalID: -3471136055107668383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_vil_male_villager_attackA_x1_131
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 10
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4abb07907518c66b0800000000000000
+      internalID: -5301720450501395548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_vil_male_villager_attackA_x1_132
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 830
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1a630004715b370800000000000000
+      internalID: 8337595848795267517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_vil_male_villager_attackA_x1_133
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 598
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c498901260e054420800000000000000
+      internalID: 2613510578245306700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_vil_male_villager_attackA_x1_134
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 415
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fffa1f2f1b73e25e0800000000000000
+      internalID: -1932545952670699521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_vil_male_villager_attackA_x1_135
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 141
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d5ce8cdbd6f0f40800000000000000
+      internalID: 5696892715534146829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_vil_male_villager_attackA_x1_136
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 186
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c5c630cf5f93a50800000000000000
+      internalID: 6501497999824018525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_vil_male_villager_attackA_x1_137
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 737
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1643c63286c1a4d90800000000000000
+      internalID: -7112841427881806751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_vil_male_villager_attackA_x1_138
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 283
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8507371e6575766e0800000000000000
+      internalID: -1844409491723685800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_vil_male_villager_attackA_x1_139
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 691
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe708956e2b00250800000000000000
+      internalID: 5908919413523906237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_vil_male_villager_attackA_x1_140
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 644
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e714e04bd0524880800000000000000
+      internalID: -8628245033471698974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_vil_male_villager_attackA_x1_141
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 237
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd02d1b8fc868ff30800000000000000
+      internalID: 4609549459215163611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_vil_male_villager_attackA_x1_142
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 5
+        width: 36
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53571427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041199aa0f2b1bb00800000000000000
+      internalID: 842651352019046720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_vil_male_villager_attackA_x1_143
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 648
+        width: 34
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5595238}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a88de52975baaf40800000000000000
+      internalID: 5740600206969112738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_vil_male_villager_attackA_x1_144
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 738
+        width: 34
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5568182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d6f90e1f2c71970800000000000000
+      internalID: 8725657147165076846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_vil_male_villager_attackA_x1_145
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 534
+        width: 47
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.56666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1f6ea8e34053580800000000000000
+      internalID: -8848161226234596955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_vil_male_villager_attackA_x1_146
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 925
+        width: 50
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5543478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9452e7dee515dd700800000000000000
+      internalID: 566698596271793481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_vil_male_villager_attackA_x1_147
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 971
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534d0399031913b40800000000000000
+      internalID: 5418271464617989173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_vil_male_villager_attackA_x1_148
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 917
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e7b0536e5e5b8a0800000000000000
+      internalID: -6289868527657845110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_vil_male_villager_attackA_x1_149
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 675
+        width: 50
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5777778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b958817f436891c0800000000000000
+      internalID: -4496735035071112778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_vil_male_villager_attackA_x1_150
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 973
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dab8212c6cddc110800000000000000
+      internalID: 1282923825841355477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_vil_male_villager_attackA_x1_151
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 868
+        width: 51
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5531915}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913e53e7dca342cd0800000000000000
+      internalID: -2583875631943654631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_vil_male_villager_attackA_x1_152
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 628
+        width: 51
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5777778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e8cd7c429f5d110800000000000000
+      internalID: 1285207205051403829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_vil_male_villager_attackA_x1_153
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 819
+        width: 50
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5531915}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c3773c00e29e540800000000000000
+      internalID: 5037608239004859533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_vil_male_villager_attackA_x1_154
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 771
+        width: 50
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5543478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099717dd84d96f7d0800000000000000
+      internalID: -2884945575005816432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_vil_male_villager_attackA_x1_155
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 581
+        width: 49
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.56666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427e798931bf646b0800000000000000
+      internalID: -5312282648853879004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_vil_male_villager_attackA_x1_156
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 722
+        width: 49
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5425532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bddf23899b3ba5e60800000000000000
+      internalID: 7951865701779832283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_vil_male_villager_attackA_x1_157
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 488
+        width: 47
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5681818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76924e6e366df5380800000000000000
+      internalID: -8980223407389660825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_vil_male_villager_attackA_x1_158
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 443
+        width: 47
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5697674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 275c1fe5402a44950800000000000000
+      internalID: 6432444307448382834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_vil_male_villager_attackA_x1_159
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 397
+        width: 45
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.54545456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c991f2a4f3d543750800000000000000
+      internalID: 6283749906497608092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_vil_male_villager_attackA_x1_160
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 556
+        width: 43
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df94d378af634b270800000000000000
+      internalID: 8265291665770367485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_vil_male_villager_attackA_x1_161
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 374
+        width: 40
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5641026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee14d9f5676ccb70800000000000000
+      internalID: 8920618649594896110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_vil_male_villager_attackA_x1_162
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 512
+        width: 39
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52380955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c098d0a56309aa0800000000000000
+      internalID: -6156360930213426041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_vil_male_villager_attackA_x1_163
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 469
+        width: 39
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5487805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b222834ed3c942e0800000000000000
+      internalID: -2140964788455202126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_vil_male_villager_attackA_x1_164
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 423
+        width: 38
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5113636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64e12a5e2e778380800000000000000
+      internalID: -8969061395339287444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_vil_male_villager_attackA_x1_165
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 783
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad68bde4bb1c2b30800000000000000
+      internalID: 4263813411109367210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_vil_male_villager_attackA_x1_166
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 376
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd2cf0144e4ada7f0800000000000000
+      internalID: -599641875119357221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_vil_male_villager_attackA_x1_167
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 95
+        width: 37
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5113636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eefd93b5fbb4237e0800000000000000
+      internalID: -1787282816871309330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_vil_male_villager_attackA_x1_168
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 329
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb4483445cf4f390800000000000000
+      internalID: -7785320416976548923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_vil_male_villager_attackA_x1_169
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 461
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b955ff303744c7490800000000000000
+      internalID: -7747241998205102693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_vil_male_villager_attackA_x1_170
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 279
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36da60282f4540200800000000000000
+      internalID: 145334488522992995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_vil_male_villager_attackA_x1_171
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 232
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a3094b3c41dee00800000000000000
+      internalID: 1075538716791945763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_vil_male_villager_attackA_x1_172
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 49
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb75445003c99a220800000000000000
+      internalID: 2497699198414378940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_vil_male_villager_attackA_x1_173
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 190
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc695bb5dca282470800000000000000
+      internalID: 8369986968963356364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_vil_male_villager_attackA_x1_174
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 143
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63142f72e41d987e0800000000000000
+      internalID: -1762647645530996426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_vil_male_villager_attackA_x1_175
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 692
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b178f3349337e20800000000000000
+      internalID: 3347081909057821558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_vil_male_villager_attackA_x1_176
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 878
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462889bb04a2ecfc0800000000000000
+      internalID: -3472791805142465948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_vil_male_villager_attackA_x1_177
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 831
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164d1f7c7dda844b0800000000000000
+      internalID: -5455919806275267487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_vil_male_villager_attackA_x1_178
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 784
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32d611bd8762f9c0800000000000000
+      internalID: -3894936869462945221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_vil_male_villager_attackA_x1_179
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 48
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80725f286100e3bd0800000000000000
+      internalID: -2648679434160888056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_vil_male_villager_attackA_x1_180
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab40a8e20d2ed2870800000000000000
+      internalID: 8659827042265203898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

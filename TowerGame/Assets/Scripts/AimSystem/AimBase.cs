@@ -19,7 +19,7 @@ public class AimBase : MonoBehaviour
         UpdateTarget();
     }
 
-    virtual protected void UpdateTarget() 
+    virtual protected void UpdateTarget()
     {
         if (!attackSystem.CheckAnyCanUse())
         {
@@ -36,10 +36,12 @@ public class AimBase : MonoBehaviour
     }
     virtual protected void TryNewTarget(NPCInfo newTarget)
     {
+        
         NPCInfo record = NPCinfo.target;
         NPCinfo.target = newTarget;
         if (!attackSystem.CheckAnyCanUse())
+        {
             NPCinfo.target = record;
-        
+        }
     }
 }

@@ -7,62 +7,59 @@ public class Moveable : MonoBehaviour
     public delegate void ArriveDelegate();
     public ArriveDelegate arriveDelegate;
 
-    public enum Direction
-    {
-        up, down, left, right
-    }
-
     public float MoveSpeed = 3f;
     public Vector3 targetPos = Vector3.zero;
-    public Direction dir { get; private set; }
-    public Direction dirHor { get; private set; }
+    public Vector2 dirVec = Vector2.zero;
+    public static float eps = 0.01f;
 
+    private Animator anim = null;
     private void Awake()
     {
-        targetPos = transform.position;
+        anim = GetComponent<Animator>();
     }
 
     private void Start()
     {
-        if (Vector2.Distance(targetPos, transform.position) <= 0.1f)
-        {
-            transform.position = targetPos;
-            SendMessage("ArriveTargetReciver", SendMessageOptions.DontRequireReceiver);
-        }
+        targetPos = transform.position;
     }
 
     private void Update()
     {
-        Vector3 dirVec = targetPos - transform.position;
-        dirVec = new Vector3(dirVec.x, dirVec.y, 0.0f);
-        if (dirVec.magnitude > 0.1f)
+        dirVec = targetPos - transform.position;
+        UpdateAnimPara();
+        UpdatePosition();
+    }
+
+    private void UpdateAnimPara()
+    {
+        if (anim)
         {
-            transform.Translate(dirVec.normalized * MoveSpeed * Time.deltaTime);
-            dir = CalcDirection(dirVec);
-            if (dir == Direction.left || dir == Direction.right) dirHor = dir;
-            if (Vector2.Distance(targetPos, transform.position) <= 0.1f)
+            if (dirVec.magnitude > eps)
             {
-                transform.position = targetPos;
-                arriveDelegate?.Invoke();
-                SendMessage("ArriveTargetReciver", SendMessageOptions.DontRequireReceiver);
+                anim.SetFloat("Horizontal", dirVec.x);
+                anim.SetFloat("Vertical", dirVec.y);
+                anim.SetBool("walking", true);
             }
+            else anim.SetBool("walking", false);
         }
     }
 
-    public Direction CalcDirection(Vector2 dirVec)
+    private void UpdatePosition()
     {
-        float positiveX = Mathf.Abs(dirVec.x);
-        float positiveY = Mathf.Abs(dirVec.y);
-        Direction dir;
-        if (positiveX > positiveY)
+        if (dirVec.magnitude > eps)
         {
-            dir = (dirVec.x > 0) ? Direction.right : Direction.left;
+            transform.Translate(dirVec.normalized * MoveSpeed * Time.deltaTime);
+            CheckArrive();
         }
-        else
+    }
+
+    private void CheckArrive()
+    {
+        if (Vector2.Distance(targetPos, transform.position) <= eps)
         {
-            dir = (dirVec.y > 0) ? Direction.up : Direction.down;
+            transform.position = targetPos;
+            arriveDelegate?.Invoke();
         }
-        return dir;
     }
 }
 
