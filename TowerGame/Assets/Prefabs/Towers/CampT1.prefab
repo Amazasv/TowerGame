@@ -109,7 +109,7 @@ MonoBehaviour:
   CommandRadius: 3
   maxSoliderCount: 3
   respawnTime: 5
-  soldierPrefab: {fileID: 6702361561248035554, guid: 8d2889039fe956248846779bed315e17,
+  soldierPrefab: {fileID: 5132629598503967168, guid: 5c47134ca32b1aa49866c333c3b177b7,
     type: 3}
   soldiersContainer: {fileID: 712386761190952339}
   assemblyPoint: {fileID: 3980002377727327883}
@@ -134,18 +134,18 @@ PrefabInstance:
     - target: {fileID: 3565298805056236340, guid: 00220f22c58e6444495b8e0496599485,
         type: 3}
       propertyPath: m_Color.g
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3565298805056236340, guid: 00220f22c58e6444495b8e0496599485,
         type: 3}
       propertyPath: m_Color.b
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3565298805056236340, guid: 00220f22c58e6444495b8e0496599485,
         type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 83d175504d0993c44a05f186a4197fc9,
+      objectReference: {fileID: 6257268955685743567, guid: 84b07c866b256864cbfa1d63433a72d5,
         type: 3}
     - target: {fileID: 3565298805056236340, guid: 00220f22c58e6444495b8e0496599485,
         type: 3}

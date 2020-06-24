@@ -1,0 +1,539 @@
+fileFormatVersion: 2
+guid: 84b07c866b256864cbfa1d63433a72d5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3632451412606667748
+    second: b_archer_t1
+  - first:
+      213: -5882020767619500116
+    second: b_archer_t2
+  - first:
+      213: 391949186397406016
+    second: b_archer_t3A
+  - first:
+      213: 2315243128318492990
+    second: b_archer_t3B
+  - first:
+      213: -98606620473594575
+    second: b_rider_t1
+  - first:
+      213: -3020032386076308257
+    second: b_rider_t2
+  - first:
+      213: -1943349068400070294
+    second: b_rider_t3
+  - first:
+      213: 2284891202521666852
+    second: b_soldier_t1
+  - first:
+      213: 8732747330965469323
+    second: b_soldier_t2
+  - first:
+      213: 1362293179024917378
+    second: b_soldier_t3
+  - first:
+      213: 5895945961936901979
+    second: b_asia_archery_range_age2_x1
+  - first:
+      213: -3502084473966681871
+    second: b_asia_archery_range_age3_x1
+  - first:
+      213: 6257268955685743567
+    second: b_asia_barracks_age2_x1
+  - first:
+      213: 7975573951756259626
+    second: b_asia_barracks_age3_x1
+  - first:
+      213: -6624765752732496053
+    second: b_asia_castle_age3_x1
+  - first:
+      213: 1158172558701408154
+    second: b_asia_monastery_age3_x1
+  - first:
+      213: -2212313183547584771
+    second: b_asia_siege_workshop_age3_x1
+  - first:
+      213: 4669298125585411643
+    second: b_asia_tower_age2_x1
+  - first:
+      213: -5979308411364824251
+    second: b_asia_tower_age3_x1
+  - first:
+      213: -2400409959507537785
+    second: b_asia_tower_age4_x1
+  - first:
+      213: 1377870272325241101
+    second: b_asia_tower_bombard_x1
+  - first:
+      213: 5197580074875328182
+    second: b_asia_tower_scen_x1
+  - first:
+      213: 3682585652421946210
+    second: b_misc_foundation_3x3_x1_1
+  - first:
+      213: 7964456702473997121
+    second: b_misc_foundation_3x3_x1_2
+  - first:
+      213: 3792655604362133160
+    second: b_misc_foundation_3x3_x1_3
+  - first:
+      213: -5067631562329796715
+    second: b_misc_foundation_4x4_x1_1
+  - first:
+      213: -8236668636064615527
+    second: b_misc_foundation_4x4_x1_2
+  - first:
+      213: 2356607762675296798
+    second: b_misc_foundation_4x4_x1_3
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: b_asia_archery_range_age2_x1
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 489
+        width: 342
+        height: 274
+      alignment: 9
+      pivot: {x: 0.51754385, y: 0.3540146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57d5244d9b92d150800000000000000
+      internalID: 5895945961936901979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: b_asia_archery_range_age3_x1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 359
+        width: 337
+        height: 306
+      alignment: 9
+      pivot: {x: 0.52522254, y: 0.35620916}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f02ecbc9b8166fc0800000000000000
+      internalID: -3502084473966681871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: b_asia_barracks_age2_x1
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 273
+        width: 319
+        height: 274
+      alignment: 9
+      pivot: {x: 0.53291535, y: 0.30291972}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb6ab776f846d650800000000000000
+      internalID: 6257268955685743567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: b_asia_barracks_age3_x1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 97
+        width: 327
+        height: 260
+      alignment: 9
+      pivot: {x: 0.49235475, y: 0.31923077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a215a42b04eeeae60800000000000000
+      internalID: 7975573951756259626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: b_asia_castle_age3_x1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 624
+        width: 464
+        height: 399
+      alignment: 9
+      pivot: {x: 0.62931037, y: 0.22055137}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4fc43cb5aa1014a0800000000000000
+      internalID: -6624765752732496053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: b_asia_monastery_age3_x1
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 279
+        width: 298
+        height: 271
+      alignment: 9
+      pivot: {x: 0.5201342, y: 0.30258304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9fa00e4ec7a21010800000000000000
+      internalID: 1158172558701408154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: b_asia_siege_workshop_age3_x1
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 738
+        width: 374
+        height: 285
+      alignment: 9
+      pivot: {x: 0.51069516, y: 0.30877194}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe8bb281e84c41e0800000000000000
+      internalID: -2212313183547584771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: b_asia_tower_age2_x1
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 710
+        width: 178
+        height: 210
+      alignment: 9
+      pivot: {x: 0.71910113, y: 0.13809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e6aedf7edacc040800000000000000
+      internalID: 4669298125585411643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: b_asia_tower_age3_x1
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 788
+        width: 210
+        height: 233
+      alignment: 9
+      pivot: {x: 0.6904762, y: 0.1416309}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b281afdaa350da0800000000000000
+      internalID: -5979308411364824251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: b_asia_tower_age4_x1
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 572
+        width: 231
+        height: 241
+      alignment: 9
+      pivot: {x: 0.71428573, y: 0.17012449}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7805e381cd700bed0800000000000000
+      internalID: -2400409959507537785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: b_asia_tower_bombard_x1
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 791
+        width: 226
+        height: 232
+      alignment: 9
+      pivot: {x: 0.71681416, y: 0.12931034}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09448066bd2f1310800000000000000
+      internalID: 1377870272325241101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: b_asia_tower_scen_x1
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 208
+        width: 240
+        height: 281
+      alignment: 9
+      pivot: {x: 0.6791667, y: 0.13523132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b697964a83812840800000000000000
+      internalID: 5197580074875328182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: b_misc_foundation_4x4_x1_1
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 56
+        width: 357
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f46ca81f72ca9b0800000000000000
+      internalID: -5067631562329796715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: b_misc_foundation_4x4_x1_2
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 133
+        width: 359
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99374c6e38971bd80800000000000000
+      internalID: -8236668636064615527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: b_misc_foundation_4x4_x1_3
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 607
+        width: 360
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a6039364a54b020800000000000000
+      internalID: 2356607762675296798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -16,23 +16,21 @@ public class BasicMeleeAttack : AbilityBase
         moveable = GetComponent<Moveable>();
     }
 
-    protected override void StartWaitEffect()
-    {
-        base.StartWaitEffect();
-        moveable.arriveDelegate += SetWaitFalse;
-    }
-
     protected override void UpdateWaitEffect()
     {
         Vector3 dirVector = transform.position - NPCinfo.target.transform.position;
-        moveable.targetPos = NPCinfo.target.transform.position + (AARange - 0.1f) * dirVector.normalized;
+        moveable.targetPos = NPCinfo.target.transform.position;
+        if (dirVector.magnitude <= AARange - 0.1f)
+        {
+            moveable.targetPos = transform.position;
+            EndWaitEffect();
+        }
     }
 
     protected override void InstantEffect()
     {
-
-        base.InstantEffect();
         if (NPCinfo.target) NPCinfo.target.DealDmg(AADmg);
+        base.InstantEffect();
     }
 
     public override bool CheckTarget()
@@ -40,14 +38,13 @@ public class BasicMeleeAttack : AbilityBase
         return (NPCinfo.target && Vector3.Distance(transform.position, NPCinfo.target.transform.position) < AutoSearchRAG);
     }
 
-    protected override void EndEffect()
+    protected override void EndWaitEffect()
     {
-        base.EndEffect();
-    }
-
-    public void SetWaitFalse()
-    {
-        wait = false;
-        moveable.arriveDelegate -= SetWaitFalse;
+        if (anim)
+        {
+            anim.SetFloat("Horizontal", (NPCinfo.target.transform.position - transform.position).x);
+            anim.SetFloat("Vertical", (NPCinfo.target.transform.position - transform.position).y);
+        }
+        base.EndWaitEffect();
     }
 }

@@ -2,46 +2,133 @@ version: 2
 importPivots: 1
 tpsheetFileNames:
 - Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
-- Assets/Resources/Enemys/SoliderT1/Attack/a00_soldier_t1.tpsheet
-- Assets/Resources/Enemys/SoliderT1/Attack/a01_soldier_t1.tpsheet
-- Assets/Resources/Enemys/SoliderT1/Attack/a02_soldier_t1.tpsheet
-- Assets/Resources/Enemys/SoliderT1/Attack/a03_soldier_t1.tpsheet
-- Assets/Resources/Enemys/SoliderT1/Attack/a04_soldier_t1.tpsheet
-- Assets/Resources/Enemys/SoliderT1/Attack/a05_soldier_t1.tpsheet
-- Assets/Resources/Enemys/SoliderT1/Attack/a06_soldier_t1.tpsheet
-- Assets/Resources/Enemys/SoliderT1/Attack/a07_soldier_t1.tpsheet
-- Assets/Resources/Enemys/SoliderT1/Attack/a08_soldier_t1.tpsheet
-- Assets/Resources/Enemys/SoliderT1/Attack/a09_soldier_t1.tpsheet
-- Assets/Resources/Enemys/SoliderT1/Attack/a10_soldier_t1.tpsheet
-- Assets/Resources/Enemys/SoliderT1/Attack/a11_soldier_t1.tpsheet
-- Assets/Resources/Enemys/SoliderT1/Attack/a12_soldier_t1.tpsheet
-- Assets/Resources/Enemys/SoliderT1/Attack/a13_soldier_t1.tpsheet
-- Assets/Resources/Enemys/SoliderT1/Attack/a14_soldier_t1.tpsheet
-- Assets/Resources/Enemys/SoliderT1/Attack/a15_soldier_t1.tpsheet
-- Assets/Resources/Enemys/SoliderT1/Idle/i_soldier_t1(2).tpsheet
-- Assets/Resources/Enemys/SoliderT1/Idle/i_soldier_t1.tpsheet
+- Assets/Resources/Sprites/Allies/CavalryT1/a_cav_t1.tpsheet
+- Assets/Resources/Sprites/Allies/CavalryT1/c_cav_t1.tpsheet
+- Assets/Resources/Sprites/Allies/CavalryT1/d_cav_t1.tpsheet
+- Assets/Resources/Sprites/Allies/CavalryT1/i_cav_t1.tpsheet
+- Assets/Resources/Sprites/Allies/CavalryT1/w_cav_t1.tpsheet
+- Assets/Resources/Sprites/Allies/CavalryT2/a_cav_t2.tpsheet
+- Assets/Resources/Sprites/Allies/CavalryT2/c_cav_t2.tpsheet
+- Assets/Resources/Sprites/Allies/CavalryT2/d_cav_t2.tpsheet
+- Assets/Resources/Sprites/Allies/CavalryT2/i_cav_t2.tpsheet
+- Assets/Resources/Sprites/Allies/CavalryT2/w_cav_t2.tpsheet
+- Assets/Resources/Sprites/Allies/CavalryT3A/a_cav_t3a.tpsheet
+- Assets/Resources/Sprites/Allies/CavalryT3A/c_cav_t3a.tpsheet
+- Assets/Resources/Sprites/Allies/CavalryT3A/d_cav_t3a.tpsheet
+- Assets/Resources/Sprites/Allies/CavalryT3A/i_cav_t3a.tpsheet
+- Assets/Resources/Sprites/Allies/CavalryT3A/w_cav_t3a.tpsheet
+- Assets/Resources/Sprites/Allies/CavalryT3B/a_cav_t3b.tpsheet
+- Assets/Resources/Sprites/Allies/CavalryT3B/c_cav_t3b.tpsheet
+- Assets/Resources/Sprites/Allies/CavalryT3B/d_cav_t3b.tpsheet
+- Assets/Resources/Sprites/Allies/CavalryT3B/i_cav_t3b.tpsheet
+- Assets/Resources/Sprites/Allies/CavalryT3B/w_cav_t3b.tpsheet
+- Assets/Resources/Sprites/Allies/SoldierT1/a_soldier_t1.tpsheet
+- Assets/Resources/Sprites/Allies/SoldierT1/c_soldier_t1.tpsheet
+- Assets/Resources/Sprites/Allies/SoldierT1/d_soldier_t1.tpsheet
+- Assets/Resources/Sprites/Allies/SoldierT1/i_soldier_t1.tpsheet
+- Assets/Resources/Sprites/Allies/SoldierT1/w_soldier_t1.tpsheet
+- Assets/Resources/Sprites/Allies/SoldierT2/a_soldier_t2.tpsheet
+- Assets/Resources/Sprites/Allies/SoldierT2/c_soldier_t2.tpsheet
+- Assets/Resources/Sprites/Allies/SoldierT2/d_soldier_t2.tpsheet
+- Assets/Resources/Sprites/Allies/SoldierT2/i_soldier_t2.tpsheet
+- Assets/Resources/Sprites/Allies/SoldierT2/w_soldier_t2.tpsheet
+- Assets/Resources/Sprites/Allies/SoldierT3B/a_soldier_t3b.tpsheet
+- Assets/Resources/Sprites/Allies/SoldierT3B/c_soldier_t3b.tpsheet
+- Assets/Resources/Sprites/Allies/SoldierT3B/d_soldier_t3b.tpsheet
+- Assets/Resources/Sprites/Allies/SoldierT3B/i_soldier_t3b.tpsheet
+- Assets/Resources/Sprites/Allies/SoldierT3B/w_soldier_t3b.tpsheet
+- Assets/Resources/Sprites/Allies/SoldierT3C/a_soldier_t3c.tpsheet
+- Assets/Resources/Sprites/Allies/SoldierT3C/c_soldier_t3c.tpsheet
+- Assets/Resources/Sprites/Allies/SoldierT3C/d_soldier_t3c.tpsheet
+- Assets/Resources/Sprites/Allies/SoldierT3C/i_soldier_t3c.tpsheet
+- Assets/Resources/Sprites/Allies/SoldierT3C/w_soldier_t3c.tpsheet
+- Assets/Resources/Sprites/Projectiles/arrow.tpsheet
+- Assets/Resources/Sprites/Sample/a_sample.tpsheet
+- Assets/Resources/Sprites/Sample/c_sample.tpsheet
+- Assets/Resources/Sprites/Sample/d_sample.tpsheet
+- Assets/Resources/Sprites/Sample/i_sample.tpsheet
+- Assets/Resources/Sprites/Sample/w_sample.tpsheet
+- Assets/Resources/Sprites/Towers/b_towers.tpsheet
 textureFileNames:
 - Assets/codeandweb.com/Example/SpriteSheet/sprites.png
-- Assets/Resources/Enemys/SoliderT1/Attack/a00_soldier_t1.png
-- Assets/Resources/Enemys/SoliderT1/Attack/a01_soldier_t1.png
-- Assets/Resources/Enemys/SoliderT1/Attack/a02_soldier_t1.png
-- Assets/Resources/Enemys/SoliderT1/Attack/a03_soldier_t1.png
-- Assets/Resources/Enemys/SoliderT1/Attack/a04_soldier_t1.png
-- Assets/Resources/Enemys/SoliderT1/Attack/a05_soldier_t1.png
-- Assets/Resources/Enemys/SoliderT1/Attack/a06_soldier_t1.png
-- Assets/Resources/Enemys/SoliderT1/Attack/a07_soldier_t1.png
-- Assets/Resources/Enemys/SoliderT1/Attack/a08_soldier_t1.png
-- Assets/Resources/Enemys/SoliderT1/Attack/a09_soldier_t1.png
-- Assets/Resources/Enemys/SoliderT1/Attack/a10_soldier_t1.png
-- Assets/Resources/Enemys/SoliderT1/Attack/a11_soldier_t1.png
-- Assets/Resources/Enemys/SoliderT1/Attack/a12_soldier_t1.png
-- Assets/Resources/Enemys/SoliderT1/Attack/a13_soldier_t1.png
-- Assets/Resources/Enemys/SoliderT1/Attack/a14_soldier_t1.png
-- Assets/Resources/Enemys/SoliderT1/Attack/a15_soldier_t1.png
-- Assets/Resources/Enemys/SoliderT1/Idle/i_soldier_t1(2).png
-- Assets/Resources/Enemys/SoliderT1/Idle/i_soldier_t1.png
+- Assets/Resources/Sprites/Allies/CavalryT1/a_cav_t1.png
+- Assets/Resources/Sprites/Allies/CavalryT1/c_cav_t1.png
+- Assets/Resources/Sprites/Allies/CavalryT1/d_cav_t1.png
+- Assets/Resources/Sprites/Allies/CavalryT1/i_cav_t1.png
+- Assets/Resources/Sprites/Allies/CavalryT1/w_cav_t1.png
+- Assets/Resources/Sprites/Allies/CavalryT2/a_cav_t2.png
+- Assets/Resources/Sprites/Allies/CavalryT2/c_cav_t2.png
+- Assets/Resources/Sprites/Allies/CavalryT2/d_cav_t2.png
+- Assets/Resources/Sprites/Allies/CavalryT2/i_cav_t2.png
+- Assets/Resources/Sprites/Allies/CavalryT2/w_cav_t2.png
+- Assets/Resources/Sprites/Allies/CavalryT3A/a_cav_t3a.png
+- Assets/Resources/Sprites/Allies/CavalryT3A/c_cav_t3a.png
+- Assets/Resources/Sprites/Allies/CavalryT3A/d_cav_t3a.png
+- Assets/Resources/Sprites/Allies/CavalryT3A/i_cav_t3a.png
+- Assets/Resources/Sprites/Allies/CavalryT3A/w_cav_t3a.png
+- Assets/Resources/Sprites/Allies/CavalryT3B/a_cav_t3b.png
+- Assets/Resources/Sprites/Allies/CavalryT3B/c_cav_t3b.png
+- Assets/Resources/Sprites/Allies/CavalryT3B/d_cav_t3b.png
+- Assets/Resources/Sprites/Allies/CavalryT3B/i_cav_t3b.png
+- Assets/Resources/Sprites/Allies/CavalryT3B/w_cav_t3b.png
+- Assets/Resources/Sprites/Allies/SoldierT1/a_soldier_t1.png
+- Assets/Resources/Sprites/Allies/SoldierT1/c_soldier_t1.png
+- Assets/Resources/Sprites/Allies/SoldierT1/d_soldier_t1.png
+- Assets/Resources/Sprites/Allies/SoldierT1/i_soldier_t1.png
+- Assets/Resources/Sprites/Allies/SoldierT1/w_soldier_t1.png
+- Assets/Resources/Sprites/Allies/SoldierT2/a_soldier_t2.png
+- Assets/Resources/Sprites/Allies/SoldierT2/c_soldier_t2.png
+- Assets/Resources/Sprites/Allies/SoldierT2/d_soldier_t2.png
+- Assets/Resources/Sprites/Allies/SoldierT2/i_soldier_t2.png
+- Assets/Resources/Sprites/Allies/SoldierT2/w_soldier_t2.png
+- Assets/Resources/Sprites/Allies/SoldierT3B/a_soldier_t3b.png
+- Assets/Resources/Sprites/Allies/SoldierT3B/c_soldier_t3b.png
+- Assets/Resources/Sprites/Allies/SoldierT3B/d_soldier_t3b.png
+- Assets/Resources/Sprites/Allies/SoldierT3B/i_soldier_t3b.png
+- Assets/Resources/Sprites/Allies/SoldierT3B/w_soldier_t3b.png
+- Assets/Resources/Sprites/Allies/SoldierT3C/a_soldier_t3c.png
+- Assets/Resources/Sprites/Allies/SoldierT3C/c_soldier_t3c.png
+- Assets/Resources/Sprites/Allies/SoldierT3C/d_soldier_t3c.png
+- Assets/Resources/Sprites/Allies/SoldierT3C/i_soldier_t3c.png
+- Assets/Resources/Sprites/Allies/SoldierT3C/w_soldier_t3c.png
+- Assets/Resources/Sprites/Projectiles/arrow.png
+- Assets/Resources/Sprites/Sample/a_sample.png
+- Assets/Resources/Sprites/Sample/c_sample.png
+- Assets/Resources/Sprites/Sample/d_sample.png
+- Assets/Resources/Sprites/Sample/i_sample.png
+- Assets/Resources/Sprites/Sample/w_sample.png
+- Assets/Resources/Sprites/Towers/b_towers.png
 normalmapFileNames:
 - Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
 - 
 - 
 - 

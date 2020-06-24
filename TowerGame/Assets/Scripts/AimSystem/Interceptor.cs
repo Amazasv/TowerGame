@@ -28,7 +28,6 @@ public class Interceptor : AimBase
             if (NPCinfo.target.target == null) NPCinfo.target.target = NPCinfo;
         }
         else NPCinfo.target = record;
-
     }
 
 }

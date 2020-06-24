@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 47a8f9b50ea885449a3cb2a4610eee75, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  autoCast: 1
   attackSpeed: 0.5
   animating: 0
   abilityList: []
@@ -31,6 +32,8 @@ MonoBehaviour:
   attackAnim: 0.3
   castAnim: 0
   autoCastPriority: 0
+  arrowPrefab: {fileID: 2453645635539630140, guid: af6f3e94bff2c7e428b1e13d738f1ccc,
+    type: 3}
   AARAG: 4
   AADmg: 2
 --- !u!114 &4076162027045941598
@@ -63,7 +66,6 @@ MonoBehaviour:
   MaxHealth: 10
   m_Health: 10
   invincible: 1
-  HealthBar: {fileID: 0}
 --- !u!1001 &602671478357436198
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -71,6 +73,12 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3565298805056236340, guid: 00220f22c58e6444495b8e0496599485,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -5979308411364824251, guid: 84b07c866b256864cbfa1d63433a72d5,
+        type: 3}
     - target: {fileID: 3659639066004095328, guid: 00220f22c58e6444495b8e0496599485,
         type: 3}
       propertyPath: m_LocalPosition.x

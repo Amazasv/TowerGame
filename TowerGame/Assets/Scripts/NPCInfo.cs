@@ -8,20 +8,16 @@ public class NPCInfo : MonoBehaviour
     public List<StatusBase> statusList = new List<StatusBase>();
     public string NPCName = "";
     public float MaxHealth = 10.0f;
-    public float m_Health = 10.0f;
 
+    public float m_Health = 10.0f;
     public float health
     {
         get { return m_Health; }
-        set
-        {
-            m_Health = Mathf.Clamp(value, 0, MaxHealth);
-        }
+        set { m_Health = Mathf.Clamp(value, 0, MaxHealth); }
     }
 
     public bool invincible = false;
 
-    public static float contactRAG = 0.3f;
 
     private void OnEnable()
     {
@@ -39,21 +35,12 @@ public class NPCInfo : MonoBehaviour
         health -= value;
     }
 
-    public void UpdateInfoPanel()
-    {
-        InfoPanel.Instance.NPCTag.text = NPCName;
-        InfoPanel.Instance.HealthValue.text = health.ToString();
-    }
-
-    private void OnMouseUpAsButton()
-    {
-        InfoPanel.Instance.gameObject.SetActive(true);
-        UpdateInfoPanel();
-    }
-
     private void CheckTarget()
     {
-        if (target && target.invincible) target = null;
+        if (target && target.invincible)
+        {
+            target = null;
+        }
     }
     private void OnDisable()
     {

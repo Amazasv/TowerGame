@@ -4,12 +4,17 @@ using UnityEngine;
 
 public class AutoAttackSystem : MonoBehaviour
 {
+    public bool autoCast = true;
     public float attackSpeed = 1.0f;
     public bool animating = false;
     public List<AbilityBase> abilityList = new List<AbilityBase>();
 
-    private float cd = 0.0f;
-
+    private float m_CD = 0.0f;
+    public float cd
+    {
+        get { return m_CD; }
+        set { m_CD = Mathf.Clamp(value, 0.0f, attackSpeed); }
+    }
     private void Start()
     {
         SortAbilities();
@@ -17,14 +22,8 @@ public class AutoAttackSystem : MonoBehaviour
 
     private void Update()
     {
-        if (cd > 0.0f)
-        {
-            if (!animating) cd -= Time.deltaTime;
-        }
-        else
-        {
-            UseAbility();
-        }
+        if (!animating) cd -= Time.deltaTime;
+        if (cd == 0.0f && autoCast) UseAbility();
     }
 
     private void UseAbility()
@@ -34,6 +33,7 @@ public class AutoAttackSystem : MonoBehaviour
             {
                 cd = attackSpeed;
                 animating = true;
+                break;
             }
     }
 

@@ -50,7 +50,6 @@ public class ChargeAttack : AbilityBase
     public void SetWaitFalse()
     {
         moveable.MoveSpeed -= speed;
-        wait = false;
         moveable.arriveDelegate -= SetWaitFalse;
     }
 }

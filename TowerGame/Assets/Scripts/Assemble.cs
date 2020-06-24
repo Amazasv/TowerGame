@@ -22,6 +22,7 @@ public class Assemble : MonoBehaviour
             lastPosition = assembleLayout.transform.position;
             NPCinfo.target = null;
             NPCinfo.invincible = true;
+            GetComponent<AimBase>().enabled = false;
             moveable.arriveDelegate += SetInvincibleFalse;
         }
         if (NPCinfo.target == null) moveable.targetPos = assembleLayout.GetTargetPoint(this);
@@ -29,6 +30,7 @@ public class Assemble : MonoBehaviour
 
     private void SetInvincibleFalse()
     {
+        GetComponent<AimBase>().enabled = true;
         NPCinfo.invincible = false;
         moveable.arriveDelegate -= SetInvincibleFalse;
     }
