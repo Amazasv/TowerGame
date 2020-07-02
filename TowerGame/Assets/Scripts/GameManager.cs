@@ -20,7 +20,10 @@ public class GameManager : MonoBehaviour
         get { return m_currentSelected; }
         set
         {
-            if (m_currentSelected) m_currentSelected.UnSelectEvent?.Invoke();
+            if (m_currentSelected)
+            {
+                m_currentSelected.UnSelectEvent?.Invoke();
+            }
             m_currentSelected = value;
             if (m_currentSelected)
             {
@@ -43,7 +46,6 @@ public class GameManager : MonoBehaviour
             if (value < 0) GameOver();
         }
     }
-
     private void Awake()
     {
         if (Instance == null)
@@ -55,9 +57,16 @@ public class GameManager : MonoBehaviour
             Destroy(gameObject);
         }
     }
-
     public void GameOver()
     {
         Time.timeScale = 0.0f;
+    }
+
+    public static bool CheckHostile(string tag1,string tag2)
+    {
+        bool res = false;
+        if (tag1.Equals("Ally") && tag2.Equals("Enemy")) res = true;
+        if (tag1.Equals("Enemy") && tag2.Equals("Ally")) res = true;
+        return res;
     }
 }

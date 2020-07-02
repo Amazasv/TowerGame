@@ -19,6 +19,16 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 6624201234383226699, guid: 85a6f787b013c824c80ebaffd0edf54e,
         type: 3}
+    - target: {fileID: 236996535874926061, guid: 439f7b99486bec24d87f243b9dceef0b,
+        type: 3}
+      propertyPath: cost
+      value: 130
+      objectReference: {fileID: 0}
+    - target: {fileID: 236996535874926061, guid: 439f7b99486bec24d87f243b9dceef0b,
+        type: 3}
+      propertyPath: refund
+      value: 110
+      objectReference: {fileID: 0}
     - target: {fileID: 1352801655532374920, guid: 439f7b99486bec24d87f243b9dceef0b,
         type: 3}
       propertyPath: InfoPrefab
@@ -42,6 +52,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 5132629598503967168, guid: 55acbef0c17c7df4daf9402c1600f240,
         type: 3}
+    - target: {fileID: 8387749977618719576, guid: 439f7b99486bec24d87f243b9dceef0b,
+        type: 3}
+      propertyPath: RAG
+      value: 3.25
+      objectReference: {fileID: 0}
     - target: {fileID: 8814032799950960858, guid: 439f7b99486bec24d87f243b9dceef0b,
         type: 3}
       propertyPath: m_LocalPosition.x

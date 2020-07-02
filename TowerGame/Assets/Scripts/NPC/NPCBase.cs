@@ -14,7 +14,6 @@ public class NPCBase : MonoBehaviour
     public string NPCName = "";
     public float MaxHealth = 10.0f;
 
-    [SerializeField]
     private float m_Health = 10.0f;
     public float health
     {
@@ -46,9 +45,9 @@ public class NPCBase : MonoBehaviour
         }
     }
 
-
     public float armor = 0.0f;
     public float shield = 0.0f;
+    public float globalAttackMult = 0.0f;
     public bool invincible = false;
     private Animator anim = null;
     private Moveable moveable = null;
@@ -95,7 +94,19 @@ public class NPCBase : MonoBehaviour
             else Destroy(gameObject);
         }
     }
-    public void DealDmg(float value, DMGType type = DMGType.None)
+
+    public void DealDmg2Target(float value,NPCBase target,DMGType type=DMGType.None)
+    {
+        if (target) target.SufferDmg(value * (1.0f + globalAttackMult), type);
+    }
+
+    public void DealDmg2Target(float value, DMGType type = DMGType.None)
+    {
+        if (target) target.SufferDmg(value * (1.0f + globalAttackMult), type);
+    }
+
+
+    public void SufferDmg(float value, DMGType type = DMGType.None)
     {
         SendMessageUpwards("GetHit", SendMessageOptions.DontRequireReceiver);
         switch (type)

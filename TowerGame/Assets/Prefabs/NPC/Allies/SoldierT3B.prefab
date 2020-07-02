@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 241262aa8fe6b2d48a10d7b42d5de298, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  recoverRate: 0.5
-  recoverTime: 2
+  recoverRate: 0.1
+  recoverTime: 5
 --- !u!114 &3860086838369451058
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30,21 +30,9 @@ MonoBehaviour:
   attackAnim: 0.3
   castAnim: 0
   autoCastPriority: 0
-  AADmg: 1
-  RAG: 4
+  AADmg: 4
+  RAG: 1.5
   cmdCirclePrefab: {fileID: 0}
---- !u!114 &5916902235166464281
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5132629598503967168}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2968c9870a873ae4d9b25450874f94e2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &6332538446794323880
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -55,6 +43,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e5db7189f86283a4b92b7d57bbbba265, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &2085545848744038248
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5132629598503967168}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49c844a9b2c3eac4d94160f0695efc4a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1001 &696196790919684004
@@ -76,6 +76,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1088267802258783954, guid: aa0a92605050d4646aec2e9a3d70031f,
         type: 3}
+    - target: {fileID: 4731916002070142128, guid: 54e80fc15f220384b9645e6d1f5bedc2,
+        type: 3}
+      propertyPath: basicMovementSpeed
+      value: 0.8
+      objectReference: {fileID: 0}
     - target: {fileID: 5662045250176468580, guid: 54e80fc15f220384b9645e6d1f5bedc2,
         type: 3}
       propertyPath: m_Name
@@ -89,12 +94,17 @@ PrefabInstance:
     - target: {fileID: 6213378294685521995, guid: 54e80fc15f220384b9645e6d1f5bedc2,
         type: 3}
       propertyPath: MaxHealth
-      value: 30
+      value: 250
       objectReference: {fileID: 0}
     - target: {fileID: 6213378294685521995, guid: 54e80fc15f220384b9645e6d1f5bedc2,
         type: 3}
       propertyPath: m_Health
       value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 6213378294685521995, guid: 54e80fc15f220384b9645e6d1f5bedc2,
+        type: 3}
+      propertyPath: shield
+      value: 0.75
       objectReference: {fileID: 0}
     - target: {fileID: 6979781546941576731, guid: 54e80fc15f220384b9645e6d1f5bedc2,
         type: 3}

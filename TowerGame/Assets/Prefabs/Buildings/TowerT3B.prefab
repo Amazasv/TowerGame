@@ -20,7 +20,7 @@ MonoBehaviour:
     type: 3}
   DMG: 15
   stormAttackCount: 5
-  RAG: 4.5
+  RAG: 4
   cmdCirclePrefab: {fileID: 8547753435629759768, guid: fad0265fef576fb4c8c7342607b638f1,
     type: 3}
 --- !u!1001 &5988667160692575168
@@ -54,10 +54,30 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 6624201234383226699, guid: 27701bca9fc17fd4c9baa68015ce97f0,
         type: 3}
+    - target: {fileID: 1828029941707504552, guid: 7a71265d317e3e9488306dfcfda44d9c,
+        type: 3}
+      propertyPath: cost
+      value: 180
+      objectReference: {fileID: 0}
+    - target: {fileID: 1828029941707504552, guid: 7a71265d317e3e9488306dfcfda44d9c,
+        type: 3}
+      propertyPath: refund
+      value: 200
+      objectReference: {fileID: 0}
+    - target: {fileID: 3077227901969952386, guid: 7a71265d317e3e9488306dfcfda44d9c,
+        type: 3}
+      propertyPath: invincible
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3506032116536598652, guid: 7a71265d317e3e9488306dfcfda44d9c,
         type: 3}
       propertyPath: m_Name
       value: TowerT3B
+      objectReference: {fileID: 0}
+    - target: {fileID: 3528124884179870471, guid: 7a71265d317e3e9488306dfcfda44d9c,
+        type: 3}
+      propertyPath: attackSpeed
+      value: 1.5
       objectReference: {fileID: 0}
     - target: {fileID: 6937285868346783391, guid: 7a71265d317e3e9488306dfcfda44d9c,
         type: 3}

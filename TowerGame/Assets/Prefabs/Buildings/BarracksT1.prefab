@@ -19,6 +19,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 6624201234383226699, guid: af76ab828a65dee408de200dced0c09e,
         type: 3}
+    - target: {fileID: 236996535874926061, guid: 439f7b99486bec24d87f243b9dceef0b,
+        type: 3}
+      propertyPath: refund
+      value: 45
+      objectReference: {fileID: 0}
     - target: {fileID: 1352801655532374920, guid: 439f7b99486bec24d87f243b9dceef0b,
         type: 3}
       propertyPath: InfoPrefab
@@ -42,6 +47,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 5132629598503967168, guid: 5c47134ca32b1aa49866c333c3b177b7,
         type: 3}
+    - target: {fileID: 8387749977618719576, guid: 439f7b99486bec24d87f243b9dceef0b,
+        type: 3}
+      propertyPath: RAG
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 8814032799950960858, guid: 439f7b99486bec24d87f243b9dceef0b,
         type: 3}
       propertyPath: m_LocalPosition.x

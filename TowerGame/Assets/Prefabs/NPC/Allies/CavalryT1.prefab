@@ -24,8 +24,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 241262aa8fe6b2d48a10d7b42d5de298, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  recoverRate: 0.5
-  recoverTime: 2
+  recoverRate: 0.1
+  recoverTime: 5
 --- !u!114 &4801581648339136359
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -42,8 +42,8 @@ MonoBehaviour:
   attackAnim: 0.3
   castAnim: 0
   autoCastPriority: 1
-  AADmg: 1
-  RAG: 4
+  AADmg: 2
+  RAG: 1.5
   cmdCirclePrefab: {fileID: 0}
 --- !u!114 &6924798568102433540
 MonoBehaviour:
@@ -70,11 +70,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   abilityCD: 8
-  attackAnim: 0.05
+  attackAnim: 0
   castAnim: 0
   autoCastPriority: 0
   additonalSpeedMult: 0.4
-  ChargeDmg: 4
+  ChargeDmg: 3
   AOEPrefab: {fileID: 8437268649285114504, guid: b7693809416d462459876a9813670f9b,
     type: 3}
   RAG: 4
@@ -113,6 +113,11 @@ PrefabInstance:
       propertyPath: MoveSpeed
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 4731916002070142128, guid: 54e80fc15f220384b9645e6d1f5bedc2,
+        type: 3}
+      propertyPath: basicMovementSpeed
+      value: 1.75
+      objectReference: {fileID: 0}
     - target: {fileID: 5662045250176468580, guid: 54e80fc15f220384b9645e6d1f5bedc2,
         type: 3}
       propertyPath: m_Name
@@ -122,6 +127,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_TagString
       value: Ally
+      objectReference: {fileID: 0}
+    - target: {fileID: 6213378294685521995, guid: 54e80fc15f220384b9645e6d1f5bedc2,
+        type: 3}
+      propertyPath: MaxHealth
+      value: 50
       objectReference: {fileID: 0}
     - target: {fileID: 6979781546941576731, guid: 54e80fc15f220384b9645e6d1f5bedc2,
         type: 3}

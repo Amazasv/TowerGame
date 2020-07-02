@@ -37,7 +37,7 @@ public class OnagerAttack : AbilityBase
                 homingArrow.grounded += delegate
                 {
                     GameObject AOE = Instantiate(AOEPrefab, homingArrow.transform.position, Quaternion.identity, homingArrow.transform);
-                    AOE.GetComponent<AOEInstantDmg>().collisionEvent = InstantDMGDelegate;
+                    AOE.GetComponent<AOEBase>().OnEnter = InstantDMGDelegate;
                 };
             }
         }
@@ -59,8 +59,11 @@ public class OnagerAttack : AbilityBase
     }
     private void InstantDMGDelegate(Collider2D collision)
     {
-        NPCBase target = collision.GetComponent<NPCBase>();
-        if (target) target.DealDmg(AADmg, DMGType.None);
+        if (GameManager.CheckHostile(NPCinfo.tag, collision.tag))
+        {
+            NPCBase target = collision.GetComponent<NPCBase>();
+            NPCinfo.DealDmg2Target(AADmg, target, DMGType.None);
+        }
     }
     public override void ShowIndicator()
     {

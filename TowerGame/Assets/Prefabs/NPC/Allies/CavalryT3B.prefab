@@ -13,12 +13,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   abilityCD: 8
-  attackAnim: 0.1
+  attackAnim: 0
   castAnim: 0
   autoCastPriority: 0
   additonalSpeedMult: 0.4
-  ChargeDmg: 1
-  AOEPrefab: {fileID: 0}
+  ChargeDmg: 60
+  AOEPrefab: {fileID: 8437268649285114504, guid: b7693809416d462459876a9813670f9b,
+    type: 3}
   RAG: 4
   cmdCirclePrefab: {fileID: 0}
 --- !u!114 &-2604904323597105799
@@ -61,8 +62,8 @@ MonoBehaviour:
   attackAnim: 0.3
   castAnim: 0
   autoCastPriority: 1
-  AADmg: 1
-  RAG: 4
+  AADmg: 40
+  RAG: 1.5
   cmdCirclePrefab: {fileID: 0}
 --- !u!114 &7848503118631925991
 MonoBehaviour:
@@ -76,8 +77,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 241262aa8fe6b2d48a10d7b42d5de298, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  recoverRate: 0.5
-  recoverTime: 2
+  recoverRate: 0.1
+  recoverTime: 5
 --- !u!1001 &6697977934730359253
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -107,6 +108,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: -6523654346691220486, guid: 2e3fec377115f4345847d47f18b56fa7,
         type: 3}
+    - target: {fileID: 4731916002070142128, guid: 54e80fc15f220384b9645e6d1f5bedc2,
+        type: 3}
+      propertyPath: basicMovementSpeed
+      value: 1.5
+      objectReference: {fileID: 0}
     - target: {fileID: 5662045250176468580, guid: 54e80fc15f220384b9645e6d1f5bedc2,
         type: 3}
       propertyPath: m_Name
@@ -117,12 +123,22 @@ PrefabInstance:
       propertyPath: m_TagString
       value: Ally
       objectReference: {fileID: 0}
+    - target: {fileID: 6213378294685521995, guid: 54e80fc15f220384b9645e6d1f5bedc2,
+        type: 3}
+      propertyPath: MaxHealth
+      value: 300
+      objectReference: {fileID: 0}
     - target: {fileID: 6979781546941576731, guid: 54e80fc15f220384b9645e6d1f5bedc2,
         type: 3}
       propertyPath: m_Controller
       value: 
       objectReference: {fileID: 22100000, guid: 64c4fa47cf5b62a48a5ce75653b1a4d8,
         type: 2}
+    - target: {fileID: 7589570453359679857, guid: 54e80fc15f220384b9645e6d1f5bedc2,
+        type: 3}
+      propertyPath: attackSpeed
+      value: 0.8
+      objectReference: {fileID: 0}
     - target: {fileID: 8028380624368731689, guid: 54e80fc15f220384b9645e6d1f5bedc2,
         type: 3}
       propertyPath: m_AnchorMax.x
@@ -141,12 +157,12 @@ PrefabInstance:
     - target: {fileID: 8498797326471311282, guid: 54e80fc15f220384b9645e6d1f5bedc2,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -1.308
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8498797326471311282, guid: 54e80fc15f220384b9645e6d1f5bedc2,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.253
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8498797326471311282, guid: 54e80fc15f220384b9645e6d1f5bedc2,
         type: 3}

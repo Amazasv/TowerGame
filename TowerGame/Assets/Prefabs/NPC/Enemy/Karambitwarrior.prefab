@@ -16,9 +16,9 @@ MonoBehaviour:
   attackAnim: 0.3
   castAnim: 0
   autoCastPriority: 0
-  cd: 0
-  AutoSearchRAG: 0
   AADmg: 6
+  RAG: 1.5
+  cmdCirclePrefab: {fileID: 0}
 --- !u!1001 &2771914435918265501
 PrefabInstance:
   m_ObjectHideFlags: 0

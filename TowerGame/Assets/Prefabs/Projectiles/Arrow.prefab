@@ -12,8 +12,8 @@ GameObject:
   - component: {fileID: 2453645635539630130}
   - component: {fileID: 2453645635539630131}
   - component: {fileID: 2453645635539630128}
-  m_Layer: 0
-  m_Name: arrow
+  m_Layer: 1
+  m_Name: Arrow
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -27,7 +27,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2453645635539630140}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 6.74, y: -0.03, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -116,4 +116,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   destination: {fileID: 0}
   tangent: 4
-  hoverTime: 1.5
+  speed: 3

@@ -7,7 +7,7 @@ public class TowerBase : MonoBehaviour
     public GameObject IntroPrefab = null;
     public GameObject panelPrefab = null;
     public int cost = 20;
-
+    public int refund = 0;
     private void Awake()
     {
         GetComponent<SelectableGameObject>().OnClickEvent += ShowPanel;
@@ -31,10 +31,10 @@ public class TowerBase : MonoBehaviour
         AbilityBase abilityBase = GetComponent<AbilityBase>();
         if (abilityBase) abilityBase.ShowIndicator();
     }
-
     private void HideAbilityRAG()
     {
         AbilityBase abilityBase = GetComponent<AbilityBase>();
         if (abilityBase) abilityBase.HideIndicator();
     }
+
 }

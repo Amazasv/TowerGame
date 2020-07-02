@@ -16,11 +16,11 @@ MonoBehaviour:
   attackAnim: 0.3
   castAnim: 0
   autoCastPriority: 0
-  cd: 0
   arrowPrefab: {fileID: 2453645635539630140, guid: af6f3e94bff2c7e428b1e13d738f1ccc,
     type: 3}
-  AARAG: 4
-  AADmg: 6
+  AADmg: 8
+  RAG: 3
+  cmdCirclePrefab: {fileID: 0}
 --- !u!114 &6754163910512368048
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -43,7 +43,7 @@ PrefabInstance:
     - target: {fileID: 777334732678211998, guid: 9ebb878b653b4974992048afaa855d46,
         type: 3}
       propertyPath: MaxHealth
-      value: 50
+      value: 90
       objectReference: {fileID: 0}
     - target: {fileID: 777334732678211998, guid: 9ebb878b653b4974992048afaa855d46,
         type: 3}

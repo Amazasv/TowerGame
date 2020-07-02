@@ -39,7 +39,7 @@ public class StormAttack : AbilityBase
                 homingArrow.destination = NPCinfo.target.transform;
                 homingArrow.grounded += delegate
                 {
-                    if (NPCinfo.target) NPCinfo.target.DealDmg(DMG);
+                    NPCinfo.DealDmg2Target(DMG);//mark有问题
                 };
             }
         }

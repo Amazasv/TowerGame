@@ -5,13 +5,14 @@ using UnityEngine;
 public class ScorpionAttack : AbilityBase
 {
     public GameObject boltPrefab = null;
-    public GameObject AOEPrefab = null;
     public float PiercingDMG = 5.0f;
-    public float ExplodeDMG = 5.0f;
     public float RAG = 4.0f;
+    [SerializeField]
+    private float piercingDecline = 0.1f;
     [SerializeField]
     private GameObject cmdCirclePrefab = null;
 
+    private float piercingMult=1.0f;
     private GameObject cmdCircle = null;
     protected override void StartWaitEffect()
     {
@@ -24,16 +25,10 @@ public class ScorpionAttack : AbilityBase
         if (NPCinfo.target)
         {
             GameObject newProjectile = Instantiate(boltPrefab, transform.position, Quaternion.identity, transform);
-
             BallisticProjectile ballistic = newProjectile.GetComponent<BallisticProjectile>();
             ballistic.targetPos = transform.position + RAG * (NPCinfo.target.transform.position - transform.position).normalized;
-            ballistic.grounded += delegate
-            {
-                GameObject AOE = Instantiate(AOEPrefab, ballistic.transform.position, Quaternion.identity, ballistic.transform);
-                AOE.GetComponent<AOEInstantDmg>().collisionEvent = ExplodeDMGDelegate;
-            };
-
-            newProjectile.GetComponent<AOEInstantDmg>().collisionEvent = PiercingDMGDelegate;
+            newProjectile.GetComponent<AOEBase>().OnEnter = PiercingDMGDelegate;
+            piercingMult = 1.0f;
         }
         base.InstantEffect();
     }
@@ -54,13 +49,12 @@ public class ScorpionAttack : AbilityBase
 
     private void PiercingDMGDelegate(Collider2D collision)
     {
-        NPCBase target = collision.GetComponent<NPCBase>();
-        if (target) target.DealDmg(PiercingDMG, DMGType.None);
-    }
-    private void ExplodeDMGDelegate(Collider2D collision)
-    {
-        NPCBase target = collision.GetComponent<NPCBase>();
-        if (target) target.DealDmg(ExplodeDMG, DMGType.None);
+        if (GameManager.CheckHostile(NPCinfo.tag, collision.tag))
+        {
+            NPCBase target = collision.GetComponent<NPCBase>();
+            NPCinfo.DealDmg2Target(piercingMult*PiercingDMG, target, DMGType.None);
+            piercingMult -= piercingDecline;
+        }
     }
     public override void ShowIndicator()
     {

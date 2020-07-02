@@ -13,13 +13,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   abilityCD: 0
-  attackAnim: 0.3
+  attackAnim: 0
   castAnim: 0
   autoCastPriority: 0
   arrowPrefab: {fileID: 2453645635539630140, guid: af6f3e94bff2c7e428b1e13d738f1ccc,
     type: 3}
-  AADmg: 5
-  RAG: 4
+  AADmg: 10
+  RAG: 3.5
   cmdCirclePrefab: {fileID: 8547753435629759768, guid: fad0265fef576fb4c8c7342607b638f1,
     type: 3}
 --- !u!1001 &5988667160692575168
@@ -53,10 +53,30 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 6624201234383226699, guid: cdd1cb7cef17fdd4691000a570972c84,
         type: 3}
+    - target: {fileID: 1828029941707504552, guid: 7a71265d317e3e9488306dfcfda44d9c,
+        type: 3}
+      propertyPath: cost
+      value: 130
+      objectReference: {fileID: 0}
+    - target: {fileID: 1828029941707504552, guid: 7a71265d317e3e9488306dfcfda44d9c,
+        type: 3}
+      propertyPath: refund
+      value: 110
+      objectReference: {fileID: 0}
+    - target: {fileID: 3077227901969952386, guid: 7a71265d317e3e9488306dfcfda44d9c,
+        type: 3}
+      propertyPath: invincible
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3506032116536598652, guid: 7a71265d317e3e9488306dfcfda44d9c,
         type: 3}
       propertyPath: m_Name
       value: TowerT2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3528124884179870471, guid: 7a71265d317e3e9488306dfcfda44d9c,
+        type: 3}
+      propertyPath: attackSpeed
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 6937285868346783391, guid: 7a71265d317e3e9488306dfcfda44d9c,
         type: 3}

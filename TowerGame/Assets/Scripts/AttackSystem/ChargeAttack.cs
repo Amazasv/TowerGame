@@ -44,7 +44,7 @@ public class ChargeAttack : AbilityBase
         {
             GameObject AOE = Instantiate(AOEPrefab, transform);
             AOE.transform.Rotate(Vector3.forward, Vector2.SignedAngle(Vector3.right, moveable.dirVec));
-            AOE.GetComponent<AOEInstantDmg>().collisionEvent = InstantDMGDelegate;
+            AOE.GetComponent<AOEBase>().OnEnter = InstantDMGDelegate;
         }
     }
 
@@ -65,8 +65,11 @@ public class ChargeAttack : AbilityBase
 
     private void InstantDMGDelegate(Collider2D collision)
     {
-        NPCBase target = collision.GetComponent<NPCBase>();
-        if (target) target.DealDmg(ChargeDmg, DMGType.None);
+        if (GameManager.CheckHostile(NPCinfo.tag, collision.tag))
+        {
+            NPCBase target = collision.GetComponent<NPCBase>();
+            NPCinfo.DealDmg2Target(ChargeDmg, target, DMGType.None);
+        }
     }
     public override void ShowIndicator()
     {

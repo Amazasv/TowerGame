@@ -53,18 +53,6 @@ public abstract class AbilityBase : MonoBehaviour
 
     virtual public void ShowIndicator() { }
     virtual public void HideIndicator() { }
-    //public override void ShowIndicator()
-    //{
-    //    if (cmdCirclePrefab)
-    //    {
-    //        cmdCircle = Instantiate(cmdCirclePrefab, transform);
-    //        cmdCircle.transform.localScale = RAG * 2 * Vector2.one;
-    //    }
-    //}
-    //public override void HideIndicator()
-    //{
-    //    if (cmdCircle) Destroy(cmdCircle);
-    //}
     public bool Use()
     {
         if (cd == 0.0f && CheckTarget())

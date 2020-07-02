@@ -32,7 +32,7 @@ public class BasicMeleeAttack : AbilityBase
 
     protected override void InstantEffect()
     {
-        if (NPCinfo.target) NPCinfo.target.DealDmg(AADmg,DMGType.Melee);
+        NPCinfo.DealDmg2Target(AADmg, DMGType.Melee);
         base.InstantEffect();
     }
 

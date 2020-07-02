@@ -43,7 +43,11 @@ public class BtnBuildTower : MonoBehaviour
 
     private void Confirm()
     {
-        if (buildConstructor) buildConstructor.Build(towerPrefab);
+        if (buildConstructor)
+        {
+            if (towerPrefab.GetComponent<TowerBase>().cost == 0) buildConstructor.Refund();
+            buildConstructor.Build(towerPrefab);
+        }
         Cancel();
     }
 

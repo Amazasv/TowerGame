@@ -31,7 +31,7 @@ public class FireAA : AbilityBase
             {
                 if (NPCinfo.target)
                 {
-                    NPCinfo.target.DealDmg(AADmg);
+                    NPCinfo.DealDmg2Target(AADmg);
                     Burning burning = NPCinfo.target.gameObject.AddComponent<Burning>();
                     burning.duration = FireDuration;
                     burning.dps = FireDPS;

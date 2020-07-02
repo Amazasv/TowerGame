@@ -15,9 +15,24 @@ public class SelectableGameObject : MonoBehaviour, IPointerClickHandler
     {
         GameManager.Instance.CurrentSelected = this;
     }
-    private void Start()
+    private void Awake()
     {
-        OnClickEvent += delegate { if (InfoPrefab) info = Instantiate(InfoPrefab, GameManager.Instance.UICanvas); };
-        UnSelectEvent += delegate { if (info) Destroy(info); };
+        OnClickEvent += InstantiateNew;
+        UnSelectEvent += DestroyLast;
+    }
+
+    private void InstantiateNew()
+    {
+        if (InfoPrefab) info = Instantiate(InfoPrefab, GameManager.Instance.UICanvas);
+    }
+
+    private void DestroyLast()
+    {
+        if (info) Destroy(info);
+    }
+
+    private void OnDestroy()
+    {
+        if (GameManager.Instance.CurrentSelected == this) GameManager.Instance.CurrentSelected = null;
     }
 }

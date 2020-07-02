@@ -29,7 +29,7 @@ public class BasicRangeAttack : AbilityBase
             homingArrow.destination = NPCinfo.target.transform;
             homingArrow.grounded += delegate
             {
-                if (NPCinfo.target) NPCinfo.target.DealDmg(AADmg, DMGType.Range);
+                NPCinfo.DealDmg2Target(AADmg, homingArrow.destination.GetComponent<NPCBase>(), DMGType.Range);
             };
         }
         base.InstantEffect();

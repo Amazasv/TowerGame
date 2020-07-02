@@ -25,4 +25,8 @@ public class BuildingConstructor : MonoBehaviour
             GameManager.Instance.money -= tower.cost;
         }
     }
+    public void Refund()
+    {
+        GameManager.Instance.money += tower.refund;
+    }
 }

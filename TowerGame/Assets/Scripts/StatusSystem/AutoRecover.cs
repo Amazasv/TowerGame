@@ -7,11 +7,11 @@ using UnityEngine;
 public class AutoRecover : MonoBehaviour
 {
     [SerializeField]
-    private float recoverRate = 0.5f;
+    private float recoverRate = 0.2f;
     [SerializeField]
-    private float recoverTime = 2.0f;
+    private float recoverTime = 5.0f;
 
-    private float CD = 2.0f;
+    private float CD = 5.0f;
     private NPCBase NPCinfo = null;
     private void Awake()
     {
@@ -27,7 +27,7 @@ public class AutoRecover : MonoBehaviour
         else if (CD <= 0.0f)
         {
             if (NPCinfo.invincible) return;
-            NPCinfo.health = Mathf.Clamp(NPCinfo.health + recoverRate * Time.deltaTime, 0, NPCinfo.MaxHealth);
+            NPCinfo.health += recoverRate * Time.deltaTime * NPCinfo.MaxHealth;
         }
         else
         {

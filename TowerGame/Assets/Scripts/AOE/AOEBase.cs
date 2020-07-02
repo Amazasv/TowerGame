@@ -2,32 +2,32 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+public delegate void CollisionEvent(Collider2D collision);
 public class AOEBase : MonoBehaviour
 {
     public static float minnDuration = 0.1f;
 
     [SerializeField]
     protected float duratioin = 0.0f;
-    virtual public void InstantEffect(Collider2D collision) { }
-    virtual public void StayEffect(Collider2D collision) { }
-    virtual public void ExitEffect(Collider2D collision) { }
-    virtual public bool CheckTarget(Collider2D collision) { return true; }
-    private void Awake()
+    public CollisionEvent OnEnter;
+    public CollisionEvent OnStay;
+    public CollisionEvent OnExit;
+    private void Start()
     {
         duratioin = Mathf.Max(duratioin, minnDuration);
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (CheckTarget(collision)) InstantEffect(collision);
+        OnEnter?.Invoke(collision);
     }
     private void OnTriggerStay2D(Collider2D collision)
     {
-        if (CheckTarget(collision)) StayEffect(collision);
+        OnStay?.Invoke(collision);
     }
     private void OnTriggerExit2D(Collider2D collision)
     {
-        if (CheckTarget(collision)) ExitEffect(collision);
+        OnExit?.Invoke(collision);
     }
 
     private void LateUpdate()

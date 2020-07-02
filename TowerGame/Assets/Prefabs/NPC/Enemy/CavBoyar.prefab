@@ -16,9 +16,9 @@ MonoBehaviour:
   attackAnim: 0.3
   castAnim: 0
   autoCastPriority: 1
-  cd: 0
-  AutoSearchRAG: 2
   AADmg: 16
+  RAG: 1.5
+  cmdCirclePrefab: {fileID: 0}
 --- !u!114 &3396053187638256507
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -32,16 +32,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   abilityCD: 8
-  attackAnim: 0.3
+  attackAnim: 0
   castAnim: 0
   autoCastPriority: 0
-  cd: 0
-  speed: 3
-  AutoSearchRAG: 4
-  ChargeDmg: 16
+  additonalSpeedMult: 0.4
+  ChargeDmg: 20
   AOEPrefab: {fileID: 8437268649285114504, guid: b7693809416d462459876a9813670f9b,
     type: 3}
---- !u!114 &6754163910512368048
+  RAG: 4
+  cmdCirclePrefab: {fileID: 0}
+--- !u!114 &-3375439248976201521
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
