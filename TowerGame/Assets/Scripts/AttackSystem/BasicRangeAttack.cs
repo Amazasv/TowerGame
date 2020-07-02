@@ -5,9 +5,14 @@ using UnityEngine;
 public class BasicRangeAttack : AbilityBase
 {
     public GameObject arrowPrefab = null;
-    public float AARAG = 4.0f;
     public float AADmg = 1.0f;
+    public float RAG = 4.0f;
+    [SerializeField]
+    private GameObject cmdCirclePrefab = null;
 
+
+    private GameObject cmdCircle = null;
+    private Moveable moveable = null;
     protected override void StartWaitEffect()
     {
         EndWaitEffect();
@@ -18,12 +23,13 @@ public class BasicRangeAttack : AbilityBase
     {
         if (NPCinfo.target)
         {
+            if (moveable) moveable.targetPos = transform.position;
             GameObject newArrow = Instantiate(arrowPrefab, transform.position, Quaternion.identity);
             HomingArrow homingArrow = newArrow.GetComponent<HomingArrow>();
             homingArrow.destination = NPCinfo.target.transform;
             homingArrow.grounded += delegate
             {
-                if (NPCinfo.target) NPCinfo.target.DealDmg(AADmg);
+                if (NPCinfo.target) NPCinfo.target.DealDmg(AADmg, DMGType.Range);
             };
         }
         base.InstantEffect();
@@ -31,7 +37,7 @@ public class BasicRangeAttack : AbilityBase
 
     public override bool CheckTarget()
     {
-        return (NPCinfo.target && Vector3.Distance(transform.position, NPCinfo.target.transform.position) < AARAG);
+        return (NPCinfo.target && Vector3.Distance(transform.position, NPCinfo.target.transform.position) < RAG);
     }
     protected override void EndWaitEffect()
     {
@@ -41,5 +47,23 @@ public class BasicRangeAttack : AbilityBase
             anim.SetFloat("Vertical", (NPCinfo.target.transform.position - transform.position).y);
         }
         base.EndWaitEffect();
+    }
+
+    protected override void UpdateREF()
+    {
+        base.UpdateREF();
+        moveable = GetComponent<Moveable>();
+    }
+    public override void ShowIndicator()
+    {
+        if (cmdCirclePrefab)
+        {
+            cmdCircle = Instantiate(cmdCirclePrefab, transform);
+            cmdCircle.transform.localScale = RAG * 2 * Vector2.one;
+        }
+    }
+    public override void HideIndicator()
+    {
+        if (cmdCircle) Destroy(cmdCircle);
     }
 }

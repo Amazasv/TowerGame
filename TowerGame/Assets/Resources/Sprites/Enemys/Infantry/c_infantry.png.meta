@@ -1,0 +1,5852 @@
+fileFormatVersion: 2
+guid: 01833ac810416904d95cc7be65eab4e7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6401378950807656175
+    second: u_inf_samurai_decayA_x1_001
+  - first:
+      213: -3368380893502189803
+    second: u_inf_samurai_decayA_x1_002
+  - first:
+      213: -5484133608979023763
+    second: u_inf_samurai_decayA_x1_003
+  - first:
+      213: 4074538787368885056
+    second: u_inf_samurai_decayA_x1_004
+  - first:
+      213: 2682001215125318819
+    second: u_inf_samurai_decayA_x1_005
+  - first:
+      213: 7657137561500382925
+    second: u_inf_samurai_decayA_x1_006
+  - first:
+      213: -5183237373913912550
+    second: u_inf_samurai_decayA_x1_007
+  - first:
+      213: 5741585920265098938
+    second: u_inf_samurai_decayA_x1_008
+  - first:
+      213: 2768401683257846027
+    second: u_inf_samurai_decayA_x1_009
+  - first:
+      213: 5301595506835639950
+    second: u_inf_samurai_decayA_x1_010
+  - first:
+      213: -8911557530950092822
+    second: u_inf_samurai_decayA_x1_011
+  - first:
+      213: -3667654999207322586
+    second: u_inf_samurai_decayA_x1_012
+  - first:
+      213: -7340268315794773921
+    second: u_inf_samurai_decayA_x1_013
+  - first:
+      213: 7038675480247203089
+    second: u_inf_samurai_decayA_x1_014
+  - first:
+      213: -5286189254238795795
+    second: u_inf_samurai_decayA_x1_015
+  - first:
+      213: 5669584018917397980
+    second: u_inf_samurai_decayA_x1_016
+  - first:
+      213: 6571206117630565140
+    second: u_inf_samurai_decayA_x1_017
+  - first:
+      213: 5791048288127902149
+    second: u_inf_samurai_decayA_x1_018
+  - first:
+      213: 3355782540916391606
+    second: u_inf_samurai_decayA_x1_019
+  - first:
+      213: -679418509862406752
+    second: u_inf_samurai_decayA_x1_020
+  - first:
+      213: 6037537879394492872
+    second: u_inf_samurai_decayA_x1_021
+  - first:
+      213: -1921914540967102669
+    second: u_inf_samurai_decayA_x1_022
+  - first:
+      213: -3951587890341317211
+    second: u_inf_samurai_decayA_x1_023
+  - first:
+      213: 3010320028165787373
+    second: u_inf_samurai_decayA_x1_024
+  - first:
+      213: -3181786998716955361
+    second: u_inf_samurai_decayA_x1_025
+  - first:
+      213: 2739688533955028257
+    second: u_inf_samurai_decayA_x1_026
+  - first:
+      213: 5338002817911666655
+    second: u_inf_samurai_decayA_x1_027
+  - first:
+      213: 8162651500209868043
+    second: u_inf_samurai_decayA_x1_028
+  - first:
+      213: -8492303616226423070
+    second: u_inf_samurai_decayA_x1_029
+  - first:
+      213: -4837242952681509166
+    second: u_inf_samurai_decayA_x1_030
+  - first:
+      213: 8499918079603647039
+    second: u_inf_samurai_decayA_x1_031
+  - first:
+      213: 3558137442289464784
+    second: u_inf_samurai_decayA_x1_032
+  - first:
+      213: -5536475305261971290
+    second: u_inf_samurai_decayA_x1_033
+  - first:
+      213: 1006914357893297258
+    second: u_inf_samurai_decayA_x1_034
+  - first:
+      213: -906951591497332365
+    second: u_inf_samurai_decayA_x1_035
+  - first:
+      213: -8607312410679848533
+    second: u_inf_samurai_decayA_x1_036
+  - first:
+      213: 1899691569413984047
+    second: u_inf_samurai_decayA_x1_037
+  - first:
+      213: 5841611062060510578
+    second: u_inf_samurai_decayA_x1_038
+  - first:
+      213: 6027945060956384635
+    second: u_inf_samurai_decayA_x1_039
+  - first:
+      213: 4705891398092858556
+    second: u_inf_samurai_decayA_x1_040
+  - first:
+      213: 2343347330752125214
+    second: u_inf_samurai_decayA_x1_041
+  - first:
+      213: -1877006455234253489
+    second: u_inf_samurai_decayA_x1_042
+  - first:
+      213: -5728439622567188121
+    second: u_inf_samurai_decayA_x1_043
+  - first:
+      213: -9189980468107937668
+    second: u_inf_samurai_decayA_x1_044
+  - first:
+      213: 5737450452177371367
+    second: u_inf_samurai_decayA_x1_045
+  - first:
+      213: 8270633823957894586
+    second: u_inf_samurai_decayA_x1_046
+  - first:
+      213: -7351051451742868941
+    second: u_inf_samurai_decayA_x1_047
+  - first:
+      213: -8608431387857160091
+    second: u_inf_samurai_decayA_x1_048
+  - first:
+      213: -23129707957090584
+    second: u_inf_samurai_decayA_x1_049
+  - first:
+      213: -5120985019660265396
+    second: u_inf_samurai_decayA_x1_050
+  - first:
+      213: -5378152343691234057
+    second: u_inf_samurai_decayA_x1_051
+  - first:
+      213: 2263485356120961624
+    second: u_inf_samurai_decayA_x1_052
+  - first:
+      213: -579010945480278639
+    second: u_inf_samurai_decayA_x1_053
+  - first:
+      213: 1298049471835839252
+    second: u_inf_samurai_decayA_x1_054
+  - first:
+      213: -8706626527434206861
+    second: u_inf_samurai_decayA_x1_055
+  - first:
+      213: -8608863993534090179
+    second: u_inf_samurai_decayA_x1_056
+  - first:
+      213: -9060586157972551550
+    second: u_inf_samurai_decayA_x1_057
+  - first:
+      213: -7064973947762474983
+    second: u_inf_samurai_decayA_x1_058
+  - first:
+      213: -2318740351392415388
+    second: u_inf_samurai_decayA_x1_059
+  - first:
+      213: 674227779166214891
+    second: u_inf_samurai_decayA_x1_060
+  - first:
+      213: 734127791436533041
+    second: u_inf_samurai_decayA_x1_061
+  - first:
+      213: -2366070912662100374
+    second: u_inf_samurai_decayA_x1_062
+  - first:
+      213: -5321979405921422317
+    second: u_inf_samurai_decayA_x1_063
+  - first:
+      213: -4850218590269103179
+    second: u_inf_samurai_decayA_x1_064
+  - first:
+      213: -8790405535269288679
+    second: u_inf_samurai_decayA_x1_065
+  - first:
+      213: -2370513233679085541
+    second: u_inf_samurai_decayA_x1_066
+  - first:
+      213: 7278677903379275232
+    second: u_inf_samurai_decayA_x1_067
+  - first:
+      213: -6396320634910973748
+    second: u_inf_samurai_decayA_x1_068
+  - first:
+      213: -1848516651717494595
+    second: u_inf_samurai_decayA_x1_069
+  - first:
+      213: 9116457971753048839
+    second: u_inf_samurai_decayA_x1_070
+  - first:
+      213: 283963134053748950
+    second: u_inf_samurai_decayA_x1_071
+  - first:
+      213: -1288518058245462249
+    second: u_inf_samurai_decayA_x1_072
+  - first:
+      213: 5395092143858325953
+    second: u_inf_samurai_decayA_x1_073
+  - first:
+      213: 1954382379962927406
+    second: u_inf_samurai_decayA_x1_074
+  - first:
+      213: 3783829661203367033
+    second: u_inf_samurai_decayA_x1_075
+  - first:
+      213: 8394963561605761613
+    second: u_inf_samurai_decayA_x1_076
+  - first:
+      213: 6116776047436172301
+    second: u_inf_samurai_decayA_x1_077
+  - first:
+      213: -49917574881462643
+    second: u_inf_samurai_decayA_x1_078
+  - first:
+      213: -577648042977950904
+    second: u_inf_samurai_decayA_x1_079
+  - first:
+      213: -7743063733037740150
+    second: u_inf_samurai_decayA_x1_080
+  - first:
+      213: 9029445206208575197
+    second: u_inf_samurai_decayA_x1_081
+  - first:
+      213: -8529604066754127389
+    second: u_inf_samurai_decayA_x1_082
+  - first:
+      213: 8476372534886628375
+    second: u_inf_samurai_decayA_x1_083
+  - first:
+      213: -4563722709457387043
+    second: u_inf_samurai_decayA_x1_084
+  - first:
+      213: -6762230628292917240
+    second: u_inf_samurai_decayA_x1_085
+  - first:
+      213: 8140408531182433028
+    second: u_inf_samurai_decayA_x1_086
+  - first:
+      213: -8190604060495725948
+    second: u_inf_samurai_decayA_x1_087
+  - first:
+      213: -9205767957379683987
+    second: u_inf_samurai_decayA_x1_088
+  - first:
+      213: 459748495821834549
+    second: u_inf_samurai_decayA_x1_089
+  - first:
+      213: 7977272637776328302
+    second: u_inf_samurai_decayA_x1_090
+  - first:
+      213: 3950067953763446595
+    second: u_inf_samurai_decayA_x1_091
+  - first:
+      213: -7649374040861185019
+    second: u_inf_samurai_decayA_x1_092
+  - first:
+      213: -7812752826277531574
+    second: u_inf_samurai_decayA_x1_093
+  - first:
+      213: 6892143077112064799
+    second: u_inf_samurai_decayA_x1_094
+  - first:
+      213: 1598076198376535032
+    second: u_inf_samurai_decayA_x1_095
+  - first:
+      213: 8128578827060409257
+    second: u_inf_samurai_decayA_x1_096
+  - first:
+      213: 7320441263173356630
+    second: u_inf_samurai_decayA_x1_097
+  - first:
+      213: -2154462383689935354
+    second: u_inf_samurai_decayA_x1_098
+  - first:
+      213: -1839380344669595778
+    second: u_inf_samurai_decayA_x1_099
+  - first:
+      213: 9175118385817604325
+    second: u_inf_samurai_decayA_x1_100
+  - first:
+      213: -6646905386446486680
+    second: u_inf_samurai_decayA_x1_101
+  - first:
+      213: 6760773425723826380
+    second: u_inf_samurai_decayA_x1_102
+  - first:
+      213: -1127890935346354147
+    second: u_inf_samurai_decayA_x1_103
+  - first:
+      213: 913205592376504423
+    second: u_inf_samurai_decayA_x1_104
+  - first:
+      213: 1914912388960090790
+    second: u_inf_samurai_decayA_x1_105
+  - first:
+      213: 5105509081164460875
+    second: u_inf_samurai_decayA_x1_106
+  - first:
+      213: 4284569162308468565
+    second: u_inf_samurai_decayA_x1_107
+  - first:
+      213: -4259544317147370338
+    second: u_inf_samurai_decayA_x1_108
+  - first:
+      213: 734306851828100458
+    second: u_inf_samurai_decayA_x1_109
+  - first:
+      213: -240033449065717653
+    second: u_inf_samurai_decayA_x1_110
+  - first:
+      213: 2527906392421277755
+    second: u_inf_samurai_decayA_x1_111
+  - first:
+      213: 4098698940546661796
+    second: u_inf_samurai_decayA_x1_112
+  - first:
+      213: -1914950027273992667
+    second: u_inf_samurai_decayA_x1_113
+  - first:
+      213: -3127995666813820284
+    second: u_inf_samurai_decayA_x1_114
+  - first:
+      213: 420435724106890643
+    second: u_inf_samurai_decayA_x1_115
+  - first:
+      213: 7532716797457926728
+    second: u_inf_samurai_decayA_x1_116
+  - first:
+      213: -1060323080551314973
+    second: u_inf_samurai_decayA_x1_117
+  - first:
+      213: -1946984583931823588
+    second: u_inf_samurai_decayA_x1_118
+  - first:
+      213: 5921503762449292696
+    second: u_inf_samurai_decayA_x1_119
+  - first:
+      213: -8400327898279935626
+    second: u_inf_samurai_decayA_x1_120
+  - first:
+      213: 4928025281189483508
+    second: u_inf_samurai_decayA_x1_121
+  - first:
+      213: -568598844079115481
+    second: u_inf_samurai_decayA_x1_122
+  - first:
+      213: -7452158719136435797
+    second: u_inf_samurai_decayA_x1_123
+  - first:
+      213: 8693791313035581583
+    second: u_inf_samurai_decayA_x1_124
+  - first:
+      213: 8179398200872367215
+    second: u_inf_samurai_decayA_x1_125
+  - first:
+      213: 330665942511379066
+    second: u_inf_samurai_decayA_x1_126
+  - first:
+      213: 4465245616027127249
+    second: u_inf_samurai_decayA_x1_127
+  - first:
+      213: -766554128787055326
+    second: u_inf_samurai_decayA_x1_128
+  - first:
+      213: -6392025453119962765
+    second: u_inf_samurai_decayA_x1_129
+  - first:
+      213: 2850552370165799674
+    second: u_inf_samurai_decayA_x1_130
+  - first:
+      213: 4603697306490625730
+    second: u_inf_samurai_decayA_x1_131
+  - first:
+      213: 2622499101134597480
+    second: u_inf_samurai_decayA_x1_132
+  - first:
+      213: 7638106333705522477
+    second: u_inf_samurai_decayA_x1_133
+  - first:
+      213: 827481617477972846
+    second: u_inf_samurai_decayA_x1_134
+  - first:
+      213: 7009545916634650620
+    second: u_inf_samurai_decayA_x1_135
+  - first:
+      213: 2972131649686944525
+    second: u_inf_samurai_decayA_x1_136
+  - first:
+      213: 6072977939579153035
+    second: u_inf_samurai_decayA_x1_137
+  - first:
+      213: -6542652864864526544
+    second: u_inf_samurai_decayA_x1_138
+  - first:
+      213: -6859627170209581528
+    second: u_inf_samurai_decayA_x1_139
+  - first:
+      213: -5590419714665598225
+    second: u_inf_samurai_decayA_x1_140
+  - first:
+      213: -7906618388134871609
+    second: u_inf_samurai_decayA_x1_141
+  - first:
+      213: 8061847580031508754
+    second: u_inf_samurai_decayA_x1_142
+  - first:
+      213: 4042232296739450678
+    second: u_inf_samurai_decayA_x1_143
+  - first:
+      213: -2624329115664884754
+    second: u_inf_samurai_decayA_x1_144
+  - first:
+      213: 7838402944091299456
+    second: u_inf_samurai_decayA_x1_145
+  - first:
+      213: -3281207061685180011
+    second: u_inf_samurai_decayA_x1_146
+  - first:
+      213: -122551357782488704
+    second: u_inf_samurai_decayA_x1_147
+  - first:
+      213: -5230468455778137317
+    second: u_inf_samurai_decayA_x1_148
+  - first:
+      213: -9033737610943070588
+    second: u_inf_samurai_decayA_x1_149
+  - first:
+      213: -8035309468262880289
+    second: u_inf_samurai_decayA_x1_150
+  - first:
+      213: -6261251458753400976
+    second: u_inf_samurai_decayA_x1_151
+  - first:
+      213: -7862889959884480469
+    second: u_inf_samurai_decayA_x1_152
+  - first:
+      213: -5989788491478475428
+    second: u_inf_samurai_decayA_x1_153
+  - first:
+      213: -3409152804174233924
+    second: u_inf_samurai_decayA_x1_154
+  - first:
+      213: -1892200166469272671
+    second: u_inf_samurai_decayA_x1_155
+  - first:
+      213: -7213620747044509097
+    second: u_inf_samurai_decayA_x1_156
+  - first:
+      213: 7939298463105063152
+    second: u_inf_samurai_decayA_x1_157
+  - first:
+      213: -7578771493623160263
+    second: u_inf_samurai_decayA_x1_158
+  - first:
+      213: 2730997161981597393
+    second: u_inf_samurai_decayA_x1_159
+  - first:
+      213: -2935064122352743818
+    second: u_inf_samurai_decayA_x1_160
+  - first:
+      213: 3539113651946783015
+    second: u_inf_samurai_decayA_x1_161
+  - first:
+      213: -4846800821660242338
+    second: u_inf_samurai_decayA_x1_162
+  - first:
+      213: 2450655745464906607
+    second: u_inf_samurai_decayA_x1_163
+  - first:
+      213: 4866692600293796237
+    second: u_inf_samurai_decayA_x1_164
+  - first:
+      213: 6141946916608911930
+    second: u_inf_samurai_decayA_x1_165
+  - first:
+      213: -9040189670494581969
+    second: u_inf_samurai_decayA_x1_166
+  - first:
+      213: 719718663144393714
+    second: u_inf_samurai_decayA_x1_167
+  - first:
+      213: -1665812932994044652
+    second: u_inf_samurai_decayA_x1_168
+  - first:
+      213: -6787897830421535490
+    second: u_inf_samurai_decayA_x1_169
+  - first:
+      213: 1349515903144332046
+    second: u_inf_samurai_decayA_x1_170
+  - first:
+      213: 2680711237310197966
+    second: u_inf_samurai_decayA_x1_171
+  - first:
+      213: -3654645997586188722
+    second: u_inf_samurai_decayA_x1_172
+  - first:
+      213: -7925688755684981823
+    second: u_inf_samurai_decayA_x1_173
+  - first:
+      213: -8626014885672615382
+    second: u_inf_samurai_decayA_x1_174
+  - first:
+      213: 6339923467782597005
+    second: u_inf_samurai_decayA_x1_175
+  - first:
+      213: 5448740517055489714
+    second: u_inf_samurai_decayA_x1_176
+  - first:
+      213: 8125281233993337505
+    second: u_inf_samurai_decayA_x1_177
+  - first:
+      213: -4283297721389835893
+    second: u_inf_samurai_decayA_x1_178
+  - first:
+      213: -5493156916621363209
+    second: u_inf_samurai_decayA_x1_179
+  - first:
+      213: -1735614781075416940
+    second: u_inf_samurai_decayA_x1_180
+  - first:
+      213: 2789475330764654279
+    second: u_inf_samurai_decayA_x1_181
+  - first:
+      213: 8241528188771363126
+    second: u_inf_samurai_decayA_x1_182
+  - first:
+      213: 4810127872735991745
+    second: u_inf_samurai_decayA_x1_183
+  - first:
+      213: 312824634835088194
+    second: u_inf_samurai_decayA_x1_184
+  - first:
+      213: -3191505827062446835
+    second: u_inf_samurai_decayA_x1_185
+  - first:
+      213: 4419743446055416888
+    second: u_inf_samurai_decayA_x1_186
+  - first:
+      213: -9077860480819780412
+    second: u_inf_samurai_decayA_x1_187
+  - first:
+      213: 5577760426600465994
+    second: u_inf_samurai_decayA_x1_188
+  - first:
+      213: -8833448975453919903
+    second: u_inf_samurai_decayA_x1_189
+  - first:
+      213: -6408211640538588991
+    second: u_inf_samurai_decayA_x1_190
+  - first:
+      213: 8511539168540473245
+    second: u_inf_samurai_decayA_x1_191
+  - first:
+      213: -3192468281782035552
+    second: u_inf_samurai_decayA_x1_192
+  - first:
+      213: -6548561216717492025
+    second: u_inf_samurai_decayA_x1_193
+  - first:
+      213: 5188922685617015604
+    second: u_inf_samurai_decayA_x1_194
+  - first:
+      213: 6860589159962797887
+    second: u_inf_samurai_decayA_x1_195
+  - first:
+      213: -4459653132777265913
+    second: u_inf_samurai_decayA_x1_196
+  - first:
+      213: 1309695743627104060
+    second: u_inf_samurai_decayA_x1_197
+  - first:
+      213: -8056345263046987818
+    second: u_inf_samurai_decayA_x1_198
+  - first:
+      213: 2835760599693884952
+    second: u_inf_samurai_decayA_x1_199
+  - first:
+      213: 1908353783385720297
+    second: u_inf_samurai_decayA_x1_200
+  - first:
+      213: -3322798373705562198
+    second: u_inf_samurai_decayA_x1_201
+  - first:
+      213: -8724768951454968727
+    second: u_inf_samurai_decayA_x1_202
+  - first:
+      213: -142149086332223189
+    second: u_inf_samurai_decayA_x1_203
+  - first:
+      213: 6379166856827282177
+    second: u_inf_samurai_decayA_x1_204
+  - first:
+      213: 4303251865094284339
+    second: u_inf_samurai_decayA_x1_205
+  - first:
+      213: -758993710558055150
+    second: u_inf_samurai_decayA_x1_206
+  - first:
+      213: -7025942599835360756
+    second: u_inf_samurai_decayA_x1_207
+  - first:
+      213: 4037447270406297240
+    second: u_inf_samurai_decayA_x1_208
+  - first:
+      213: -2394628227499153591
+    second: u_inf_samurai_decayA_x1_209
+  - first:
+      213: 7140577329292232946
+    second: u_inf_samurai_decayA_x1_210
+  - first:
+      213: -7265011044137368119
+    second: u_inf_samurai_decayA_x1_211
+  - first:
+      213: -6787531396531176404
+    second: u_inf_samurai_decayA_x1_212
+  - first:
+      213: -8954754748970377680
+    second: u_inf_samurai_decayA_x1_213
+  - first:
+      213: -462984378563320464
+    second: u_inf_samurai_decayA_x1_214
+  - first:
+      213: 3499489315199686411
+    second: u_inf_samurai_decayA_x1_215
+  - first:
+      213: 7376291138461735055
+    second: u_inf_samurai_decayA_x1_216
+  - first:
+      213: -8843078108293034710
+    second: u_inf_samurai_decayA_x1_217
+  - first:
+      213: -2268466620387641123
+    second: u_inf_samurai_decayA_x1_218
+  - first:
+      213: -4245516592463586223
+    second: u_inf_samurai_decayA_x1_219
+  - first:
+      213: -1234612401007458579
+    second: u_inf_samurai_decayA_x1_220
+  - first:
+      213: -2638967421530523177
+    second: u_inf_samurai_decayA_x1_221
+  - first:
+      213: 4336978214056034580
+    second: u_inf_samurai_decayA_x1_222
+  - first:
+      213: 1428727637634445631
+    second: u_inf_samurai_decayA_x1_223
+  - first:
+      213: -641976986547083205
+    second: u_inf_samurai_decayA_x1_224
+  - first:
+      213: -5460920107465719290
+    second: u_inf_samurai_decayA_x1_225
+  - first:
+      213: 1670077500454963308
+    second: u_inf_samurai_decayA_x1_226
+  - first:
+      213: -8314849291244446389
+    second: u_inf_samurai_decayA_x1_227
+  - first:
+      213: -3640995058164946007
+    second: u_inf_samurai_decayA_x1_228
+  - first:
+      213: -9177267144673333136
+    second: u_inf_samurai_decayA_x1_229
+  - first:
+      213: -8804808757931636753
+    second: u_inf_samurai_decayA_x1_230
+  - first:
+      213: -8925534477950126840
+    second: u_inf_samurai_decayA_x1_231
+  - first:
+      213: 5598190262150828380
+    second: u_inf_samurai_decayA_x1_232
+  - first:
+      213: 2540187849382540701
+    second: u_inf_samurai_decayA_x1_233
+  - first:
+      213: 884767442434879391
+    second: u_inf_samurai_decayA_x1_234
+  - first:
+      213: -2030898960357249165
+    second: u_inf_samurai_decayA_x1_235
+  - first:
+      213: 6295215684495381796
+    second: u_inf_samurai_decayA_x1_236
+  - first:
+      213: 1376184212025933081
+    second: u_inf_samurai_decayA_x1_237
+  - first:
+      213: 8341674069920507487
+    second: u_inf_samurai_decayA_x1_238
+  - first:
+      213: 1393198672944426900
+    second: u_inf_samurai_decayA_x1_239
+  - first:
+      213: 5402980713987003373
+    second: u_inf_samurai_decayA_x1_240
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_001
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 350
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe69d836d3446d850800000000000000
+      internalID: 6401378950807656175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_002
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 327
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51fc69e7c6b1141d0800000000000000
+      internalID: -3368380893502189803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_003
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 319
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d683600f98174e3b0800000000000000
+      internalID: -5484133608979023763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_004
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 258
+        width: 52
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5185185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b5ca4707bab8830800000000000000
+      internalID: 4074538787368885056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_005
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 255
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ace5b235e1683520800000000000000
+      internalID: 2682001215125318819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_006
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 200
+        width: 41
+        height: 24
+      alignment: 9
+      pivot: {x: 0.47560975, y: 0.5416667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6f78dfa0e934a60800000000000000
+      internalID: 7657137561500382925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_007
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 133
+        width: 26
+        height: 19
+      alignment: 9
+      pivot: {x: 0.25, y: 0.6315789}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b255502117118b0800000000000000
+      internalID: -5183237373913912550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_008
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 233
+        width: 27
+        height: 18
+      alignment: 9
+      pivot: {x: 0.3888889, y: 0.6111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab619c869f53eaf40800000000000000
+      internalID: 5741585920265098938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_009
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 185
+        width: 13
+        height: 13
+      alignment: 9
+      pivot: {x: 0.03846154, y: 0.7692308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b096d2ec9a65b6620800000000000000
+      internalID: 2768401683257846027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_010
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 444
+        width: 9
+        height: 10
+      alignment: 9
+      pivot: {x: -0.33333334, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ecebf360d039940800000000000000
+      internalID: 5301595506835639950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_011
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 297
+        width: 9
+        height: 9
+      alignment: 9
+      pivot: {x: -0.33333334, y: 1.1111112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7334c14a9c35480800000000000000
+      internalID: -8911557530950092822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_012
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 181
+        width: 13
+        height: 13
+      alignment: 9
+      pivot: {x: 0.115384616, y: 0.7692308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62cdf85d53fd91dc0800000000000000
+      internalID: -3667654999207322586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_013
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 196
+        width: 7
+        height: 5
+      alignment: 9
+      pivot: {x: -0.5714286, y: 1.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f586ff07bd0222a90800000000000000
+      internalID: -7340268315794773921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_014
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 248
+        width: 14
+        height: 7
+      alignment: 9
+      pivot: {x: 0.21428572, y: 1.3571428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115f2698e066ea160800000000000000
+      internalID: 7038675480247203089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_015
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 467
+        width: 5
+        height: 3
+      alignment: 9
+      pivot: {x: -1.2, y: 3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de70c9571eea3a6b0800000000000000
+      internalID: -5286189254238795795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_016
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 431
+        width: 61
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd59dcf50a86eae40800000000000000
+      internalID: 5669584018917397980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_017
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 364
+        width: 60
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b5e33f52d913b50800000000000000
+      internalID: 6571206117630565140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_018
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 447
+        width: 59
+        height: 34
+      alignment: 9
+      pivot: {x: 0.4915254, y: 0.5441176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c16ffa5cbfed5050800000000000000
+      internalID: 5791048288127902149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_019
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 313
+        width: 55
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be77c6f072229e20800000000000000
+      internalID: 3355782540916391606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_020
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 237
+        width: 47
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6296296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a573d907783296f0800000000000000
+      internalID: -679418509862406752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_021
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 141
+        width: 31
+        height: 27
+      alignment: 9
+      pivot: {x: 0.37096775, y: 0.6111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1264b86b4a9c350800000000000000
+      internalID: 6037537879394492872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_022
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 141
+        width: 31
+        height: 22
+      alignment: 9
+      pivot: {x: 0.41935483, y: 0.70454544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3377ff068ecf355e0800000000000000
+      internalID: -1921914540967102669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_023
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 270
+        width: 16
+        height: 17
+      alignment: 9
+      pivot: {x: 0.0625, y: 0.8235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5787900c32929c0800000000000000
+      internalID: -3951587890341317211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_024
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 448
+        width: 10
+        height: 12
+      alignment: 9
+      pivot: {x: -0.25, y: 1.0416666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deec013cd1ec6c920800000000000000
+      internalID: 3010320028165787373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_025
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 289
+        width: 16
+        height: 20
+      alignment: 9
+      pivot: {x: 0.1875, y: 0.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15058e159508d3d0800000000000000
+      internalID: -3181786998716955361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_026
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 218
+        width: 10
+        height: 8
+      alignment: 9
+      pivot: {x: -0.25, y: 1.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125a995c434550620800000000000000
+      internalID: 2739688533955028257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_027
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 209
+        width: 10
+        height: 7
+      alignment: 9
+      pivot: {x: -0.25, y: 1.7142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7b8abe745641a40800000000000000
+      internalID: 5338002817911666655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_028
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 63
+        width: 9
+        height: 5
+      alignment: 9
+      pivot: {x: -0.3888889, y: 2.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d8157ba40974170800000000000000
+      internalID: 8162651500209868043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_029
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 432
+        width: 6
+        height: 4
+      alignment: 9
+      pivot: {x: -0.9166667, y: 2.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee0f0eead6452a80800000000000000
+      internalID: -8492303616226423070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_030
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 423
+        width: 5
+        height: 3
+      alignment: 9
+      pivot: {x: -1.3, y: 3.8333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de2821d929aedcb0800000000000000
+      internalID: -4837242952681509166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_031
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 371
+        width: 58
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6216216}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3222ba7576c5f570800000000000000
+      internalID: 8499918079603647039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_032
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 380
+        width: 57
+        height: 38
+      alignment: 9
+      pivot: {x: 0.49122807, y: 0.6052632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d53ea5e62b016130800000000000000
+      internalID: 3558137442289464784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_033
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 410
+        width: 58
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.62857145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8432a1b0d7a23b0800000000000000
+      internalID: -5536475305261971290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_034
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 301
+        width: 52
+        height: 36
+      alignment: 9
+      pivot: {x: 0.47115386, y: 0.5972222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64787d064749fd00800000000000000
+      internalID: 1006914357893297258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_035
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 187
+        width: 43
+        height: 28
+      alignment: 9
+      pivot: {x: 0.4651163, y: 0.71428573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3798350355cd963f0800000000000000
+      internalID: -906951591497332365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_036
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 258
+        width: 32
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7222222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1dd9a47feac8880800000000000000
+      internalID: -8607312410679848533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_037
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 265
+        width: 25
+        height: 26
+      alignment: 9
+      pivot: {x: 0.44, y: 0.71153843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f89b9da6f0d5a10800000000000000
+      internalID: 1899691569413984047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_038
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 277
+        width: 12
+        height: 18
+      alignment: 9
+      pivot: {x: 0.041666668, y: 0.9444444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27deb1e8f42911150800000000000000
+      internalID: 5841611062060510578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_039
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 220
+        width: 13
+        height: 26
+      alignment: 9
+      pivot: {x: 0.15384616, y: 0.5576923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d20e3781097a350800000000000000
+      internalID: 6027945060956384635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_040
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 151
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.3125, y: 0.90625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb424ee2b4fae4140800000000000000
+      internalID: 4705891398092858556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_041
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 368
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0.21428572, y: 0.90625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1917d25bfd358020800000000000000
+      internalID: 2343347330752125214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_042
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 137
+        width: 16
+        height: 12
+      alignment: 9
+      pivot: {x: 0.3125, y: 1.2083334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4da5a2e29883f5e0800000000000000
+      internalID: -1877006455234253489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_043
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 150
+        width: 12
+        height: 12
+      alignment: 9
+      pivot: {x: 0.125, y: 1.2083334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7692c9b838e7080b0800000000000000
+      internalID: -5728439622567188121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_044
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 464
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: -0.1875, y: 1.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78f5a17471a67080800000000000000
+      internalID: -9189980468107937668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_045
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 211
+        width: 7
+        height: 7
+      alignment: 9
+      pivot: {x: -0.35714287, y: 2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0cf66b9c48f9f40800000000000000
+      internalID: 5737450452177371367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_046
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 196
+        width: 47
+        height: 39
+      alignment: 9
+      pivot: {x: 0.4680851, y: 0.6282051}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab54758a4a137c270800000000000000
+      internalID: 8270633823957894586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_047
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 259
+        width: 48
+        height: 40
+      alignment: 9
+      pivot: {x: 0.47916666, y: 0.6125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a2f35f6a1dbf990800000000000000
+      internalID: -7351051451742868941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_048
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 182
+        width: 47
+        height: 36
+      alignment: 9
+      pivot: {x: 0.4787234, y: 0.6527778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568737d1345b88880800000000000000
+      internalID: -8608431387857160091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_049
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 164
+        width: 42
+        height: 34
+      alignment: 9
+      pivot: {x: 0.4642857, y: 0.6764706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6857537a3ddaff0800000000000000
+      internalID: -23129707957090584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_050
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 212
+        width: 33
+        height: 29
+      alignment: 9
+      pivot: {x: 0.4090909, y: 0.7586207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c489d0bb14b9ee8b0800000000000000
+      internalID: -5120985019660265396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_051
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 353
+        width: 27
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4795620f6fc55b0800000000000000
+      internalID: -5378152343691234057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_052
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 447
+        width: 20
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8913044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85273ed50f3896f10800000000000000
+      internalID: 2263485356120961624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_053
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 77
+        width: 11
+        height: 18
+      alignment: 9
+      pivot: {x: 0.27272728, y: 1.0555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19db591ec90f6f7f0800000000000000
+      internalID: -579010945480278639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_054
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 257
+        width: 12
+        height: 18
+      alignment: 9
+      pivot: {x: 0.375, y: 0.9166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b98a50e19930210800000000000000
+      internalID: 1298049471835839252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_055
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 408
+        width: 10
+        height: 10
+      alignment: 9
+      pivot: {x: 0.25, y: 1.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3719a409d49db2780800000000000000
+      internalID: -8706626527434206861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_056
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 121
+        width: 11
+        height: 9
+      alignment: 9
+      pivot: {x: 0.27272728, y: 1.8333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34ffb14fcb278880800000000000000
+      internalID: -8608863993534090179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_057
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 132
+        width: 9
+        height: 7
+      alignment: 9
+      pivot: {x: 0.16666667, y: 2.357143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2888935f4e4524280800000000000000
+      internalID: -9060586157972551550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_058
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 83
+        width: 12
+        height: 12
+      alignment: 9
+      pivot: {x: 0.375, y: 1.3333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9108a3850ab24fd90800000000000000
+      internalID: -7064973947762474983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_059
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 189
+        width: 7
+        height: 5
+      alignment: 9
+      pivot: {x: 0, y: 3.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46104e48fed22dfd0800000000000000
+      internalID: -2318740351392415388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_060
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 454
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0.125, y: 1.9375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea17eac7965b5900800000000000000
+      internalID: 674227779166214891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_061
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 161
+        width: 40
+        height: 34
+      alignment: 9
+      pivot: {x: 0.2625, y: 0.7205882}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d01543655203a00800000000000000
+      internalID: 734127791436533041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_062
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 177
+        width: 40
+        height: 37
+      alignment: 9
+      pivot: {x: 0.2625, y: 0.6621622}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6624697a070a2fd0800000000000000
+      internalID: -2366070912662100374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_063
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 177
+        width: 34
+        height: 33
+      alignment: 9
+      pivot: {x: 0.22058824, y: 0.74242425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314fb186de78426b0800000000000000
+      internalID: -5321979405921422317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_064
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 304
+        width: 36
+        height: 34
+      alignment: 9
+      pivot: {x: 0.3888889, y: 0.7058824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3a304c3ef80bcb0800000000000000
+      internalID: -4850218590269103179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_065
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 364
+        width: 29
+        height: 31
+      alignment: 9
+      pivot: {x: 0.36206895, y: 0.7419355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91585ae3db4320680800000000000000
+      internalID: -8790405535269288679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_066
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 144
+        width: 30
+        height: 29
+      alignment: 9
+      pivot: {x: 0.43333334, y: 0.7586207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10123306ce3a1fd0800000000000000
+      internalID: -2370513233679085541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_067
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 402
+        width: 21
+        height: 22
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.95454544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed18613dfe030560800000000000000
+      internalID: 7278677903379275232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_068
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 201
+        width: 13
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 1.1470588}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc061ae8544bb37a0800000000000000
+      internalID: -6396320634910973748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_069
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 435
+        width: 10
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 1.5909091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db8fbfc26efb856e0800000000000000
+      internalID: -1848516651717494595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_070
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 396
+        width: 10
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 1.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b5e18693a248e70800000000000000
+      internalID: 9116457971753048839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_071
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 200
+        width: 10
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 2.4285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0949647f6d0f300800000000000000
+      internalID: 283963134053748950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_072
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 106
+        width: 10
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 2.8333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7176a9327a34e1ee0800000000000000
+      internalID: -1288518058245462249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_073
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 63
+        width: 9
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 3.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c91d2d68b73fda40800000000000000
+      internalID: 5395092143858325953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_074
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 478
+        width: 5
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 4.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2909f87b6c5f1b10800000000000000
+      internalID: 1954382379962927406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_075
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 472
+        width: 5
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 4.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9740d9e770dd28430800000000000000
+      internalID: 3783829661203367033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_076
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 469
+        width: 61
+        height: 42
+      alignment: 9
+      pivot: {x: 0.28688523, y: 0.5833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a0cdf71e6e08470800000000000000
+      internalID: 8394963561605761613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_077
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 220
+        width: 50
+        height: 42
+      alignment: 9
+      pivot: {x: 0.13, y: 0.5952381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c0d06386723e450800000000000000
+      internalID: 6116776047436172301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_078
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 362
+        width: 56
+        height: 46
+      alignment: 9
+      pivot: {x: 0.3392857, y: 0.5326087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d863429ea38ae4ff0800000000000000
+      internalID: -49917574881462643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_079
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 313
+        width: 50
+        height: 38
+      alignment: 9
+      pivot: {x: 0.3, y: 0.6315789}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84389195a28cbf7f0800000000000000
+      internalID: -577648042977950904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_080
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 238
+        width: 35
+        height: 32
+      alignment: 9
+      pivot: {x: 0.17142858, y: 0.703125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f431f2f8c1b8490800000000000000
+      internalID: -7743063733037740150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_081
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 168
+        width: 26
+        height: 24
+      alignment: 9
+      pivot: {x: 0.07692308, y: 0.8958333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd67ae233980f4d70800000000000000
+      internalID: 9029445206208575197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_082
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 216
+        width: 42
+        height: 22
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.9318182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e994660b42c0a980800000000000000
+      internalID: -8529604066754127389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_083
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 426
+        width: 19
+        height: 16
+      alignment: 9
+      pivot: {x: 0.57894737, y: 1.1875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c7bc529ef12a570800000000000000
+      internalID: 8476372534886628375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_084
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 172
+        width: 13
+        height: 11
+      alignment: 9
+      pivot: {x: 0.46153846, y: 1.5909091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1c86910666aa0c0800000000000000
+      internalID: -4563722709457387043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_085
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 337
+        width: 13
+        height: 33
+      alignment: 9
+      pivot: {x: 0.46153846, y: 0.530303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8088557421bb722a0800000000000000
+      internalID: -6762230628292917240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_086
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 16
+        width: 11
+        height: 8
+      alignment: 9
+      pivot: {x: 0.45454547, y: 2.1875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40330bbed6a88f070800000000000000
+      internalID: 8140408531182433028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_087
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 97
+        width: 11
+        height: 7
+      alignment: 9
+      pivot: {x: 0.45454547, y: 2.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ab74ea001255e80800000000000000
+      internalID: -8190604060495725948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_088
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 63
+        width: 10
+        height: 6
+      alignment: 9
+      pivot: {x: 0.4, y: 2.9166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69e5b721da8e3080800000000000000
+      internalID: -9205767957379683987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_089
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 97
+        width: 13
+        height: 7
+      alignment: 9
+      pivot: {x: 0.6923077, y: 2.4285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5390b7332da516600800000000000000
+      internalID: 459748495821834549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_090
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 397
+        width: 6
+        height: 3
+      alignment: 9
+      pivot: {x: 0.5, y: 5.6666665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66f91bd237f4be60800000000000000
+      internalID: 7977272637776328302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_091
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 471
+        width: 67
+        height: 40
+      alignment: 9
+      pivot: {x: 0.17910448, y: 0.575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f69b620e571d630800000000000000
+      internalID: 3950067953763446595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_092
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 445
+        width: 61
+        height: 40
+      alignment: 9
+      pivot: {x: 0.114754096, y: 0.575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50cef5486d6f7d590800000000000000
+      internalID: -7649374040861185019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_093
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 319
+        width: 53
+        height: 43
+      alignment: 9
+      pivot: {x: 0.094339624, y: 0.5232558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a407ccfb2b6839390800000000000000
+      internalID: -7812752826277531574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_094
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 388
+        width: 62
+        height: 38
+      alignment: 9
+      pivot: {x: 0.2580645, y: 0.57894737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1bae6ccc9fc5af50800000000000000
+      internalID: 6892143077112064799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_095
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 456
+        width: 71
+        height: 28
+      alignment: 9
+      pivot: {x: 0.45070422, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f37d30e5d18d2610800000000000000
+      internalID: 1598076198376535032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_096
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 287
+        width: 55
+        height: 24
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.8125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a372bb40638ec070800000000000000
+      internalID: 8128578827060409257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_097
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 205
+        width: 42
+        height: 21
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.88095236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c4f822b8e679560800000000000000
+      internalID: 7320441263173356630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_098
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 243
+        width: 25
+        height: 20
+      alignment: 9
+      pivot: {x: 0.68, y: 0.85}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 606583a70efc912e0800000000000000
+      internalID: -2154462383689935354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_099
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 338
+        width: 15
+        height: 28
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.60714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77122d62553976e0800000000000000
+      internalID: -1839380344669595778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_100
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 169
+        width: 13
+        height: 10
+      alignment: 9
+      pivot: {x: 0.3846154, y: 1.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e050de5f81945f70800000000000000
+      internalID: 9175118385817604325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_101
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 122
+        width: 13
+        height: 8
+      alignment: 9
+      pivot: {x: 0.3846154, y: 2.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8630a3194c271c3a0800000000000000
+      internalID: -6646905386446486680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_102
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 167
+        width: 20
+        height: 13
+      alignment: 9
+      pivot: {x: 0.35, y: 1.2692307}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc06b2f4c9713dd50800000000000000
+      internalID: 6760773425723826380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_103
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 128
+        width: 25
+        height: 7
+      alignment: 9
+      pivot: {x: 0.32, y: 2.357143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d182c4d8b2de850f0800000000000000
+      internalID: -1127890935346354147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_104
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 74
+        width: 9
+        height: 9
+      alignment: 9
+      pivot: {x: 0.33333334, y: 1.8333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760708cd5ab5cac00800000000000000
+      internalID: 913205592376504423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_105
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 444
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0.75, y: 2.0625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aaf5ff0ca2239a10800000000000000
+      internalID: 1914912388960090790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_106
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 483
+        width: 60
+        height: 28
+      alignment: 9
+      pivot: {x: 0.05, y: 0.6785714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43b65c85796ad640800000000000000
+      internalID: 5105509081164460875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_107
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 439
+        width: 59
+        height: 28
+      alignment: 9
+      pivot: {x: 0.033898305, y: 0.6785714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f3df6d3f8d57b30800000000000000
+      internalID: 4284569162308468565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_108
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 353
+        width: 60
+        height: 33
+      alignment: 9
+      pivot: {x: 0.033333335, y: 0.57575756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ca567f20f03e4c0800000000000000
+      internalID: -4259544317147370338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_109
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 385
+        width: 57
+        height: 26
+      alignment: 9
+      pivot: {x: 0.07017544, y: 0.71153843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d6953f038c03a00800000000000000
+      internalID: 734306851828100458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_110
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 436
+        width: 61
+        height: 24
+      alignment: 9
+      pivot: {x: 0.19672132, y: 0.7291667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60e93e89da3bacf0800000000000000
+      internalID: -240033449065717653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_111
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 462
+        width: 66
+        height: 20
+      alignment: 9
+      pivot: {x: 0.4848485, y: 0.825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30a5b1787de41320800000000000000
+      internalID: 2527906392421277755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_112
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 179
+        width: 32
+        height: 15
+      alignment: 9
+      pivot: {x: 0.28125, y: 1.0333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4adbd8878f081e830800000000000000
+      internalID: 4098698940546661796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_113
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 189
+        width: 35
+        height: 15
+      alignment: 9
+      pivot: {x: 0.74285716, y: 1.0333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52685b5981bbc65e0800000000000000
+      internalID: -1914950027273992667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_114
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 49
+        width: 12
+        height: 12
+      alignment: 9
+      pivot: {x: 0.33333334, y: 1.2916666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482e99c83802794d0800000000000000
+      internalID: -3127995666813820284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_115
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 311
+        width: 15
+        height: 24
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.6458333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d76424010b5d500800000000000000
+      internalID: 420435724106890643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_116
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 121
+        width: 12
+        height: 9
+      alignment: 9
+      pivot: {x: 0.41666666, y: 1.7222222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a091a6406998860800000000000000
+      internalID: 7532716797457926728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_117
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 170
+        width: 32
+        height: 7
+      alignment: 9
+      pivot: {x: 0.71875, y: 2.142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9479ca6c9f841f0800000000000000
+      internalID: -1060323080551314973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_118
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 420
+        width: 24
+        height: 6
+      alignment: 9
+      pivot: {x: 0.45833334, y: 2.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1af49326dbeaf4e0800000000000000
+      internalID: -1946984583931823588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_119
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 308
+        width: 8
+        height: 5
+      alignment: 9
+      pivot: {x: 0.375, y: 3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ddde86c486d2250800000000000000
+      internalID: 5921503762449292696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_120
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 308
+        width: 8
+        height: 5
+      alignment: 9
+      pivot: {x: 0.375, y: 3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671883a884a0c6b80800000000000000
+      internalID: -8400327898279935626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_121
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 410
+        width: 61
+        height: 24
+      alignment: 9
+      pivot: {x: 0.06557377, y: 0.6041667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3917922ecd36440800000000000000
+      internalID: 4928025281189483508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_122
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 487
+        width: 62
+        height: 24
+      alignment: 9
+      pivot: {x: 0.06451613, y: 0.6041667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72377f62d5eeb18f0800000000000000
+      internalID: -568598844079115481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_123
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 407
+        width: 59
+        height: 22
+      alignment: 9
+      pivot: {x: 0.050847456, y: 0.65909094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1fa00d02d949890800000000000000
+      internalID: -7452158719136435797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_124
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 427
+        width: 64
+        height: 27
+      alignment: 9
+      pivot: {x: 0.1875, y: 0.5185185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88dcd4332d86a870800000000000000
+      internalID: 8693791313035581583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_125
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 217
+        width: 47
+        height: 18
+      alignment: 9
+      pivot: {x: 0.08510638, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64777fc35f038170800000000000000
+      internalID: 8179398200872367215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_126
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 152
+        width: 34
+        height: 18
+      alignment: 9
+      pivot: {x: 0.14705883, y: 0.7222222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72e5ba3ce2c69400800000000000000
+      internalID: 330665942511379066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_127
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 266
+        width: 54
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5925926, y: 0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ddca2ada3db7fd30800000000000000
+      internalID: 4465245616027127249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_128
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 472
+        width: 18
+        height: 12
+      alignment: 9
+      pivot: {x: 0.6111111, y: 1.0833334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22dd98cc417ac55f0800000000000000
+      internalID: -766554128787055326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_129
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 422
+        width: 10
+        height: 11
+      alignment: 9
+      pivot: {x: 0.3, y: 1.1818181}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371878f77b6fa47a0800000000000000
+      internalID: -6392025453119962765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_130
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 386
+        width: 14
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.61904764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa516d17423f8720800000000000000
+      internalID: 2850552370165799674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_131
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 97
+        width: 20
+        height: 10
+      alignment: 9
+      pivot: {x: 0.45, y: 1.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cedbce0f4e93ef30800000000000000
+      internalID: 4603697306490625730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_132
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 114
+        width: 20
+        height: 10
+      alignment: 9
+      pivot: {x: 0.2, y: 1.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86da8e2b90df46420800000000000000
+      internalID: 2622499101134597480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_133
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 50
+        width: 11
+        height: 11
+      alignment: 9
+      pivot: {x: 0.36363637, y: 1.1818181}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2dcd29fd31000a60800000000000000
+      internalID: 7638106333705522477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_134
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 397
+        width: 6
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 2.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63b0fb952ecb7b00800000000000000
+      internalID: 827481617477972846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_135
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 106
+        width: 12
+        height: 6
+      alignment: 9
+      pivot: {x: 0.33333334, y: 2.0833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf75ccd7fd8e64160800000000000000
+      internalID: 7009545916634650620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_136
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 459
+        width: 73
+        height: 25
+      alignment: 9
+      pivot: {x: 0.20547946, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b39450df12f3920800000000000000
+      internalID: 2972131649686944525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_137
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 486
+        width: 78
+        height: 25
+      alignment: 9
+      pivot: {x: 0.25641027, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a2661924d874450800000000000000
+      internalID: 6072977939579153035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_138
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 486
+        width: 76
+        height: 25
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03fde0542e3d335a0800000000000000
+      internalID: -6542652864864526544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_139
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 420
+        width: 59
+        height: 23
+      alignment: 9
+      pivot: {x: 0.084745765, y: 0.5217391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8263a0cbe65bdc0a0800000000000000
+      internalID: -6859627170209581528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_140
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 234
+        width: 47
+        height: 19
+      alignment: 9
+      pivot: {x: 0.10638298, y: 0.6052632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2340a83e6da62b0800000000000000
+      internalID: -5590419714665598225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_141
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 165
+        width: 32
+        height: 15
+      alignment: 9
+      pivot: {x: 0.09375, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd36a0977c064290800000000000000
+      internalID: -7906618388134871609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_142
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 297
+        width: 50
+        height: 20
+      alignment: 9
+      pivot: {x: 0.32, y: 0.525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211ee1919af61ef60800000000000000
+      internalID: 8061847580031508754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_143
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 123
+        width: 15
+        height: 12
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f24c27bd4e81830800000000000000
+      internalID: 4042232296739450678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_144
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 70
+        width: 12
+        height: 11
+      alignment: 9
+      pivot: {x: 0.41666666, y: 0.95454544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb5417d292849bd0800000000000000
+      internalID: -2624329115664884754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_145
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 106
+        width: 20
+        height: 11
+      alignment: 9
+      pivot: {x: 0.4, y: 0.95454544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e10f0b2f997cc60800000000000000
+      internalID: 7838402944091299456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_146
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 501
+        width: 19
+        height: 10
+      alignment: 9
+      pivot: {x: 0.47368422, y: 1.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59960cddf8fc672d0800000000000000
+      internalID: -3281207061685180011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_147
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 97
+        width: 9
+        height: 7
+      alignment: 9
+      pivot: {x: 0.44444445, y: 1.5714285}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08902ac703c9c4ef0800000000000000
+      internalID: -122551357782488704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_148
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 35
+        width: 12
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5833333, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b4574d6a4a967b0800000000000000
+      internalID: -5230468455778137317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_149
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 253
+        width: 21
+        height: 6
+      alignment: 9
+      pivot: {x: 0.52380955, y: 1.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ef6a17187b1a280800000000000000
+      internalID: -9033737610943070588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_150
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 343
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0.375, y: 1.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdbabdb8c98dc7090800000000000000
+      internalID: -8035309468262880289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_151
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 296
+        width: 56
+        height: 29
+      alignment: 9
+      pivot: {x: 0.071428575, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f6b97c8f09b19a0800000000000000
+      internalID: -6261251458753400976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_152
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 428
+        width: 69
+        height: 29
+      alignment: 9
+      pivot: {x: 0.24637681, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20a919ad3761e290800000000000000
+      internalID: -7862889959884480469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_153
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 484
+        width: 73
+        height: 27
+      alignment: 9
+      pivot: {x: 0.28767124, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5dd3bd2a1fffdca0800000000000000
+      internalID: -5989788491478475428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_154
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 413
+        width: 58
+        height: 24
+      alignment: 9
+      pivot: {x: 0.13793103, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbefa2a469140b0d0800000000000000
+      internalID: -3409152804174233924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_155
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 404
+        width: 61
+        height: 21
+      alignment: 9
+      pivot: {x: 0.3442623, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1abf9a159fd8db5e0800000000000000
+      internalID: -1892200166469272671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_156
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 287
+        width: 29
+        height: 16
+      alignment: 9
+      pivot: {x: 0.06896552, y: 0.53125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a2604662214eb90800000000000000
+      internalID: -7213620747044509097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_157
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 404
+        width: 23
+        height: 14
+      alignment: 9
+      pivot: {x: 0.17391305, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f89e2353ed0e2e60800000000000000
+      internalID: 7939298463105063152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_158
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 21
+        width: 12
+        height: 12
+      alignment: 9
+      pivot: {x: 0.41666666, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9322cb80b7bc2d690800000000000000
+      internalID: -7578771493623160263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_159
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 293
+        width: 21
+        height: 12
+      alignment: 9
+      pivot: {x: 0.3809524, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6538a037376e520800000000000000
+      internalID: 2730997161981597393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_160
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 188
+        width: 18
+        height: 11
+      alignment: 9
+      pivot: {x: 0.3888889, y: 0.72727275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67acb2a3bbe8447d0800000000000000
+      internalID: -2935064122352743818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_161
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 26
+        width: 12
+        height: 8
+      alignment: 9
+      pivot: {x: 0.41666666, y: 1.0625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721060c8d157d1130800000000000000
+      internalID: 3539113651946783015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_162
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 154
+        width: 30
+        height: 8
+      alignment: 9
+      pivot: {x: 0.26666668, y: 1.0625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5eaed70554bcbcb0800000000000000
+      internalID: -4846800821660242338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_163
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 97
+        width: 20
+        height: 7
+      alignment: 9
+      pivot: {x: 0.35, y: 1.1428572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63b4379a6a720220800000000000000
+      internalID: 2450655745464906607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_164
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 71
+        width: 11
+        height: 11
+      alignment: 9
+      pivot: {x: 0.54545456, y: 0.72727275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89a8879227f98340800000000000000
+      internalID: 4866692600293796237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_165
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 106
+        width: 12
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 1.3333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3aa7c1ed249c3550800000000000000
+      internalID: 6141946916608911930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_166
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 228
+        width: 44
+        height: 29
+      alignment: 9
+      pivot: {x: 0.125, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2bc304446bca8280800000000000000
+      internalID: -9040189670494581969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_167
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 197
+        width: 44
+        height: 29
+      alignment: 9
+      pivot: {x: 0.125, y: 0.6034483}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fbc0f69f44fcf900800000000000000
+      internalID: 719718663144393714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_168
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 284
+        width: 49
+        height: 27
+      alignment: 9
+      pivot: {x: 0.2244898, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d63aa96f7d1e8e0800000000000000
+      internalID: -1665812932994044652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_169
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 237
+        width: 52
+        height: 27
+      alignment: 9
+      pivot: {x: 0.28846154, y: 0.5185185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4641613ea8cc1a0800000000000000
+      internalID: -6787897830421535490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_170
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 161
+        width: 34
+        height: 24
+      alignment: 9
+      pivot: {x: 0.05882353, y: 0.5208333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b88a950917ab210800000000000000
+      internalID: 1349515903144332046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_171
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 194
+        width: 27
+        height: 17
+      alignment: 9
+      pivot: {x: 0.11111111, y: 0.5588235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0b545daacc33520800000000000000
+      internalID: 2680711237310197966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_172
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 152
+        width: 20
+        height: 13
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46721e04d6184dc0800000000000000
+      internalID: -3654645997586188722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_173
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 63
+        width: 15
+        height: 12
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3c61d911c420290800000000000000
+      internalID: -7925688755684981823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_174
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 7
+        width: 12
+        height: 12
+      alignment: 9
+      pivot: {x: 0.41666666, y: 0.5416667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2280400a2d3a4880800000000000000
+      internalID: -8626014885672615382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_175
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 119
+        width: 20
+        height: 12
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5416667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d892858bdceebf750800000000000000
+      internalID: 6339923467782597005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_176
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 109
+        width: 20
+        height: 12
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5416667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6ee50b1a0dd9b40800000000000000
+      internalID: 5448740517055489714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_177
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 175
+        width: 17
+        height: 11
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.59090906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa02549b3cc2c070800000000000000
+      internalID: 8125281233993337505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_178
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 261
+        width: 21
+        height: 7
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.9285714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8991519a6bae84c0800000000000000
+      internalID: -4283297721389835893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_179
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 114
+        width: 20
+        height: 5
+      alignment: 9
+      pivot: {x: 0.45, y: 1.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7bd4963e264c3b0800000000000000
+      internalID: -5493156916621363209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_180
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 333
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0.625, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49815136d8bd9e7e0800000000000000
+      internalID: -1735614781075416940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_181
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 226
+        width: 41
+        height: 30
+      alignment: 9
+      pivot: {x: 0.35365853, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c641f7b80536b620800000000000000
+      internalID: 2789475330764654279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_182
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 272
+        width: 39
+        height: 30
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.6166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639e512e83acf5270800000000000000
+      internalID: 8241528188771363126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_183
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 158
+        width: 34
+        height: 29
+      alignment: 9
+      pivot: {x: 0.3382353, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c752aaa0d101c240800000000000000
+      internalID: 4810127872735991745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_184
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 132
+        width: 33
+        height: 27
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24336541950675400800000000000000
+      internalID: 312824634835088194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_185
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 326
+        width: 29
+        height: 25
+      alignment: 9
+      pivot: {x: 0.31034482, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d058a5f0c5e75b3d0800000000000000
+      internalID: -3191505827062446835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_186
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 121
+        width: 25
+        height: 18
+      alignment: 9
+      pivot: {x: 0.34, y: 0.6111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8347e745f35165d30800000000000000
+      internalID: 4419743446055416888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_187
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 322
+        width: 21
+        height: 14
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c42e204df5f40280800000000000000
+      internalID: -9077860480819780412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_188
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 114
+        width: 20
+        height: 12
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5416667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4680c54e8f286d40800000000000000
+      internalID: 5577760426600465994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_189
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 84
+        width: 12
+        height: 11
+      alignment: 9
+      pivot: {x: 0.41666666, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165e78c55f8496580800000000000000
+      internalID: -8833448975453919903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_190
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 114
+        width: 12
+        height: 10
+      alignment: 9
+      pivot: {x: 0.41666666, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c89c2017757117a0800000000000000
+      internalID: -6408211640538588991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_191
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 137
+        width: 16
+        height: 11
+      alignment: 9
+      pivot: {x: 0.3125, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97bda817cf0f1670800000000000000
+      internalID: 8511539168540473245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_192
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 106
+        width: 12
+        height: 6
+      alignment: 9
+      pivot: {x: 0.41666666, y: 0.8333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab1eab130312b3d0800000000000000
+      internalID: -3192468281782035552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_193
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 114
+        width: 9
+        height: 5
+      alignment: 9
+      pivot: {x: 0.44444445, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c077a7e446de15a0800000000000000
+      internalID: -6548561216717492025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_194
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 121
+        width: 13
+        height: 9
+      alignment: 9
+      pivot: {x: 0.3846154, y: 0.5555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b0b23c0b1c20840800000000000000
+      internalID: 5188922685617015604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_195
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 323
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0.25, y: 0.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f376a75fd75b53f50800000000000000
+      internalID: 6860589159962797887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_196
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 285
+        width: 55
+        height: 32
+      alignment: 9
+      pivot: {x: 0.47272727, y: 0.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7056a5f9a112c12c0800000000000000
+      internalID: -4459653132777265913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_197
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 310
+        width: 55
+        height: 32
+      alignment: 9
+      pivot: {x: 0.47272727, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f0cbaf659fc2210800000000000000
+      internalID: 1309695743627104060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_198
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 240
+        width: 48
+        height: 36
+      alignment: 9
+      pivot: {x: 0.45833334, y: 0.5277778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dfee28eaac123090800000000000000
+      internalID: -8056345263046987818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_199
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 200
+        width: 46
+        height: 32
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.546875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e7dccad35aa5720800000000000000
+      internalID: 2835760599693884952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_200
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 206
+        width: 35
+        height: 30
+      alignment: 9
+      pivot: {x: 0.47142857, y: 0.53333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e58a74b7a5db7a10800000000000000
+      internalID: 1908353783385720297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_201
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 382
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7c80beb7c03e1d0800000000000000
+      internalID: -3322798373705562198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_202
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 428
+        width: 24
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5588235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9645b2d4dd46be680800000000000000
+      internalID: -8724768951454968727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_203
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 486
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21850cb82cf60ef0800000000000000
+      internalID: -142149086332223189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_204
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 409
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103a220457a578850800000000000000
+      internalID: 6379166856827282177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_205
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 384
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3346bfd85c838bb30800000000000000
+      internalID: 4303251865094284339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_206
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 6
+        width: 11
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2157e67dd338775f0800000000000000
+      internalID: -758993710558055150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_207
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 178
+        width: 10
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.71428573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0267843e66de7e90800000000000000
+      internalID: -7025942599835360756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_208
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 203
+        width: 7
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89610ffa6e4e70830800000000000000
+      internalID: 4037447270406297240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_209
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 438
+        width: 6
+        height: 5
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9472aca705294ced0800000000000000
+      internalID: -2394628227499153591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_210
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 426
+        width: 6
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 1.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8cba3af3d681360800000000000000
+      internalID: 7140577329292232946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_211
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 375
+        width: 57
+        height: 30
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0.6166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c507e072fe7d2b90800000000000000
+      internalID: -7265011044137368119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_212
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 347
+        width: 56
+        height: 31
+      alignment: 9
+      pivot: {x: 0.4732143, y: 0.61290324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2cb2ff1828ddc1a0800000000000000
+      internalID: -6787531396531176404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_213
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 264
+        width: 54
+        height: 30
+      alignment: 9
+      pivot: {x: 0.49074075, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ed0e800025ab380800000000000000
+      internalID: -8954754748970377680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_214
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 266
+        width: 47
+        height: 29
+      alignment: 9
+      pivot: {x: 0.4893617, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075ad2329262399f0800000000000000
+      internalID: -462984378563320464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_215
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 177
+        width: 40
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5769231}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0790c7bdfea09030800000000000000
+      internalID: 3499489315199686411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_216
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 126
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f889fdb85b9dd5660800000000000000
+      internalID: 7376291138461735055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_217
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 213
+        width: 27
+        height: 18
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d092a2053174580800000000000000
+      internalID: -8843078108293034710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_218
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 137
+        width: 20
+        height: 13
+      alignment: 9
+      pivot: {x: 0.45, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8b6faa0a9c480e0800000000000000
+      internalID: -2268466620387641123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_219
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 36
+        width: 12
+        height: 11
+      alignment: 9
+      pivot: {x: 0.41666666, y: 0.54545456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c5e222725e415c0800000000000000
+      internalID: -4245516592463586223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_220
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 85
+        width: 11
+        height: 10
+      alignment: 9
+      pivot: {x: 0.4090909, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de688a20096cddee0800000000000000
+      internalID: -1234612401007458579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_221
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 16
+        width: 11
+        height: 8
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d938d9ac11806bd0800000000000000
+      internalID: -2638967421530523177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_222
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 97
+        width: 10
+        height: 7
+      alignment: 9
+      pivot: {x: 0.4, y: 0.85714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4110b6715ba003c30800000000000000
+      internalID: 4336978214056034580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_223
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 106
+        width: 10
+        height: 6
+      alignment: 9
+      pivot: {x: 0.4, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31fbf9773cd3d310800000000000000
+      internalID: 1428727637634445631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_224
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 258
+        width: 7
+        height: 4
+      alignment: 9
+      pivot: {x: 0.21428572, y: 1.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38a2e2055d3717f0800000000000000
+      internalID: -641976986547083205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_225
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 86
+        width: 9
+        height: 9
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.6111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602c7bf681ae634b0800000000000000
+      internalID: -5460920107465719290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_226
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 339
+        width: 57
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c688df163ae4d2710800000000000000
+      internalID: 1670077500454963308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_227
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 344
+        width: 56
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5689655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d5772af98bb9c80800000000000000
+      internalID: -8314849291244446389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_228
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 278
+        width: 52
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab20211946987dc0800000000000000
+      internalID: -3640995058164946007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_229
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 228
+        width: 48
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51785713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070f1e8b72cc3a080800000000000000
+      internalID: -9177267144673333136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_230
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 172
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe78c34a5190fc580800000000000000
+      internalID: -8804808757931636753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_231
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 340
+        width: 37
+        height: 22
+      alignment: 9
+      pivot: {x: 0.44594595, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805f74b8ea1222480800000000000000
+      internalID: -8925534477950126840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_232
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 305
+        width: 29
+        height: 19
+      alignment: 9
+      pivot: {x: 0.36206895, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c511d880264c0bd40800000000000000
+      internalID: 5598190262150828380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_233
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 307
+        width: 21
+        height: 13
+      alignment: 9
+      pivot: {x: 0.2857143, y: 0.5769231}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95b539f36f804320800000000000000
+      internalID: 2540187849382540701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_234
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 49
+        width: 11
+        height: 12
+      alignment: 9
+      pivot: {x: 0.045454547, y: 0.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f692b1d43574c00800000000000000
+      internalID: 884767442434879391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_235
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 372
+        width: 10
+        height: 10
+      alignment: 9
+      pivot: {x: 0, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f223dd72cc0d3e0800000000000000
+      internalID: -2030898960357249165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_236
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 110
+        width: 9
+        height: 9
+      alignment: 9
+      pivot: {x: -0.055555556, y: 0.8333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42590d2cf491d5750800000000000000
+      internalID: 6295215684495381796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_237
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 132
+        width: 9
+        height: 7
+      alignment: 9
+      pivot: {x: -0.055555556, y: 1.0714285}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d7e4fdf30391310800000000000000
+      internalID: 1376184212025933081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_238
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 315
+        width: 8
+        height: 6
+      alignment: 9
+      pivot: {x: -0.1875, y: 1.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56e2b9de5493c370800000000000000
+      internalID: 8341674069920507487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_239
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 183
+        width: 7
+        height: 4
+      alignment: 9
+      pivot: {x: -0.2857143, y: 1.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49fe562cfc2a55310800000000000000
+      internalID: 1393198672944426900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_inf_samurai_decayA_x1_240
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 474
+        width: 8
+        height: 10
+      alignment: 9
+      pivot: {x: -0.0625, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de35b79455e3bfa40800000000000000
+      internalID: 5402980713987003373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

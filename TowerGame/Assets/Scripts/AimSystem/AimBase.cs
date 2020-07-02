@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 [RequireComponent(typeof(AutoAttackSystem))]
-[RequireComponent(typeof(NPCInfo))]
+[RequireComponent(typeof(NPCBase))]
 public class AimBase : MonoBehaviour
 {
-    protected NPCInfo NPCinfo = null;
+    protected NPCBase NPCinfo = null;
     protected AssembleLayout assembleLayout = null;
     protected AutoAttackSystem attackSystem = null;
     protected Transform center = null;
@@ -30,14 +30,13 @@ public class AimBase : MonoBehaviour
     private void UpdateReferences()
     {
         assembleLayout = GetComponentInParent<AssembleLayout>();
-        NPCinfo = GetComponent<NPCInfo>();
+        NPCinfo = GetComponent<NPCBase>();
         attackSystem = GetComponent<AutoAttackSystem>();
         center = assembleLayout ? assembleLayout.assemblyPoint : transform;
     }
-    virtual protected void TryNewTarget(NPCInfo newTarget)
+    virtual protected void TryNewTarget(NPCBase newTarget)
     {
-        
-        NPCInfo record = NPCinfo.target;
+        NPCBase record = NPCinfo.target;
         NPCinfo.target = newTarget;
         if (!attackSystem.CheckAnyCanUse())
         {

@@ -7,7 +7,7 @@ using UnityEngine.UI;
 public class InfoPanel : MonoBehaviour
 {
     public static InfoPanel Instance = null;
-    public NPCInfo currentObject = null;
+    public NPCBase currentObject = null;
     public Text NPCTag = null;
     public Text HealthValue = null;
     private void Awake()

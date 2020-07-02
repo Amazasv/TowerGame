@@ -22,6 +22,31 @@ tpsheetFileNames:
 - Assets/Resources/Sprites/Allies/CavalryT3B/d_cav_t3b.tpsheet
 - Assets/Resources/Sprites/Allies/CavalryT3B/i_cav_t3b.tpsheet
 - Assets/Resources/Sprites/Allies/CavalryT3B/w_cav_t3b.tpsheet
+- Assets/Resources/Sprites/Allies/SieOnagerT1/a_sie_onager_t1.tpsheet
+- Assets/Resources/Sprites/Allies/SieOnagerT1/c_sie_onager_t1.tpsheet
+- Assets/Resources/Sprites/Allies/SieOnagerT1/d_sie_onager_t1.tpsheet
+- Assets/Resources/Sprites/Allies/SieOnagerT1/i_sie_onager_t1.tpsheet
+- Assets/Resources/Sprites/Allies/SieOnagerT1/w_sie_onager_t1.tpsheet
+- Assets/Resources/Sprites/Allies/SieOnagerT2/a_sie_onager_t2.tpsheet
+- Assets/Resources/Sprites/Allies/SieOnagerT2/c_sie_onager_t2.tpsheet
+- Assets/Resources/Sprites/Allies/SieOnagerT2/d_sie_onager_t2.tpsheet
+- Assets/Resources/Sprites/Allies/SieOnagerT2/i_sie_onager_t2.tpsheet
+- Assets/Resources/Sprites/Allies/SieOnagerT2/w_sie_onager_t2.tpsheet
+- Assets/Resources/Sprites/Allies/SieOnagerT3/a_sie_onager_t3.tpsheet
+- Assets/Resources/Sprites/Allies/SieOnagerT3/c_sie_onager_t3.tpsheet
+- Assets/Resources/Sprites/Allies/SieOnagerT3/d_sie_onager_t3.tpsheet
+- Assets/Resources/Sprites/Allies/SieOnagerT3/i_sie_onager_t3.tpsheet
+- Assets/Resources/Sprites/Allies/SieOnagerT3/w_sie_onager_t3.tpsheet
+- Assets/Resources/Sprites/Allies/SieScorpionT1/a_sie_scorpion_t1.tpsheet
+- Assets/Resources/Sprites/Allies/SieScorpionT1/c_sie_scorpion_t1.tpsheet
+- Assets/Resources/Sprites/Allies/SieScorpionT1/d_sie_scorpion_t1.tpsheet
+- Assets/Resources/Sprites/Allies/SieScorpionT1/i_sie_scorpion_t1.tpsheet
+- Assets/Resources/Sprites/Allies/SieScorpionT1/w_sie_scorpion_t1.tpsheet
+- Assets/Resources/Sprites/Allies/SieScorpionT2/a_sie_scorpion_t2.tpsheet
+- Assets/Resources/Sprites/Allies/SieScorpionT2/c_sie_scorpion_t2.tpsheet
+- Assets/Resources/Sprites/Allies/SieScorpionT2/d_sie_scorpion_t2.tpsheet
+- Assets/Resources/Sprites/Allies/SieScorpionT2/i_sie_scorpion_t2.tpsheet
+- Assets/Resources/Sprites/Allies/SieScorpionT2/w_sie_scorpion_t2.tpsheet
 - Assets/Resources/Sprites/Allies/SoldierT1/a_soldier_t1.tpsheet
 - Assets/Resources/Sprites/Allies/SoldierT1/c_soldier_t1.tpsheet
 - Assets/Resources/Sprites/Allies/SoldierT1/d_soldier_t1.tpsheet
@@ -32,6 +57,11 @@ tpsheetFileNames:
 - Assets/Resources/Sprites/Allies/SoldierT2/d_soldier_t2.tpsheet
 - Assets/Resources/Sprites/Allies/SoldierT2/i_soldier_t2.tpsheet
 - Assets/Resources/Sprites/Allies/SoldierT2/w_soldier_t2.tpsheet
+- Assets/Resources/Sprites/Allies/SoldierT3A/a_soldier_t3a.tpsheet
+- Assets/Resources/Sprites/Allies/SoldierT3A/c_soldier_t3a.tpsheet
+- Assets/Resources/Sprites/Allies/SoldierT3A/d_soldier_t3a.tpsheet
+- Assets/Resources/Sprites/Allies/SoldierT3A/i_soldier_t3a.tpsheet
+- Assets/Resources/Sprites/Allies/SoldierT3A/w_soldier_t3a.tpsheet
 - Assets/Resources/Sprites/Allies/SoldierT3B/a_soldier_t3b.tpsheet
 - Assets/Resources/Sprites/Allies/SoldierT3B/c_soldier_t3b.tpsheet
 - Assets/Resources/Sprites/Allies/SoldierT3B/d_soldier_t3b.tpsheet
@@ -42,7 +72,77 @@ tpsheetFileNames:
 - Assets/Resources/Sprites/Allies/SoldierT3C/d_soldier_t3c.tpsheet
 - Assets/Resources/Sprites/Allies/SoldierT3C/i_soldier_t3c.tpsheet
 - Assets/Resources/Sprites/Allies/SoldierT3C/w_soldier_t3c.tpsheet
+- Assets/Resources/Sprites/Enemys/Archer/a_archer.tpsheet
+- Assets/Resources/Sprites/Enemys/Archer/c_archer.tpsheet
+- Assets/Resources/Sprites/Enemys/Archer/d_archer.tpsheet
+- Assets/Resources/Sprites/Enemys/Archer/i_archer.tpsheet
+- Assets/Resources/Sprites/Enemys/Archer/w_archer.tpsheet
+- Assets/Resources/Sprites/Enemys/CavArcherHev/a_cav_archer_heavy.tpsheet
+- Assets/Resources/Sprites/Enemys/CavArcherHev/c_cav_archer_heavy.tpsheet
+- Assets/Resources/Sprites/Enemys/CavArcherHev/d_cav_archer_heavy.tpsheet
+- Assets/Resources/Sprites/Enemys/CavArcherHev/i_cav_archer_heavy.tpsheet
+- Assets/Resources/Sprites/Enemys/CavArcherHev/w_cav_archer_heavy.tpsheet
+- Assets/Resources/Sprites/Enemys/CavBoyar/a_cav_boyar.tpsheet
+- Assets/Resources/Sprites/Enemys/CavBoyar/c_cav_boyar.tpsheet
+- Assets/Resources/Sprites/Enemys/CavBoyar/d_cav_boyar.tpsheet
+- Assets/Resources/Sprites/Enemys/CavBoyar/i_cav_boyar.tpsheet
+- Assets/Resources/Sprites/Enemys/CavBoyar/w_cav_boyar.tpsheet
+- Assets/Resources/Sprites/Enemys/CavLt/a_cav_light.tpsheet
+- Assets/Resources/Sprites/Enemys/CavLt/c_cav_light.tpsheet
+- Assets/Resources/Sprites/Enemys/CavLt/d_cav_light.tpsheet
+- Assets/Resources/Sprites/Enemys/CavLt/i_cav_light.tpsheet
+- Assets/Resources/Sprites/Enemys/CavLt/w_cav_light.tpsheet
+- Assets/Resources/Sprites/Enemys/Crossbow/a_crossbow.tpsheet
+- Assets/Resources/Sprites/Enemys/Crossbow/c_crossbow.tpsheet
+- Assets/Resources/Sprites/Enemys/Crossbow/d_crossbow.tpsheet
+- Assets/Resources/Sprites/Enemys/Crossbow/i_crossbow.tpsheet
+- Assets/Resources/Sprites/Enemys/Crossbow/w_crossbow.tpsheet
+- Assets/Resources/Sprites/Enemys/Gajah/a_gajah.tpsheet
+- Assets/Resources/Sprites/Enemys/Gajah/c_gajah.tpsheet
+- Assets/Resources/Sprites/Enemys/Gajah/d_gajah.tpsheet
+- Assets/Resources/Sprites/Enemys/Gajah/i_gajah.tpsheet
+- Assets/Resources/Sprites/Enemys/Gajah/w_gajah.tpsheet
+- Assets/Resources/Sprites/Enemys/Halberdier/a_halberdier.tpsheet
+- Assets/Resources/Sprites/Enemys/Halberdier/c_halberdier.tpsheet
+- Assets/Resources/Sprites/Enemys/Halberdier/d_halberdier.tpsheet
+- Assets/Resources/Sprites/Enemys/Halberdier/i_halberdier.tpsheet
+- Assets/Resources/Sprites/Enemys/Halberdier/w_halberdier.tpsheet
+- Assets/Resources/Sprites/Enemys/Infantry/a_infantry.tpsheet
+- Assets/Resources/Sprites/Enemys/Infantry/c_infantry.tpsheet
+- Assets/Resources/Sprites/Enemys/Infantry/d_infantry.tpsheet
+- Assets/Resources/Sprites/Enemys/Infantry/i_infantry.tpsheet
+- Assets/Resources/Sprites/Enemys/Infantry/w_infantry.tpsheet
+- Assets/Resources/Sprites/Enemys/KarambitWarrior/a_karambitwarrior.tpsheet
+- Assets/Resources/Sprites/Enemys/KarambitWarrior/c_karambitwarrior.tpsheet
+- Assets/Resources/Sprites/Enemys/KarambitWarrior/d_karambitwarrior.tpsheet
+- Assets/Resources/Sprites/Enemys/KarambitWarrior/i_karambitwarrior.tpsheet
+- Assets/Resources/Sprites/Enemys/KarambitWarrior/w_karambitwarrior.tpsheet
+- Assets/Resources/Sprites/Enemys/Militia/a_militia.tpsheet
+- Assets/Resources/Sprites/Enemys/Militia/c_militia.tpsheet
+- Assets/Resources/Sprites/Enemys/Militia/d_militia.tpsheet
+- Assets/Resources/Sprites/Enemys/Militia/i_militia.tpsheet
+- Assets/Resources/Sprites/Enemys/Militia/w_militia.tpsheet
+- Assets/Resources/Sprites/Enemys/Pikeman/a_pikeman.tpsheet
+- Assets/Resources/Sprites/Enemys/Pikeman/c_pikeman.tpsheet
+- Assets/Resources/Sprites/Enemys/Pikeman/d_pikeman.tpsheet
+- Assets/Resources/Sprites/Enemys/Pikeman/i_pikeman.tpsheet
+- Assets/Resources/Sprites/Enemys/Pikeman/w_pikeman.tpsheet
+- Assets/Resources/Sprites/Enemys/Warrior/a_warrior.tpsheet
+- Assets/Resources/Sprites/Enemys/Warrior/c_warrior.tpsheet
+- Assets/Resources/Sprites/Enemys/Warrior/d_warrior.tpsheet
+- Assets/Resources/Sprites/Enemys/Warrior/i_warrior.tpsheet
+- Assets/Resources/Sprites/Enemys/Warrior/w_warrior.tpsheet
+- Assets/Resources/Sprites/Enemys/Woadraider/a_woadraider.tpsheet
+- Assets/Resources/Sprites/Enemys/Woadraider/c_woadraider.tpsheet
+- Assets/Resources/Sprites/Enemys/Woadraider/d_woadraider.tpsheet
+- Assets/Resources/Sprites/Enemys/Woadraider/i_woadraider.tpsheet
+- Assets/Resources/Sprites/Enemys/Woadraider/w_woadraider.tpsheet
+- Assets/Resources/Sprites/Others/icons.tpsheet
 - Assets/Resources/Sprites/Projectiles/arrow.tpsheet
+- Assets/Resources/Sprites/Projectiles/arrow_fire.tpsheet
+- Assets/Resources/Sprites/Projectiles/bolt.tpsheet
+- Assets/Resources/Sprites/Projectiles/mangonel.tpsheet
+- Assets/Resources/Sprites/Projectiles/spear.tpsheet
 - Assets/Resources/Sprites/Sample/a_sample.tpsheet
 - Assets/Resources/Sprites/Sample/c_sample.tpsheet
 - Assets/Resources/Sprites/Sample/d_sample.tpsheet
@@ -71,6 +171,31 @@ textureFileNames:
 - Assets/Resources/Sprites/Allies/CavalryT3B/d_cav_t3b.png
 - Assets/Resources/Sprites/Allies/CavalryT3B/i_cav_t3b.png
 - Assets/Resources/Sprites/Allies/CavalryT3B/w_cav_t3b.png
+- Assets/Resources/Sprites/Allies/SieOnagerT1/a_sie_onager_t1.png
+- Assets/Resources/Sprites/Allies/SieOnagerT1/c_sie_onager_t1.png
+- Assets/Resources/Sprites/Allies/SieOnagerT1/d_sie_onager_t1.png
+- Assets/Resources/Sprites/Allies/SieOnagerT1/i_sie_onager_t1.png
+- Assets/Resources/Sprites/Allies/SieOnagerT1/w_sie_onager_t1.png
+- Assets/Resources/Sprites/Allies/SieOnagerT2/a_sie_onager_t2.png
+- Assets/Resources/Sprites/Allies/SieOnagerT2/c_sie_onager_t2.png
+- Assets/Resources/Sprites/Allies/SieOnagerT2/d_sie_onager_t2.png
+- Assets/Resources/Sprites/Allies/SieOnagerT2/i_sie_onager_t2.png
+- Assets/Resources/Sprites/Allies/SieOnagerT2/w_sie_onager_t2.png
+- Assets/Resources/Sprites/Allies/SieOnagerT3/a_sie_onager_t3.png
+- Assets/Resources/Sprites/Allies/SieOnagerT3/c_sie_onager_t3.png
+- Assets/Resources/Sprites/Allies/SieOnagerT3/d_sie_onager_t3.png
+- Assets/Resources/Sprites/Allies/SieOnagerT3/i_sie_onager_t3.png
+- Assets/Resources/Sprites/Allies/SieOnagerT3/w_sie_onager_t3.png
+- Assets/Resources/Sprites/Allies/SieScorpionT1/a_sie_scorpion_t1.png
+- Assets/Resources/Sprites/Allies/SieScorpionT1/c_sie_scorpion_t1.png
+- Assets/Resources/Sprites/Allies/SieScorpionT1/d_sie_scorpion_t1.png
+- Assets/Resources/Sprites/Allies/SieScorpionT1/i_sie_scorpion_t1.png
+- Assets/Resources/Sprites/Allies/SieScorpionT1/w_sie_scorpion_t1.png
+- Assets/Resources/Sprites/Allies/SieScorpionT2/a_sie_scorpion_t2.png
+- Assets/Resources/Sprites/Allies/SieScorpionT2/c_sie_scorpion_t2.png
+- Assets/Resources/Sprites/Allies/SieScorpionT2/d_sie_scorpion_t2.png
+- Assets/Resources/Sprites/Allies/SieScorpionT2/i_sie_scorpion_t2.png
+- Assets/Resources/Sprites/Allies/SieScorpionT2/w_sie_scorpion_t2.png
 - Assets/Resources/Sprites/Allies/SoldierT1/a_soldier_t1.png
 - Assets/Resources/Sprites/Allies/SoldierT1/c_soldier_t1.png
 - Assets/Resources/Sprites/Allies/SoldierT1/d_soldier_t1.png
@@ -81,6 +206,11 @@ textureFileNames:
 - Assets/Resources/Sprites/Allies/SoldierT2/d_soldier_t2.png
 - Assets/Resources/Sprites/Allies/SoldierT2/i_soldier_t2.png
 - Assets/Resources/Sprites/Allies/SoldierT2/w_soldier_t2.png
+- Assets/Resources/Sprites/Allies/SoldierT3A/a_soldier_t3a.png
+- Assets/Resources/Sprites/Allies/SoldierT3A/c_soldier_t3a.png
+- Assets/Resources/Sprites/Allies/SoldierT3A/d_soldier_t3a.png
+- Assets/Resources/Sprites/Allies/SoldierT3A/i_soldier_t3a.png
+- Assets/Resources/Sprites/Allies/SoldierT3A/w_soldier_t3a.png
 - Assets/Resources/Sprites/Allies/SoldierT3B/a_soldier_t3b.png
 - Assets/Resources/Sprites/Allies/SoldierT3B/c_soldier_t3b.png
 - Assets/Resources/Sprites/Allies/SoldierT3B/d_soldier_t3b.png
@@ -91,7 +221,77 @@ textureFileNames:
 - Assets/Resources/Sprites/Allies/SoldierT3C/d_soldier_t3c.png
 - Assets/Resources/Sprites/Allies/SoldierT3C/i_soldier_t3c.png
 - Assets/Resources/Sprites/Allies/SoldierT3C/w_soldier_t3c.png
+- Assets/Resources/Sprites/Enemys/Archer/a_archer.png
+- Assets/Resources/Sprites/Enemys/Archer/c_archer.png
+- Assets/Resources/Sprites/Enemys/Archer/d_archer.png
+- Assets/Resources/Sprites/Enemys/Archer/i_archer.png
+- Assets/Resources/Sprites/Enemys/Archer/w_archer.png
+- Assets/Resources/Sprites/Enemys/CavArcherHev/a_cav_archer_heavy.png
+- Assets/Resources/Sprites/Enemys/CavArcherHev/c_cav_archer_heavy.png
+- Assets/Resources/Sprites/Enemys/CavArcherHev/d_cav_archer_heavy.png
+- Assets/Resources/Sprites/Enemys/CavArcherHev/i_cav_archer_heavy.png
+- Assets/Resources/Sprites/Enemys/CavArcherHev/w_cav_archer_heavy.png
+- Assets/Resources/Sprites/Enemys/CavBoyar/a_cav_boyar.png
+- Assets/Resources/Sprites/Enemys/CavBoyar/c_cav_boyar.png
+- Assets/Resources/Sprites/Enemys/CavBoyar/d_cav_boyar.png
+- Assets/Resources/Sprites/Enemys/CavBoyar/i_cav_boyar.png
+- Assets/Resources/Sprites/Enemys/CavBoyar/w_cav_boyar.png
+- Assets/Resources/Sprites/Enemys/CavLt/a_cav_light.png
+- Assets/Resources/Sprites/Enemys/CavLt/c_cav_light.png
+- Assets/Resources/Sprites/Enemys/CavLt/d_cav_light.png
+- Assets/Resources/Sprites/Enemys/CavLt/i_cav_light.png
+- Assets/Resources/Sprites/Enemys/CavLt/w_cav_light.png
+- Assets/Resources/Sprites/Enemys/Crossbow/a_crossbow.png
+- Assets/Resources/Sprites/Enemys/Crossbow/c_crossbow.png
+- Assets/Resources/Sprites/Enemys/Crossbow/d_crossbow.png
+- Assets/Resources/Sprites/Enemys/Crossbow/i_crossbow.png
+- Assets/Resources/Sprites/Enemys/Crossbow/w_crossbow.png
+- Assets/Resources/Sprites/Enemys/Gajah/a_gajah.png
+- Assets/Resources/Sprites/Enemys/Gajah/c_gajah.png
+- Assets/Resources/Sprites/Enemys/Gajah/d_gajah.png
+- Assets/Resources/Sprites/Enemys/Gajah/i_gajah.png
+- Assets/Resources/Sprites/Enemys/Gajah/w_gajah.png
+- Assets/Resources/Sprites/Enemys/Halberdier/a_halberdier.png
+- Assets/Resources/Sprites/Enemys/Halberdier/c_halberdier.png
+- Assets/Resources/Sprites/Enemys/Halberdier/d_halberdier.png
+- Assets/Resources/Sprites/Enemys/Halberdier/i_halberdier.png
+- Assets/Resources/Sprites/Enemys/Halberdier/w_halberdier.png
+- Assets/Resources/Sprites/Enemys/Infantry/a_infantry.png
+- Assets/Resources/Sprites/Enemys/Infantry/c_infantry.png
+- Assets/Resources/Sprites/Enemys/Infantry/d_infantry.png
+- Assets/Resources/Sprites/Enemys/Infantry/i_infantry.png
+- Assets/Resources/Sprites/Enemys/Infantry/w_infantry.png
+- Assets/Resources/Sprites/Enemys/KarambitWarrior/a_karambitwarrior.png
+- Assets/Resources/Sprites/Enemys/KarambitWarrior/c_karambitwarrior.png
+- Assets/Resources/Sprites/Enemys/KarambitWarrior/d_karambitwarrior.png
+- Assets/Resources/Sprites/Enemys/KarambitWarrior/i_karambitwarrior.png
+- Assets/Resources/Sprites/Enemys/KarambitWarrior/w_karambitwarrior.png
+- Assets/Resources/Sprites/Enemys/Militia/a_militia.png
+- Assets/Resources/Sprites/Enemys/Militia/c_militia.png
+- Assets/Resources/Sprites/Enemys/Militia/d_militia.png
+- Assets/Resources/Sprites/Enemys/Militia/i_militia.png
+- Assets/Resources/Sprites/Enemys/Militia/w_militia.png
+- Assets/Resources/Sprites/Enemys/Pikeman/a_pikeman.png
+- Assets/Resources/Sprites/Enemys/Pikeman/c_pikeman.png
+- Assets/Resources/Sprites/Enemys/Pikeman/d_pikeman.png
+- Assets/Resources/Sprites/Enemys/Pikeman/i_pikeman.png
+- Assets/Resources/Sprites/Enemys/Pikeman/w_pikeman.png
+- Assets/Resources/Sprites/Enemys/Warrior/a_warrior.png
+- Assets/Resources/Sprites/Enemys/Warrior/c_warrior.png
+- Assets/Resources/Sprites/Enemys/Warrior/d_warrior.png
+- Assets/Resources/Sprites/Enemys/Warrior/i_warrior.png
+- Assets/Resources/Sprites/Enemys/Warrior/w_warrior.png
+- Assets/Resources/Sprites/Enemys/Woadraider/a_woadraider.png
+- Assets/Resources/Sprites/Enemys/Woadraider/c_woadraider.png
+- Assets/Resources/Sprites/Enemys/Woadraider/d_woadraider.png
+- Assets/Resources/Sprites/Enemys/Woadraider/i_woadraider.png
+- Assets/Resources/Sprites/Enemys/Woadraider/w_woadraider.png
+- Assets/Resources/Sprites/Others/icons.png
 - Assets/Resources/Sprites/Projectiles/arrow.png
+- Assets/Resources/Sprites/Projectiles/arrow_fire.png
+- Assets/Resources/Sprites/Projectiles/bolt.png
+- Assets/Resources/Sprites/Projectiles/mangonel.png
+- Assets/Resources/Sprites/Projectiles/spear.png
 - Assets/Resources/Sprites/Sample/a_sample.png
 - Assets/Resources/Sprites/Sample/c_sample.png
 - Assets/Resources/Sprites/Sample/d_sample.png
@@ -100,6 +300,106 @@ textureFileNames:
 - Assets/Resources/Sprites/Towers/b_towers.png
 normalmapFileNames:
 - Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
 - 
 - 
 - 

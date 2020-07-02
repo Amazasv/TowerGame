@@ -2,18 +2,20 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+
+public delegate void CollisionEvent(Collider2D collision);
 public class AOEInstantDmg : AOEBase
 {
-    public float Dmg = 3.0f;
+    public string targetTag = "Enemy";
+    public CollisionEvent collisionEvent = null;
     public override bool CheckTarget(Collider2D collision)
     {
-        return collision.CompareTag("Enemy");
+        return collision.CompareTag(targetTag);
     }
 
     public override void InstantEffect(Collider2D collision)
     {
         base.InstantEffect(collision);
-        NPCInfo target=collision.GetComponent<NPCInfo>();
-        if (target) target.health -= Dmg;
+        collisionEvent?.Invoke(collision);
     }
 }

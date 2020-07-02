@@ -6,25 +6,19 @@ public class WaveSpawner : MonoBehaviour
 {
     public static WaveSpawner Instance { get; private set; }
     [SerializeField]
-    private GameObject enemyPrefab = null;
-    [SerializeField]
     private Transform[] spawnPoints = null;
 
     private void Awake()
     {
-        if (Instance == null)
-        {
-            Instance = this;
-        }
-        else
-        {
-            Destroy(gameObject);
-        }
+        if (Instance == null) Instance = this;
+        else Destroy(gameObject);
     }
-    public void SpawnAnEnemy()
+
+    public void SpawnEnemy(GameObject prefab)
     {
         int index = Random.Range(0, spawnPoints.Length);
-        GameObject enemy = Instantiate(enemyPrefab, spawnPoints[index].position, Quaternion.identity, transform);
+        GameObject enemy = Instantiate(prefab, spawnPoints[index].position, Quaternion.identity, transform);
         enemy.GetComponent<MoveAlongPath>().wayPoints = spawnPoints[index].GetComponentInParent<WayPoints>();
     }
+
 }

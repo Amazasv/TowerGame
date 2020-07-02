@@ -1,0 +1,476 @@
+fileFormatVersion: 2
+guid: f38aa57b89580a94a869eceab6aa7bf1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5072025812750330254
+    second: u_sie_heavy_scorpion_idleA_x1_01
+  - first:
+      213: 5923954869758772501
+    second: u_sie_heavy_scorpion_idleA_x1_02
+  - first:
+      213: -807277570282998359
+    second: u_sie_heavy_scorpion_idleA_x1_03
+  - first:
+      213: 6869671850224237952
+    second: u_sie_heavy_scorpion_idleA_x1_04
+  - first:
+      213: -7152674817885895653
+    second: u_sie_heavy_scorpion_idleA_x1_05
+  - first:
+      213: 4934555677956409300
+    second: u_sie_heavy_scorpion_idleA_x1_06
+  - first:
+      213: 8294138812215450093
+    second: u_sie_heavy_scorpion_idleA_x1_07
+  - first:
+      213: 8252333851722503078
+    second: u_sie_heavy_scorpion_idleA_x1_08
+  - first:
+      213: -5296890558881951128
+    second: u_sie_heavy_scorpion_idleA_x1_09
+  - first:
+      213: -1342007799688212412
+    second: u_sie_heavy_scorpion_idleA_x1_10
+  - first:
+      213: -4512590187289938928
+    second: u_sie_heavy_scorpion_idleA_x1_11
+  - first:
+      213: 7051082455772015816
+    second: u_sie_heavy_scorpion_idleA_x1_12
+  - first:
+      213: 1938515734909072499
+    second: u_sie_heavy_scorpion_idleA_x1_13
+  - first:
+      213: 1376424586742926420
+    second: u_sie_heavy_scorpion_idleA_x1_14
+  - first:
+      213: 387664377122188193
+    second: u_sie_heavy_scorpion_idleA_x1_15
+  - first:
+      213: -9027503376254834258
+    second: u_sie_heavy_scorpion_idleA_x1_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: u_sie_heavy_scorpion_idleA_x1_01
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 238
+        width: 76
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2769763656b8c99b0800000000000000
+      internalID: -5072025812750330254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_sie_heavy_scorpion_idleA_x1_02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 236
+        width: 76
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52884614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515ca6d419d163250800000000000000
+      internalID: 5923954869758772501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_sie_heavy_scorpion_idleA_x1_03
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 238
+        width: 76
+        height: 55
+      alignment: 9
+      pivot: {x: 0.46052632, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a53424b359fbc4f0800000000000000
+      internalID: -807277570282998359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_sie_heavy_scorpion_idleA_x1_04
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 459
+        width: 83
+        height: 52
+      alignment: 9
+      pivot: {x: 0.4939759, y: 0.50961536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08dbd14962af55f50800000000000000
+      internalID: 6869671850224237952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_sie_heavy_scorpion_idleA_x1_05
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 462
+        width: 82
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5102041}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14870e46289cbc90800000000000000
+      internalID: -7152674817885895653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_sie_heavy_scorpion_idleA_x1_06
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 344
+        width: 77
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5188679}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d78af4ae301b7440800000000000000
+      internalID: 4934555677956409300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_sie_heavy_scorpion_idleA_x1_07
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 187
+        width: 75
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.59183675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9d1e33e43ba1370800000000000000
+      internalID: 8294138812215450093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_sie_heavy_scorpion_idleA_x1_08
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 294
+        width: 77
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5576923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3d9d75aed268270800000000000000
+      internalID: 8252333851722503078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_sie_heavy_scorpion_idleA_x1_09
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 402
+        width: 81
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5090909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86298bfc91aad76b0800000000000000
+      internalID: -5296890558881951128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_sie_heavy_scorpion_idleA_x1_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 290
+        width: 77
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440d7c5340b306de0800000000000000
+      internalID: -1342007799688212412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_sie_heavy_scorpion_idleA_x1_11
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 295
+        width: 77
+        height: 53
+      alignment: 9
+      pivot: {x: 0.4935065, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0147ba5222f0061c0800000000000000
+      internalID: -4512590187289938928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_sie_heavy_scorpion_idleA_x1_12
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 404
+        width: 81
+        height: 56
+      alignment: 9
+      pivot: {x: 0.48765433, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cca742a22a7ad160800000000000000
+      internalID: 7051082455772015816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_sie_heavy_scorpion_idleA_x1_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 455
+        width: 84
+        height: 56
+      alignment: 9
+      pivot: {x: 0.4940476, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374b2ca4acdf6ea10800000000000000
+      internalID: 1938515734909072499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_sie_heavy_scorpion_idleA_x1_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 399
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c0de87eda0a1310800000000000000
+      internalID: 1376424586742926420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_sie_heavy_scorpion_idleA_x1_15
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 348
+        width: 78
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1abe07272b2416500800000000000000
+      internalID: 387664377122188193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_sie_heavy_scorpion_idleA_x1_16
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 350
+        width: 79
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9e0b1528dd7b280800000000000000
+      internalID: -9027503376254834258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

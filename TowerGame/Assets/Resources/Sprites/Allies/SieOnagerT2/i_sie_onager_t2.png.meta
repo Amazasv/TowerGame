@@ -1,0 +1,476 @@
+fileFormatVersion: 2
+guid: a04235fb2752287488d0d265b64c7311
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -921735816473536176
+    second: u_sie_onager_standing_x1_01
+  - first:
+      213: -674839302630409067
+    second: u_sie_onager_standing_x1_02
+  - first:
+      213: -749759916081636954
+    second: u_sie_onager_standing_x1_03
+  - first:
+      213: -4038371062368153131
+    second: u_sie_onager_standing_x1_04
+  - first:
+      213: -2045769544303044210
+    second: u_sie_onager_standing_x1_05
+  - first:
+      213: -5152662236861734204
+    second: u_sie_onager_standing_x1_06
+  - first:
+      213: -1354890687819546491
+    second: u_sie_onager_standing_x1_07
+  - first:
+      213: -4981997167964786558
+    second: u_sie_onager_standing_x1_08
+  - first:
+      213: 9142467694299267473
+    second: u_sie_onager_standing_x1_09
+  - first:
+      213: 7282457943263824650
+    second: u_sie_onager_standing_x1_10
+  - first:
+      213: -7839048216381596622
+    second: u_sie_onager_standing_x1_11
+  - first:
+      213: -1499532959061049794
+    second: u_sie_onager_standing_x1_12
+  - first:
+      213: -3143584639884965959
+    second: u_sie_onager_standing_x1_13
+  - first:
+      213: 300012262872296193
+    second: u_sie_onager_standing_x1_14
+  - first:
+      213: 7662530854677149167
+    second: u_sie_onager_standing_x1_15
+  - first:
+      213: -3933572621803665667
+    second: u_sie_onager_standing_x1_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: u_sie_onager_standing_x1_01
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 440
+        width: 111
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059175298265533f0800000000000000
+      internalID: -921735816473536176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_sie_onager_standing_x1_02
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 433
+        width: 114
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59cfd3eca3d72a6f0800000000000000
+      internalID: -674839302630409067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_sie_onager_standing_x1_03
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 358
+        width: 110
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.50625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9902724515895f0800000000000000
+      internalID: -749759916081636954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_sie_onager_standing_x1_04
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 191
+        width: 98
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53289473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1545c3ae2d4f7c0800000000000000
+      internalID: -4038371062368153131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_sie_onager_standing_x1_05
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 125
+        width: 84
+        height: 74
+      alignment: 9
+      pivot: {x: 0.48214287, y: 0.5202703}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89118b3077fb93e0800000000000000
+      internalID: -2045769544303044210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_sie_onager_standing_x1_06
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 201
+        width: 98
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52597404}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2694cdef01e78b0800000000000000
+      internalID: -5152662236861734204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_sie_onager_standing_x1_07
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 348
+        width: 110
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.50625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58008031916723de0800000000000000
+      internalID: -1354890687819546491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_sie_onager_standing_x1_08
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 354
+        width: 108
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 280f473b8f36cdab0800000000000000
+      internalID: -4981997167964786558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_sie_onager_standing_x1_09
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 280
+        width: 105
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1914139dde190ee70800000000000000
+      internalID: 9142467694299267473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_sie_onager_standing_x1_10
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 278
+        width: 107
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b46ff4aec701560800000000000000
+      internalID: 7282457943263824650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_sie_onager_standing_x1_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 349
+        width: 109
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c5a652e2b163390800000000000000
+      internalID: -7839048216381596622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_sie_onager_standing_x1_12
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 268
+        width: 97
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3efc26f7b6903be0800000000000000
+      internalID: -1499532959061049794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_sie_onager_standing_x1_13
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 200
+        width: 86
+        height: 76
+      alignment: 9
+      pivot: {x: 0.49418604, y: 0.5065789}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7484aec6ebf54d0800000000000000
+      internalID: -3143584639884965959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_sie_onager_standing_x1_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 269
+        width: 99
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ba3c4409bd92400800000000000000
+      internalID: 300012262872296193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_sie_onager_standing_x1_15
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 430
+        width: 110
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe57089e637c65a60800000000000000
+      internalID: 7662530854677149167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_sie_onager_standing_x1_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 433
+        width: 115
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6c03b9a842969c0800000000000000
+      internalID: -3933572621803665667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

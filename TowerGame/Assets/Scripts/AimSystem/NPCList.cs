@@ -5,14 +5,14 @@ using UnityEngine;
 
 public static class NPCList
 {
-    public static List<NPCInfo> enemys = new List<NPCInfo>();
-    public static List<NPCInfo> allies = new List<NPCInfo>();
+    public static List<NPCBase> enemys = new List<NPCBase>();
+    public static List<NPCBase> allies = new List<NPCBase>();
 
 
-    public static NPCInfo NearestAllEnemy(Transform origin)
+    public static NPCBase NearestAllEnemy(Transform origin)
     {
-        NPCInfo target = null;
-        foreach (NPCInfo tmp in enemys)
+        NPCBase target = null;
+        foreach (NPCBase tmp in enemys)
         {
             if (tmp.invincible) continue;
             if (target == null || GetDistance(tmp.transform, origin) < GetDistance(target.transform, origin))
@@ -20,10 +20,10 @@ public static class NPCList
         }
         return target;
     }
-    public static NPCInfo NearestFreeEnemy(Transform origin)
+    public static NPCBase NearestFreeEnemy(Transform origin)
     {
-        NPCInfo target = null;
-        foreach (NPCInfo tmp in enemys)
+        NPCBase target = null;
+        foreach (NPCBase tmp in enemys)
         {
             if (tmp.invincible) continue;
             if (tmp.target == null)
@@ -34,10 +34,10 @@ public static class NPCList
         }
         return target;
     }
-    public static NPCInfo NearestAllAlly(Transform origin)
+    public static NPCBase NearestAllAlly(Transform origin)
     {
-        NPCInfo target = null;
-        foreach (NPCInfo tmp in allies)
+        NPCBase target = null;
+        foreach (NPCBase tmp in allies)
         {
             if (tmp.invincible) continue;
             if (target == null || GetDistance(tmp.transform, origin) < GetDistance(target.transform, origin))
@@ -45,10 +45,10 @@ public static class NPCList
         }
         return target;
     }
-    public static NPCInfo NearestFreeAlly(Transform origin)
+    public static NPCBase NearestFreeAlly(Transform origin)
     {
-        NPCInfo target = null;
-        foreach (NPCInfo tmp in allies)
+        NPCBase target = null;
+        foreach (NPCBase tmp in allies)
         {
             if (tmp.invincible) continue;
             if (tmp.target == null)

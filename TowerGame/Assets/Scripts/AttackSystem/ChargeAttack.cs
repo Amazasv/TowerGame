@@ -4,14 +4,16 @@ using UnityEngine;
 [RequireComponent(typeof(Moveable))]
 public class ChargeAttack : AbilityBase
 {
-    public float speed = 3.0f;
-    public float AutoSearchRAG = 4.0f;
+    public float additonalSpeedMult = 0.4f;
     public static float AARange = 0.4f;
     public float ChargeDmg = 1.0f;
     public GameObject AOEPrefab = null;
+    public float RAG = 4.0f;
+    [SerializeField]
+    private GameObject cmdCirclePrefab = null;
 
-    protected Moveable moveable = null;
-
+    private Moveable moveable = null;
+    private GameObject cmdCircle = null;
     protected override void UpdateREF()
     {
         base.UpdateREF();
@@ -21,35 +23,61 @@ public class ChargeAttack : AbilityBase
     protected override void StartWaitEffect()
     {
         base.StartWaitEffect();
-        moveable.arriveDelegate += SetWaitFalse;
-        moveable.MoveSpeed += speed;
+        moveable.speedMult += additonalSpeedMult;
     }
 
     protected override void UpdateWaitEffect()
     {
         Vector3 dirVector = transform.position - NPCinfo.target.transform.position;
-        moveable.targetPos = NPCinfo.target.transform.position + (AARange - 0.1f) * dirVector.normalized; ;
+        moveable.targetPos = NPCinfo.target.transform.position;
+        if (dirVector.magnitude <= AARange - 0.01f)
+        {
+            moveable.targetPos = transform.position;
+            EndWaitEffect();
+        }
     }
 
     protected override void InstantEffect()
     {
         base.InstantEffect();
-        if (AOEPrefab) Instantiate(AOEPrefab, transform);
+        if (AOEPrefab)
+        {
+            GameObject AOE = Instantiate(AOEPrefab, transform);
+            AOE.transform.Rotate(Vector3.forward, Vector2.SignedAngle(Vector3.right, moveable.dirVec));
+            AOE.GetComponent<AOEInstantDmg>().collisionEvent = InstantDMGDelegate;
+        }
     }
 
     public override bool CheckTarget()
     {
-        return (NPCinfo.target && Vector3.Distance(transform.position, NPCinfo.target.transform.position) < AutoSearchRAG);
+        return (NPCinfo.target && Vector3.Distance(transform.position, NPCinfo.target.transform.position) < RAG);
+    }
+    protected override void EndWaitEffect()
+    {
+        moveable.speedMult -= additonalSpeedMult;
+        if (anim)
+        {
+            anim.SetFloat("Horizontal", (NPCinfo.target.transform.position - transform.position).x);
+            anim.SetFloat("Vertical", (NPCinfo.target.transform.position - transform.position).y);
+        }
+        base.EndWaitEffect();
     }
 
-    protected override void EndEffect()
+    private void InstantDMGDelegate(Collider2D collision)
     {
-        base.EndEffect();
+        NPCBase target = collision.GetComponent<NPCBase>();
+        if (target) target.DealDmg(ChargeDmg, DMGType.None);
     }
-
-    public void SetWaitFalse()
+    public override void ShowIndicator()
     {
-        moveable.MoveSpeed -= speed;
-        moveable.arriveDelegate -= SetWaitFalse;
+        if (cmdCirclePrefab)
+        {
+            cmdCircle = Instantiate(cmdCirclePrefab, transform);
+            cmdCircle.transform.localScale = RAG * 2 * Vector2.one;
+        }
+    }
+    public override void HideIndicator()
+    {
+        if (cmdCircle) Destroy(cmdCircle);
     }
 }

@@ -1,0 +1,860 @@
+fileFormatVersion: 2
+guid: ee06a9df128028d42acca6545c7206cd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5388680314787169090
+    second: p_bolt_x1_01
+  - first:
+      213: 6323491034068175685
+    second: p_bolt_x1_02
+  - first:
+      213: 7616348027968488022
+    second: p_bolt_x1_03
+  - first:
+      213: 2470921100870367400
+    second: p_bolt_x1_04
+  - first:
+      213: 134982638842145436
+    second: p_bolt_x1_05
+  - first:
+      213: 1655607929291528023
+    second: p_bolt_x1_06
+  - first:
+      213: -7900996516346712977
+    second: p_bolt_x1_07
+  - first:
+      213: -8106767268539860769
+    second: p_bolt_x1_08
+  - first:
+      213: 7988844034683473824
+    second: p_bolt_x1_09
+  - first:
+      213: -4763054242316804440
+    second: p_bolt_x1_10
+  - first:
+      213: -7964849975763675795
+    second: p_bolt_x1_11
+  - first:
+      213: -5157987643435757141
+    second: p_bolt_x1_12
+  - first:
+      213: 7961691152503515897
+    second: p_bolt_x1_13
+  - first:
+      213: -7126587194619412160
+    second: p_bolt_x1_14
+  - first:
+      213: 2356568577717758738
+    second: p_bolt_x1_15
+  - first:
+      213: -2294448226818300742
+    second: p_bolt_x1_16
+  - first:
+      213: 7232328098813072044
+    second: p_bolt_x1_17
+  - first:
+      213: 1066477979530394861
+    second: p_bolt_x1_18
+  - first:
+      213: 7546903829679328845
+    second: p_bolt_x1_19
+  - first:
+      213: 999448973923309616
+    second: p_bolt_x1_20
+  - first:
+      213: -5695658192180383445
+    second: p_bolt_x1_21
+  - first:
+      213: 1460413560731068679
+    second: p_bolt_x1_22
+  - first:
+      213: -8484192098195994527
+    second: p_bolt_x1_23
+  - first:
+      213: -6778981237587967664
+    second: p_bolt_x1_24
+  - first:
+      213: 6361549726886473213
+    second: p_bolt_x1_25
+  - first:
+      213: 6256526323374988296
+    second: p_bolt_x1_26
+  - first:
+      213: 3596142569583389833
+    second: p_bolt_x1_27
+  - first:
+      213: -1861040503990010508
+    second: p_bolt_x1_28
+  - first:
+      213: -5129431905569895987
+    second: p_bolt_x1_29
+  - first:
+      213: 4278423900793701534
+    second: p_bolt_x1_30
+  - first:
+      213: -7377354477003689165
+    second: p_bolt_x1_31
+  - first:
+      213: 5178746431421645369
+    second: p_bolt_x1_32
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: p_bolt_x1_01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 203
+        width: 47
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc78fcddcf8735b0800000000000000
+      internalID: -5388680314787169090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_bolt_x1_02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 244
+        width: 48
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b400a979d81c750800000000000000
+      internalID: 6323491034068175685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_bolt_x1_03
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 186
+        width: 45
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6520fc4ad24b2b960800000000000000
+      internalID: 7616348027968488022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_bolt_x1_04
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 166
+        width: 43
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8356556a97a4220800000000000000
+      internalID: 2470921100870367400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_bolt_x1_05
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 124
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ae70faefd8fd100800000000000000
+      internalID: 134982638842145436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_bolt_x1_06
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 100
+        width: 32
+        height: 22
+      alignment: 9
+      pivot: {x: 0.421875, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757ddb0d3a6e9f610800000000000000
+      internalID: 1655607929291528023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_bolt_x1_07
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 231
+        width: 26
+        height: 24
+      alignment: 9
+      pivot: {x: 0.34615386, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c2e8797850a5290800000000000000
+      internalID: -7900996516346712977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_bolt_x1_08
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 203
+        width: 21
+        height: 26
+      alignment: 9
+      pivot: {x: 0.26190478, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8fae9ee1afe7f80800000000000000
+      internalID: -8106767268539860769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_bolt_x1_09
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 77
+        width: 12
+        height: 26
+      alignment: 9
+      pivot: {x: -0.20833333, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af8e45a2531ede60800000000000000
+      internalID: 7988844034683473824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_bolt_x1_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 22
+        width: 19
+        height: 26
+      alignment: 9
+      pivot: {x: 0.10526316, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae1ac0076b36edb0800000000000000
+      internalID: -4763054242316804440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_bolt_x1_11
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 177
+        width: 32
+        height: 24
+      alignment: 9
+      pivot: {x: 0.40625, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65d359852b277190800000000000000
+      internalID: -7964849975763675795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_bolt_x1_12
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 153
+        width: 33
+        height: 22
+      alignment: 9
+      pivot: {x: 0.37878788, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1582501952b68b0800000000000000
+      internalID: -5157987643435757141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_bolt_x1_13
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 124
+        width: 41
+        height: 20
+      alignment: 9
+      pivot: {x: 0.46341464, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9faa75c9beb9d7e60800000000000000
+      internalID: 7961691152503515897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_bolt_x1_14
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 166
+        width: 43
+        height: 18
+      alignment: 9
+      pivot: {x: 0.4651163, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041ccdb64b6491d90800000000000000
+      internalID: -7126587194619412160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_bolt_x1_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 214
+        width: 47
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21be6b3c2a634b020800000000000000
+      internalID: 2356568577717758738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_bolt_x1_16
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 244
+        width: 48
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab468f48e7b7820e0800000000000000
+      internalID: -2294448226818300742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_bolt_x1_17
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 203
+        width: 47
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca254dc56146e5460800000000000000
+      internalID: 7232328098813072044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_bolt_x1_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 231
+        width: 48
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec7faa6214ecce00800000000000000
+      internalID: 1066477979530394861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_bolt_x1_19
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 214
+        width: 47
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e42124c0dfbb860800000000000000
+      internalID: 7546903829679328845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_bolt_x1_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 146
+        width: 43
+        height: 18
+      alignment: 9
+      pivot: {x: 0.4651163, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038d3d5eb81cedd00800000000000000
+      internalID: 999448973923309616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_bolt_x1_21
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 105
+        width: 39
+        height: 20
+      alignment: 9
+      pivot: {x: 0.43589744, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b217b051d05f4f0b0800000000000000
+      internalID: -5695658192180383445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_bolt_x1_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 78
+        width: 32
+        height: 22
+      alignment: 9
+      pivot: {x: 0.359375, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709e988556e644410800000000000000
+      internalID: 1460413560731068679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_bolt_x1_23
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 74
+        width: 29
+        height: 24
+      alignment: 9
+      pivot: {x: 0.3448276, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1680ad4ec38124a80800000000000000
+      internalID: -8484192098195994527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_bolt_x1_24
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 22
+        width: 19
+        height: 26
+      alignment: 9
+      pivot: {x: 0.10526316, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05108822b783ce1a0800000000000000
+      internalID: -6778981237587967664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_bolt_x1_25
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 53
+        width: 12
+        height: 26
+      alignment: 9
+      pivot: {x: -0.20833333, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd2d0c85c3c84850800000000000000
+      internalID: 6361549726886473213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_bolt_x1_26
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 50
+        width: 20
+        height: 26
+      alignment: 9
+      pivot: {x: 0.225, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c95a8ea85a3d650800000000000000
+      internalID: 6256526323374988296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_bolt_x1_27
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 127
+        width: 32
+        height: 24
+      alignment: 9
+      pivot: {x: 0.46875, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98cada52d9018e130800000000000000
+      internalID: 3596142569583389833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_bolt_x1_28
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 81
+        width: 32
+        height: 22
+      alignment: 9
+      pivot: {x: 0.421875, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47dbf0795814c26e0800000000000000
+      internalID: -1861040503990010508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_bolt_x1_29
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 102
+        width: 39
+        height: 20
+      alignment: 9
+      pivot: {x: 0.47435898, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc983f8dbd890d8b0800000000000000
+      internalID: -5129431905569895987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_bolt_x1_30
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 146
+        width: 43
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e948955aed3006b30800000000000000
+      internalID: 4278423900793701534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_bolt_x1_31
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 186
+        width: 45
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333be08a03f5e9990800000000000000
+      internalID: -7377354477003689165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_bolt_x1_32
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 231
+        width: 48
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93285b2f07a9ed740800000000000000
+      internalID: 5178746431421645369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

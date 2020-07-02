@@ -1,8 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-[RequireComponent(typeof(AutoAttackSystem))]
-[RequireComponent(typeof(NPCInfo))]
 public abstract class AbilityBase : MonoBehaviour
 {
     public float abilityCD = 0.0f;
@@ -10,22 +8,21 @@ public abstract class AbilityBase : MonoBehaviour
     public float castAnim = 0.0f;
     public int autoCastPriority = 0;
 
-
-
     protected AutoAttackSystem attackSystem = null;
-    protected NPCInfo NPCinfo = null;
+    protected NPCBase NPCinfo = null;
     protected Animator anim = null;
 
     protected delegate void UpdateFunc();
     protected UpdateFunc updateFunc;
 
+    //private GameObject cmdCircle = null;
     protected float cd = 0.0f;
     protected float channeling = 0.0f;
     //protected float animating = 0.0f;
     virtual protected void UpdateREF()
     {
         attackSystem = GetComponent<AutoAttackSystem>();
-        NPCinfo = GetComponent<NPCInfo>();
+        NPCinfo = GetComponent<NPCBase>();
         anim = GetComponent<Animator>();
     }
     virtual protected void StartWaitEffect() { }//用于指示选择目标，这个取名不满意啊啊
@@ -53,6 +50,21 @@ public abstract class AbilityBase : MonoBehaviour
     virtual protected void ChannelingEffect() { }
     virtual protected void EndEffect() { }
     abstract public bool CheckTarget();
+
+    virtual public void ShowIndicator() { }
+    virtual public void HideIndicator() { }
+    //public override void ShowIndicator()
+    //{
+    //    if (cmdCirclePrefab)
+    //    {
+    //        cmdCircle = Instantiate(cmdCirclePrefab, transform);
+    //        cmdCircle.transform.localScale = RAG * 2 * Vector2.one;
+    //    }
+    //}
+    //public override void HideIndicator()
+    //{
+    //    if (cmdCircle) Destroy(cmdCircle);
+    //}
     public bool Use()
     {
         if (cd == 0.0f && CheckTarget())
@@ -69,16 +81,15 @@ public abstract class AbilityBase : MonoBehaviour
     {
         updateFunc = null;
         CancelInvoke();
-        attackSystem.animating = false;
+        if (attackSystem) attackSystem.animating = false;
         EndEffect();
     }
-    
+
 
     private void Awake()
     {
         UpdateREF();
-        if (attackSystem.abilityList.Contains(this)) Destroy(this);
-        else attackSystem.abilityList.Add(this);
+        if (attackSystem) attackSystem.abilityList.Add(this);
     }
 
     private void Update()
@@ -89,18 +100,6 @@ public abstract class AbilityBase : MonoBehaviour
             if (!CheckTarget()) Interrupt();
             updateFunc?.Invoke();
         }
-    }
-
-    private void OnDestroy()
-    {
-        attackSystem.abilityList.Remove(this);
-    }
-}
-class ICompareSkill : IComparer<AbilityBase>
-{
-    public int Compare(AbilityBase x, AbilityBase y)
-    {
-        return y.autoCastPriority - x.autoCastPriority;
     }
 }
 

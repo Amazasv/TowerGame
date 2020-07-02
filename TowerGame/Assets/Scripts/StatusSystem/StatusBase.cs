@@ -2,28 +2,37 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-[RequireComponent(typeof(NPCInfo))]
+[RequireComponent(typeof(NPCBase))]
 public class StatusBase : MonoBehaviour
 {
     public float duration = 3.0f;
-    protected NPCInfo NPCinfo = null;
+    protected NPCBase NPCinfo = null;
     virtual protected void StartEffect() { }
     virtual protected void UpdateEffect() { }
     virtual protected void EndEffect() { }
+    virtual protected void UpdateREF()
+    {
+        NPCinfo = GetComponent<NPCBase>();
+    }
 
     private void Awake()
     {
-        NPCinfo = GetComponent<NPCInfo>();
+        UpdateREF();
         NPCinfo.statusList.Add(this);
+    }
+
+    private void Start()
+    {
         StartEffect();
     }
 
     private void Update()
     {
+
         if (duration > 0.0f)
         {
-            UpdateEffect();
             duration -= Time.deltaTime;
+            if (!NPCinfo.invincible) UpdateEffect();
         }
         else Destroy(this);
     }

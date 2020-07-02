@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TilesAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 68531ab8bc5f15e408551b7bdf6eb009, type: 3}
+    - {fileID: 2800000, guid: fe733535807b98446a4dece994c0dfee, type: 3}
+    - {fileID: 2800000, guid: 6f8baf7d2b9abcd4bbe733377dd5addc, type: 3}
+    - {fileID: 2800000, guid: 2a75afeb522e49940991c1856da99949, type: 3}
+    - {fileID: 2800000, guid: 463a3a249b802234fa7c0c1958d8653e, type: 3}
+    - {fileID: 2800000, guid: ad5786183f87ab94198e6e6ab62845cf, type: 3}
+    - {fileID: 2800000, guid: 08b0b619ba03dd14ab6897b196c3e162, type: 3}
+    - {fileID: 2800000, guid: 45a77e6760ab56f499dc52dfa61045e6, type: 3}
+    - {fileID: 2800000, guid: 61ab5c37415d06c45a4e8981aeacfadf, type: 3}
+    - {fileID: 2800000, guid: cb065510c97f5c54e90ea90be4976081, type: 3}
+    totalSpriteSurfaceArea: 917504
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: cb065510c97f5c54e90ea90be4976081, type: 3}
+  - {fileID: 21300000, guid: 463a3a249b802234fa7c0c1958d8653e, type: 3}
+  - {fileID: 21300000, guid: fe733535807b98446a4dece994c0dfee, type: 3}
+  - {fileID: 21300000, guid: 61ab5c37415d06c45a4e8981aeacfadf, type: 3}
+  - {fileID: 21300000, guid: 45a77e6760ab56f499dc52dfa61045e6, type: 3}
+  - {fileID: 21300000, guid: ad5786183f87ab94198e6e6ab62845cf, type: 3}
+  - {fileID: 21300000, guid: 68531ab8bc5f15e408551b7bdf6eb009, type: 3}
+  - {fileID: 21300000, guid: 08b0b619ba03dd14ab6897b196c3e162, type: 3}
+  - {fileID: 21300000, guid: 2a75afeb522e49940991c1856da99949, type: 3}
+  - {fileID: 21300000, guid: 6f8baf7d2b9abcd4bbe733377dd5addc, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - stone
+  - dirt
+  - concrete
+  - snow
+  - rock
+  - dirtsand
+  - brickpavers
+  - grass
+  - darkgrass
+  - cretebrick
+  m_Tag: TilesAtlas
+  m_IsVariant: 0

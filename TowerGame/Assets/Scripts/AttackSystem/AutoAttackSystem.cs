@@ -4,6 +4,17 @@ using UnityEngine;
 
 public class AutoAttackSystem : MonoBehaviour
 {
+    [SerializeField]
+    private bool m_Silence = false;
+    public bool silence
+    {
+        get { return m_Silence; }
+        set
+        {
+            m_Silence = value;
+            if (value) InterruptAll();
+        }
+    }
     public bool autoCast = true;
     public float attackSpeed = 1.0f;
     public bool animating = false;
@@ -26,8 +37,15 @@ public class AutoAttackSystem : MonoBehaviour
         if (cd == 0.0f && autoCast) UseAbility();
     }
 
+    public void InterruptAll()
+    {
+        foreach (AbilityBase tmp in abilityList)
+            tmp.Interrupt();
+    }
+
     private void UseAbility()
     {
+        if (silence) return;
         foreach (AbilityBase tmp in abilityList)
             if (tmp.autoCastPriority >= 0 && tmp.Use())
             {
@@ -44,9 +62,15 @@ public class AutoAttackSystem : MonoBehaviour
                 return true;
         return false;
     }
-
     private void SortAbilities()
     {
         abilityList.Sort(new ICompareSkill());
+    }
+}
+class ICompareSkill : IComparer<AbilityBase>
+{
+    public int Compare(AbilityBase x, AbilityBase y)
+    {
+        return y.autoCastPriority - x.autoCastPriority;
     }
 }

@@ -86,6 +86,24 @@ TextureImporter:
   - first:
       213: 2356607762675296798
     second: b_misc_foundation_4x4_x1_3
+  - first:
+      213: -3929850717747111037
+    second: b_asia_stable_age2_x1_01
+  - first:
+      213: -4771558227559832472
+    second: b_asia_stable_age3_x1_01
+  - first:
+      213: -6299580789565049513
+    second: b_east_barracks_age3_x1
+  - first:
+      213: 7806216400974150920
+    second: b_east_stable_age3_x1_01
+  - first:
+      213: 467821610936726512
+    second: b_west_barracks_age3_x1
+  - first:
+      213: 8333485630145895920
+    second: b_west_stable_age3_x1_01
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -210,12 +228,12 @@ TextureImporter:
       name: b_asia_archery_range_age2_x1
       rect:
         serializedVersion: 2
-        x: 386
-        y: 489
+        x: 1
+        y: 1085
         width: 342
         height: 274
-      alignment: 9
-      pivot: {x: 0.51754385, y: 0.3540146}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -231,12 +249,12 @@ TextureImporter:
       name: b_asia_archery_range_age3_x1
       rect:
         serializedVersion: 2
-        x: 1
-        y: 359
+        x: 467
+        y: 1741
         width: 337
         height: 306
-      alignment: 9
-      pivot: {x: 0.52522254, y: 0.35620916}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -252,12 +270,12 @@ TextureImporter:
       name: b_asia_barracks_age2_x1
       rect:
         serializedVersion: 2
-        x: 265
-        y: 273
+        x: 1
+        y: 809
         width: 319
         height: 274
-      alignment: 9
-      pivot: {x: 0.53291535, y: 0.30291972}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -273,12 +291,12 @@ TextureImporter:
       name: b_asia_barracks_age3_x1
       rect:
         serializedVersion: 2
-        x: 51
-        y: 97
+        x: 1
+        y: 284
         width: 327
         height: 260
-      alignment: 9
-      pivot: {x: 0.49235475, y: 0.31923077}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -295,11 +313,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1
-        y: 624
+        y: 1648
         width: 464
         height: 399
-      alignment: 9
-      pivot: {x: 0.62931037, y: 0.22055137}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -315,12 +333,12 @@ TextureImporter:
       name: b_asia_monastery_age3_x1
       rect:
         serializedVersion: 2
-        x: 586
-        y: 279
+        x: 325
+        y: 629
         width: 298
         height: 271
-      alignment: 9
-      pivot: {x: 0.5201342, y: 0.30258304}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -336,12 +354,12 @@ TextureImporter:
       name: b_asia_siege_workshop_age3_x1
       rect:
         serializedVersion: 2
-        x: 441
-        y: 738
+        x: 1
+        y: 1361
         width: 374
         height: 285
-      alignment: 9
-      pivot: {x: 0.51069516, y: 0.30877194}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -354,15 +372,57 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
+      name: b_asia_stable_age2_x1_01
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 155
+        width: 336
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b9e5ce79d5679c0800000000000000
+      internalID: -3929850717747111037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: b_asia_stable_age3_x1_01
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1494
+        width: 355
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8642435a21508cdb0800000000000000
+      internalID: -4771558227559832472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
       name: b_asia_tower_age2_x1
       rect:
         serializedVersion: 2
-        x: 1146
-        y: 710
+        x: 824
+        y: 1602
         width: 178
         height: 210
-      alignment: 9
-      pivot: {x: 0.71910113, y: 0.13809524}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -378,12 +438,12 @@ TextureImporter:
       name: b_asia_tower_age3_x1
       rect:
         serializedVersion: 2
-        x: 817
-        y: 788
+        x: 806
+        y: 1814
         width: 210
         height: 233
-      alignment: 9
-      pivot: {x: 0.6904762, y: 0.1416309}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -399,12 +459,12 @@ TextureImporter:
       name: b_asia_tower_age4_x1
       rect:
         serializedVersion: 2
-        x: 908
-        y: 572
+        x: 628
+        y: 448
         width: 231
         height: 241
-      alignment: 9
-      pivot: {x: 0.71428573, y: 0.17012449}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -420,12 +480,12 @@ TextureImporter:
       name: b_asia_tower_bombard_x1
       rect:
         serializedVersion: 2
-        x: 1007
-        y: 791
+        x: 668
+        y: 214
         width: 226
         height: 232
-      alignment: 9
-      pivot: {x: 0.71681416, y: 0.12931034}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -441,12 +501,12 @@ TextureImporter:
       name: b_asia_tower_scen_x1
       rect:
         serializedVersion: 2
-        x: 814
-        y: 208
+        x: 1
+        y: 1
         width: 240
         height: 281
-      alignment: 9
-      pivot: {x: 0.6791667, y: 0.13523132}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -459,11 +519,116 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
+      name: b_east_barracks_age3_x1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 546
+        width: 322
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755b91406a46398a0800000000000000
+      internalID: -6299580789565049513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: b_east_stable_age3_x1_01
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 390
+        width: 296
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d74e32570455c60800000000000000
+      internalID: 7806216400974150920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: b_misc_foundation_3x3_x1_1
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 57
+        width: 271
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b6f83c32c2b1330800000000000000
+      internalID: 3682585652421946210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: b_misc_foundation_3x3_x1_2
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 849
+        width: 275
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b01f36c2f678e60800000000000000
+      internalID: 7964456702473997121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: b_misc_foundation_3x3_x1_3
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 691
+        width: 274
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae36658d2832a430800000000000000
+      internalID: 3792655604362133160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
       name: b_misc_foundation_4x4_x1_1
       rect:
         serializedVersion: 2
-        x: 666
-        y: 56
+        x: 345
+        y: 902
         width: 357
         height: 191
       alignment: 0
@@ -483,8 +648,8 @@ TextureImporter:
       name: b_misc_foundation_4x4_x1_2
       rect:
         serializedVersion: 2
-        x: 404
-        y: 133
+        x: 345
+        y: 1095
         width: 359
         height: 198
       alignment: 0
@@ -504,8 +669,8 @@ TextureImporter:
       name: b_misc_foundation_4x4_x1_3
       rect:
         serializedVersion: 2
-        x: 629
-        y: 607
+        x: 377
+        y: 1295
         width: 360
         height: 197
       alignment: 0
@@ -517,6 +682,48 @@ TextureImporter:
       bones: []
       spriteID: e1a6039364a54b020800000000000000
       internalID: 2356607762675296798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: b_west_barracks_age3_x1
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 1009
+        width: 316
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f3722ac6490e7600800000000000000
+      internalID: 467821610936726512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: b_west_stable_age3_x1_01
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1262
+        width: 284
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd1ba5270d76a370800000000000000
+      internalID: 8333485630145895920
       vertices: []
       indices: 
       edges: []

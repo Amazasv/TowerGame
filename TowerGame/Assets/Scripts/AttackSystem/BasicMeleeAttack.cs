@@ -5,11 +5,14 @@ using UnityEngine;
 [RequireComponent(typeof(Moveable))]
 public class BasicMeleeAttack : AbilityBase
 {
-    public float AutoSearchRAG = 2.0f;
     public static float AARange = 0.4f;
     public float AADmg = 1.0f;
+    public float RAG = 4.0f;
+    [SerializeField]
+    private GameObject cmdCirclePrefab = null;
 
-    protected Moveable moveable = null;
+    private Moveable moveable = null;
+    private GameObject cmdCircle = null;
     protected override void UpdateREF()
     {
         base.UpdateREF();
@@ -29,13 +32,13 @@ public class BasicMeleeAttack : AbilityBase
 
     protected override void InstantEffect()
     {
-        if (NPCinfo.target) NPCinfo.target.DealDmg(AADmg);
+        if (NPCinfo.target) NPCinfo.target.DealDmg(AADmg,DMGType.Melee);
         base.InstantEffect();
     }
 
     public override bool CheckTarget()
     {
-        return (NPCinfo.target && Vector3.Distance(transform.position, NPCinfo.target.transform.position) < AutoSearchRAG);
+        return (NPCinfo.target && Vector3.Distance(transform.position, NPCinfo.target.transform.position) < RAG);
     }
 
     protected override void EndWaitEffect()
@@ -46,5 +49,17 @@ public class BasicMeleeAttack : AbilityBase
             anim.SetFloat("Vertical", (NPCinfo.target.transform.position - transform.position).y);
         }
         base.EndWaitEffect();
+    }
+    public override void ShowIndicator()
+    {
+        if (cmdCirclePrefab)
+        {
+            cmdCircle = Instantiate(cmdCirclePrefab, transform);
+            cmdCircle.transform.localScale = RAG * 2 * Vector2.one;
+        }
+    }
+    public override void HideIndicator()
+    {
+        if (cmdCircle) Destroy(cmdCircle);
     }
 }

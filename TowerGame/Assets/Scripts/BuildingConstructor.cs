@@ -7,15 +7,22 @@ public class BuildingConstructor : MonoBehaviour
     [SerializeField]
     private Transform defaultPoint = null;
 
-    public GameObject tower = null;
-    public void Build(int index)
-    {
-        if (PanelController.Instance) PanelController.Instance.ClosePanel();
-        if (tower) Destroy(tower);
-        tower = Instantiate(GameManager.Instance.Tower[index], transform);
-        CampAI assemble = tower.GetComponent<CampAI>();
-        if (assemble) assemble.assemblyPoint.position = defaultPoint.position;
+    private TowerBase tower = null;
 
-        GameManager.Instance.money -= GameManager.Instance.TowerCost[index];
+    private void Awake()
+    {
+        tower = GetComponentInChildren<TowerBase>();
+    }
+    public void Build(GameObject towerPrefab)
+    {
+        //if (PanelController.Instance) PanelController.Instance.ClosePanel();//mark
+        if (tower) Destroy(tower.gameObject);
+        if (towerPrefab)
+        {
+            tower = Instantiate(towerPrefab, transform).GetComponent<TowerBase>();
+            AssembleLayout assemble = tower.GetComponentInChildren<AssembleLayout>();
+            if (assemble) assemble.SetAssemblyPoint(defaultPoint.position);
+            GameManager.Instance.money -= tower.cost;
+        }
     }
 }

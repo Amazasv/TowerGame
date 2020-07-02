@@ -2,23 +2,24 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-[RequireComponent(typeof(Animator))]
 public class PanelController : MonoBehaviour
 {
-    public static PanelController Instance { get; private set; }
-
-
     private Animator anim = null;
-
+    private BtnBuildTower[] btns = null;
     private void Awake()
     {
         anim = GetComponent<Animator>();
-        if (Instance) Instance.ClosePanel();
-        Instance = this;
+        btns = GetComponentsInChildren<BtnBuildTower>();
+    }
+
+    public void CancelPreview()
+    {
+        foreach (BtnBuildTower btn in btns) btn.Cancel();
     }
 
     public void ClosePanel()
     {
-        anim.SetTrigger("Destory");
+        if (anim) anim.SetTrigger("Destroy");
+        else Destroy(gameObject);
     }
 }

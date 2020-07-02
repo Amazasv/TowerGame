@@ -19,13 +19,16 @@ public class Interceptor : AimBase
         }
     }
 
-    protected override void TryNewTarget(NPCInfo newTarget)
+    protected override void TryNewTarget(NPCBase newTarget)
     {
-        NPCInfo record = NPCinfo.target;
+        NPCBase record = NPCinfo.target;
         NPCinfo.target = newTarget;
         if (attackSystem.CheckAnyCanUse())
         {
-            if (NPCinfo.target.target == null) NPCinfo.target.target = NPCinfo;
+            if (NPCinfo.target.target == null)
+            {
+                NPCinfo.target.target = NPCinfo;
+            }
         }
         else NPCinfo.target = record;
     }

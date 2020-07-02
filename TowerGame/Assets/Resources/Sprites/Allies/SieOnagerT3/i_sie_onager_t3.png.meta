@@ -1,0 +1,476 @@
+fileFormatVersion: 2
+guid: 237ab7aa10d080b42b04f8670b9ed55e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7578662109485527270
+    second: u_sie_siege_onager_idleA_x1_01
+  - first:
+      213: -1372655099335172769
+    second: u_sie_siege_onager_idleA_x1_02
+  - first:
+      213: 803247293863399821
+    second: u_sie_siege_onager_idleA_x1_03
+  - first:
+      213: -6852616217330288474
+    second: u_sie_siege_onager_idleA_x1_04
+  - first:
+      213: -6177578817580424502
+    second: u_sie_siege_onager_idleA_x1_05
+  - first:
+      213: 1732691094930302843
+    second: u_sie_siege_onager_idleA_x1_06
+  - first:
+      213: -7081225782375329137
+    second: u_sie_siege_onager_idleA_x1_07
+  - first:
+      213: -1186140807032748829
+    second: u_sie_siege_onager_idleA_x1_08
+  - first:
+      213: 3044289249346996369
+    second: u_sie_siege_onager_idleA_x1_09
+  - first:
+      213: -2312198150551351680
+    second: u_sie_siege_onager_idleA_x1_10
+  - first:
+      213: -1707654085557070908
+    second: u_sie_siege_onager_idleA_x1_11
+  - first:
+      213: -4805977403135851564
+    second: u_sie_siege_onager_idleA_x1_12
+  - first:
+      213: -9086344686248448056
+    second: u_sie_siege_onager_idleA_x1_13
+  - first:
+      213: 7509719628035256745
+    second: u_sie_siege_onager_idleA_x1_14
+  - first:
+      213: -5355423755943777527
+    second: u_sie_siege_onager_idleA_x1_15
+  - first:
+      213: 5246593180333469063
+    second: u_sie_siege_onager_idleA_x1_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: u_sie_siege_onager_idleA_x1_01
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 440
+        width: 116
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f076307fe23d690800000000000000
+      internalID: -7578662109485527270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_sie_siege_onager_idleA_x1_02
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 435
+        width: 120
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d9ff4b57953fce0800000000000000
+      internalID: -1372655099335172769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_sie_siege_onager_idleA_x1_03
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 358
+        width: 111
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8195817825b52b00800000000000000
+      internalID: 803247293863399821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_sie_siege_onager_idleA_x1_04
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 260
+        width: 101
+        height: 83
+      alignment: 9
+      pivot: {x: 0.4950495, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a872f76bdd96e0a0800000000000000
+      internalID: -6852616217330288474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_sie_siege_onager_idleA_x1_05
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 196
+        width: 86
+        height: 82
+      alignment: 9
+      pivot: {x: 0.47093022, y: 0.50609756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2242eabc4d44aa0800000000000000
+      internalID: -6177578817580424502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_sie_siege_onager_idleA_x1_06
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 196
+        width: 100
+        height: 82
+      alignment: 9
+      pivot: {x: 0.495, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77adc2ee51cb0810800000000000000
+      internalID: 1732691094930302843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_sie_siege_onager_idleA_x1_07
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 354
+        width: 111
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5063291}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f825e2b3bae6abd90800000000000000
+      internalID: -7081225782375329137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_sie_siege_onager_idleA_x1_08
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 280
+        width: 110
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4c73f683bf98fe0800000000000000
+      internalID: -1186140807032748829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_sie_siege_onager_idleA_x1_09
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 280
+        width: 109
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1984ed461fc7f3a20800000000000000
+      internalID: 3044289249346996369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_sie_siege_onager_idleA_x1_10
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 345
+        width: 110
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e421a580c69efd0800000000000000
+      internalID: -2312198150551351680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_sie_siege_onager_idleA_x1_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 349
+        width: 110
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3502f18a13d48e0800000000000000
+      internalID: -1707654085557070908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_sie_siege_onager_idleA_x1_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 188
+        width: 100
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d38887d30dbd4db0800000000000000
+      internalID: -4805977403135851564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_sie_siege_onager_idleA_x1_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 108
+        width: 84
+        height: 78
+      alignment: 9
+      pivot: {x: 0.4642857, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf276d36a1d6e180800000000000000
+      internalID: -9086344686248448056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_sie_siege_onager_idleA_x1_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 269
+        width: 102
+        height: 78
+      alignment: 9
+      pivot: {x: 0.49509802, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1f1d7a632e73860800000000000000
+      internalID: 7509719628035256745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_sie_siege_onager_idleA_x1_15
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 428
+        width: 111
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b684dd776bda5b0800000000000000
+      internalID: -5355423755943777527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: u_sie_siege_onager_idleA_x1_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 433
+        width: 120
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51282054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d63ca23b4afc840800000000000000
+      internalID: 5246593180333469063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

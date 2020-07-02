@@ -1,0 +1,812 @@
+fileFormatVersion: 2
+guid: 17b6510b5a975ce49915cb39a6e924cd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8169907265235061059
+    second: p_mangonel_x1_01
+  - first:
+      213: 7434856527542204772
+    second: p_mangonel_x1_02
+  - first:
+      213: 6262897339854534924
+    second: p_mangonel_x1_03
+  - first:
+      213: 8383195082594616466
+    second: p_mangonel_x1_04
+  - first:
+      213: 2499978535894082812
+    second: p_mangonel_x1_05
+  - first:
+      213: -3835900510495764280
+    second: p_mangonel_x1_06
+  - first:
+      213: -8669361888772503024
+    second: p_mangonel_x1_07
+  - first:
+      213: -677196782899454811
+    second: p_mangonel_x1_08
+  - first:
+      213: -4108187890416190957
+    second: p_mangonel_x1_09
+  - first:
+      213: 515284105224240244
+    second: p_mangonel_x1_10
+  - first:
+      213: -5109709085760128224
+    second: p_mangonel_x1_11
+  - first:
+      213: 7224375150794999213
+    second: p_mangonel_x1_12
+  - first:
+      213: 4987183648671718030
+    second: p_mangonel_x1_13
+  - first:
+      213: 638588377130468546
+    second: p_mangonel_x1_14
+  - first:
+      213: 7471551886119279419
+    second: p_mangonel_x1_15
+  - first:
+      213: 1544691562082681111
+    second: p_mangonel_x1_16
+  - first:
+      213: -3741560853379512862
+    second: p_mangonel_x1_17
+  - first:
+      213: 773419916592542505
+    second: p_mangonel_x1_18
+  - first:
+      213: 9115166104671309418
+    second: p_mangonel_x1_19
+  - first:
+      213: -1609419487960515211
+    second: p_mangonel_x1_20
+  - first:
+      213: -3896114179303455055
+    second: p_mangonel_x1_21
+  - first:
+      213: 7260581961877439569
+    second: p_mangonel_x1_22
+  - first:
+      213: 7565619958588774791
+    second: p_mangonel_x1_23
+  - first:
+      213: 8254986674138841771
+    second: p_mangonel_x1_24
+  - first:
+      213: -8131969183061490884
+    second: p_mangonel_x1_25
+  - first:
+      213: 2174128973211976320
+    second: p_mangonel_x1_26
+  - first:
+      213: 5718519694806548067
+    second: p_mangonel_x1_27
+  - first:
+      213: 6156774147131319481
+    second: p_mangonel_x1_28
+  - first:
+      213: -2617611095287991089
+    second: p_mangonel_x1_29
+  - first:
+      213: -7505841062589851773
+    second: p_mangonel_x1_30
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: p_mangonel_x1_01
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 55
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db6f7c7d0a8ae9e80800000000000000
+      internalID: -8169907265235061059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_mangonel_x1_02
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 55
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469b528ce9aed2760800000000000000
+      internalID: 7434856527542204772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_mangonel_x1_03
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 56
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09b4c6c2f74ae650800000000000000
+      internalID: 6262897339854534924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_mangonel_x1_04
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2948ad4f287175470800000000000000
+      internalID: 8383195082594616466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_mangonel_x1_05
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 24
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf46112ab35b1b220800000000000000
+      internalID: 2499978535894082812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_mangonel_x1_06
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 45
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c019262fc424cac0800000000000000
+      internalID: -3835900510495764280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_mangonel_x1_07
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 45
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ac76e5b4d30b780800000000000000
+      internalID: -8669361888772503024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_mangonel_x1_08
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 35
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac9d382d1d1a96f0800000000000000
+      internalID: -677196782899454811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_mangonel_x1_09
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 34
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a7e2931e8ccf6c0800000000000000
+      internalID: -4108187890416190957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_mangonel_x1_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 33
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47cbb42e928a62700800000000000000
+      internalID: 515284105224240244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_mangonel_x1_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 35
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b7eada8aaa619b0800000000000000
+      internalID: -5109709085760128224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_mangonel_x1_12
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 35
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da58b4b5ce2224460800000000000000
+      internalID: 7224375150794999213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_mangonel_x1_13
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 33
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ad6b0fa19063540800000000000000
+      internalID: 4987183648671718030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_mangonel_x1_14
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 25
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c40e80eeb8bcd800800000000000000
+      internalID: 638588377130468546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_mangonel_x1_15
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b1a0dbad840b760800000000000000
+      internalID: 7471551886119279419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_mangonel_x1_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 23
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7114b75aac8df6510800000000000000
+      internalID: 1544691562082681111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_mangonel_x1_17
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 25
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e58ecc3a3e431cc0800000000000000
+      internalID: -3741560853379512862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_mangonel_x1_18
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923f5bef05dbbba00800000000000000
+      internalID: 773419916592542505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_mangonel_x1_19
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 14
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e4d9927439f7e70800000000000000
+      internalID: 9115166104671309418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_mangonel_x1_20
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 25
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57db585b0813aa9e0800000000000000
+      internalID: -1609419487960515211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_mangonel_x1_21
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 45
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b64142ebc83ee9c0800000000000000
+      internalID: -3896114179303455055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_mangonel_x1_22
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 43
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154405c73d4c2c460800000000000000
+      internalID: 7260581961877439569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_mangonel_x1_23
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 54
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7891a49944b7ef860800000000000000
+      internalID: 7565619958588774791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_mangonel_x1_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 12
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba201a1b4aa9f8270800000000000000
+      internalID: 8254986674138841771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_mangonel_x1_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33423fec11752f80800000000000000
+      internalID: -8131969183061490884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_mangonel_x1_26
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 12
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0824f2838ce0c2e10800000000000000
+      internalID: 2174128973211976320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_mangonel_x1_27
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 44
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ef40a4d534c5f40800000000000000
+      internalID: 5718519694806548067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_mangonel_x1_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 43
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b422128771417550800000000000000
+      internalID: 6156774147131319481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_mangonel_x1_29
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 54
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4fc39d3906cabd0800000000000000
+      internalID: -2617611095287991089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_mangonel_x1_30
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 55
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3879acb3255e5d790800000000000000
+      internalID: -7505841062589851773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
