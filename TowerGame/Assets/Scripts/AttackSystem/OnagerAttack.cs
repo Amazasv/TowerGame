@@ -11,6 +11,10 @@ public class OnagerAttack : AbilityBase
     public float offsetRadius = 1.0f;
     public float RAG = 4.0f;
     [SerializeField]
+    private float slow = 0.0f;
+    [SerializeField]
+    private float slowDuration = 1.0f;
+    [SerializeField]
     private GameObject cmdCirclePrefab = null;
 
     private GameObject cmdCircle = null;
@@ -57,12 +61,19 @@ public class OnagerAttack : AbilityBase
         }
         base.EndWaitEffect();
     }
-    private void InstantDMGDelegate(Collider2D collision)
+    virtual protected void InstantDMGDelegate(Collider2D collision)
     {
         if (GameManager.CheckHostile(NPCinfo.tag, collision.tag))
         {
             NPCBase target = collision.GetComponent<NPCBase>();
-            NPCinfo.DealDmg2Target(AADmg, target, DMGType.None);
+            NPCinfo.DealDmg2Target(AADmg / cnt, target, DMGType.None);
+            SpeedStatus tmp = target.GetComponent<SpeedStatus>();
+            if (tmp == null)
+            {
+                tmp = target.gameObject.AddComponent<SpeedStatus>();
+                tmp.duration = slowDuration;
+                tmp.addSpeedMult = -slow;
+            }
         }
     }
     public override void ShowIndicator()

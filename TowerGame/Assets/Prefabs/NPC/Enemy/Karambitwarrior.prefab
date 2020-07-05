@@ -16,9 +16,11 @@ MonoBehaviour:
   attackAnim: 0.3
   castAnim: 0
   autoCastPriority: 0
+  cd: 0
   AADmg: 6
   RAG: 1.5
   cmdCirclePrefab: {fileID: 0}
+  passive: 0
 --- !u!1001 &2771914435918265501
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -41,6 +43,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Karambitwarrior
       objectReference: {fileID: 0}
+    - target: {fileID: 2284674551926440467, guid: 9ebb878b653b4974992048afaa855d46,
+        type: 3}
+      propertyPath: InfoPrefab
+      value: 
+      objectReference: {fileID: 4992632179099424850, guid: b0b8a1322f862ea44a2ba78b6856998d,
+        type: 3}
     - target: {fileID: 2848874882445405921, guid: 9ebb878b653b4974992048afaa855d46,
         type: 3}
       propertyPath: value

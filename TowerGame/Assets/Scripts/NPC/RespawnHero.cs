@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+[RequireComponent(typeof(NPCBase))]
 public class RespawnHero : MonoBehaviour
 {
     [SerializeField]
@@ -13,6 +13,7 @@ public class RespawnHero : MonoBehaviour
     {
         NPCinfo = GetComponent<NPCBase>();
         anim = GetComponent<Animator>();
+        NPCinfo.OnDead += StartRespawn;
     }
     public void StartRespawn()
     {
@@ -24,6 +25,7 @@ public class RespawnHero : MonoBehaviour
     {
         if (anim) anim.SetTrigger("respawn");
         NPCinfo.Dead = false;
+        NPCinfo.invincible = false;
     }
 
 }

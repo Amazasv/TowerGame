@@ -52,7 +52,7 @@ PrefabInstance:
         type: 3}
       propertyPath: IntroPrefab
       value: 
-      objectReference: {fileID: 6624201234383226699, guid: 27701bca9fc17fd4c9baa68015ce97f0,
+      objectReference: {fileID: 6624201234383226699, guid: 81b9805987bc3f247b270b13f342b4f6,
         type: 3}
     - target: {fileID: 1828029941707504552, guid: 7a71265d317e3e9488306dfcfda44d9c,
         type: 3}
@@ -63,11 +63,6 @@ PrefabInstance:
         type: 3}
       propertyPath: refund
       value: 200
-      objectReference: {fileID: 0}
-    - target: {fileID: 3077227901969952386, guid: 7a71265d317e3e9488306dfcfda44d9c,
-        type: 3}
-      propertyPath: invincible
-      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3506032116536598652, guid: 7a71265d317e3e9488306dfcfda44d9c,
         type: 3}
@@ -134,6 +129,12 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8317560464037081755, guid: 7a71265d317e3e9488306dfcfda44d9c,
+        type: 3}
+      propertyPath: InfoPrefab
+      value: 
+      objectReference: {fileID: 5186597958672531537, guid: b6b1754f5c663c54d82777f6e60c405f,
+        type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7a71265d317e3e9488306dfcfda44d9c, type: 3}
 --- !u!1 &7186593472917711804 stripped

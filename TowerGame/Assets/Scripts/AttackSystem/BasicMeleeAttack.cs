@@ -10,7 +10,8 @@ public class BasicMeleeAttack : AbilityBase
     public float RAG = 4.0f;
     [SerializeField]
     private GameObject cmdCirclePrefab = null;
-
+    [SerializeField]
+    private bool passive = false;
     private Moveable moveable = null;
     private GameObject cmdCircle = null;
     protected override void UpdateREF()
@@ -22,7 +23,7 @@ public class BasicMeleeAttack : AbilityBase
     protected override void UpdateWaitEffect()
     {
         Vector3 dirVector = transform.position - NPCinfo.target.transform.position;
-        moveable.targetPos = NPCinfo.target.transform.position;
+        if (!passive) moveable.targetPos = NPCinfo.target.transform.position;
         if (dirVector.magnitude <= AARange - 0.1f)
         {
             moveable.targetPos = transform.position;

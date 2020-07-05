@@ -1,22 +1,21 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+[RequireComponent(typeof(AssembleLayout))]
 public class CommandAbility : AbilityBase
 {
     public float RAG = 4.0f;
     [SerializeField]
     private GameObject cmdCirclePrefab = null;
 
-    private GameObject cmdCircle = null;
+    private GameObject lastCircleObject = null;
     private AssembleLayout assembleLayout = null;
     private GetClickPosObject walkableArea = null;
     private GetClickPosObject nonWalkableArea = null;
     protected override void UpdateREF()
     {
         base.UpdateREF();
-        assembleLayout = GetComponentInChildren<AssembleLayout>();
-        if (assembleLayout == null) assembleLayout = GetComponentInParent<AssembleLayout>();
+        assembleLayout = GetComponent<AssembleLayout>();
     }
 
     private void Start()
@@ -45,9 +44,8 @@ public class CommandAbility : AbilityBase
             nonWalkableArea.gameObject.layer = LayerMask.NameToLayer("Ignore Raycast");
             walkableArea.OnClickEvent -= CheckPoint;
             nonWalkableArea.OnClickEvent -= CantSetPoint;
-            GameManager.Instance.CurrentSelected = null;
+            SelectableGameObject.CurrentSelected = null;
             assembleLayout.SetAssemblyPoint(input);
-
             Interrupt();
         }
         else
@@ -61,14 +59,15 @@ public class CommandAbility : AbilityBase
     }
     public override void ShowIndicator()
     {
+        HideIndicator();
         if (cmdCirclePrefab)
         {
-            cmdCircle = Instantiate(cmdCirclePrefab, transform);
-            cmdCircle.transform.localScale = RAG * 2 * Vector2.one;
+            lastCircleObject = Instantiate(cmdCirclePrefab, transform);
+            lastCircleObject.transform.localScale = RAG * 2 * Vector2.one;
         }
     }
     public override void HideIndicator()
     {
-        if (cmdCircle) Destroy(cmdCircle);
+        if (lastCircleObject) Destroy(lastCircleObject);
     }
 }

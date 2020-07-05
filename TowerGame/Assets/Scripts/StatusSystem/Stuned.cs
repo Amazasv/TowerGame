@@ -2,29 +2,32 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Stuned : StatusBase
+public class Stuned : MonoBehaviour
 {
-    private AimBase aimBase = null;
+    public float duration = 3.0f;
     private Moveable moveable = null;
     private AutoAttackSystem autoAttackSystem = null;
-    protected override void UpdateREF()
+    private NPCBase NPCbase = null;
+    private void Awake()
     {
-        base.UpdateREF();
-        aimBase = GetComponent<AimBase>();
         moveable = GetComponent<Moveable>();
         autoAttackSystem = GetComponent<AutoAttackSystem>();
+        NPCbase = GetComponent<NPCBase>();
+        NPCbase.OnDead += delegate { Destroy(this); };
     }
-
-    protected override void StartEffect()
+    private void Update()
     {
-        base.StartEffect();
+        if (duration > 0.0f) { duration -= Time.deltaTime; }
+        else Destroy(this);
+    }
+    private void Start()
+    {
         if (autoAttackSystem) autoAttackSystem.silence = true;
         if (moveable) moveable.freeze = true;
     }
 
-    protected override void EndEffect()
+    private void OnDestroy()
     {
-        base.EndEffect();
         if (autoAttackSystem) autoAttackSystem.silence = false;
         if (moveable) moveable.freeze = false;
     }

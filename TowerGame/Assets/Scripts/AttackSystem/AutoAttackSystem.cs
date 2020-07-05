@@ -20,12 +20,24 @@ public class AutoAttackSystem : MonoBehaviour
     public bool animating = false;
     public List<AbilityBase> abilityList = new List<AbilityBase>();
 
+
     private float m_CD = 0.0f;
     public float cd
     {
         get { return m_CD; }
         set { m_CD = Mathf.Clamp(value, 0.0f, attackSpeed); }
     }
+
+
+    private NPCBase NPCbase = null;
+    private void Awake()
+    {
+        NPCbase = GetComponent<NPCBase>();
+        if (NPCbase) NPCbase.OnDead += delegate { silence = true; };
+        if (NPCbase) NPCbase.OnRespawn += delegate { silence = false; };
+    }
+
+
     private void Start()
     {
         SortAbilities();

@@ -13,6 +13,8 @@ GameObject:
   - component: {fileID: 3643908666620677913}
   - component: {fileID: 5463395630866254935}
   - component: {fileID: 6511650385637650994}
+  - component: {fileID: 8508675083703309701}
+  - component: {fileID: 2441654439853409636}
   m_Layer: 0
   m_Name: BuildingBase
   m_TagString: Untagged
@@ -112,8 +114,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8126cef43fdc764489a8027c4f39174c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  IntroPrefab: {fileID: 0}
   panelPrefab: {fileID: 0}
   cost: 20
+  refund: 0
 --- !u!114 &6511650385637650994
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -124,5 +128,30 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c83e805f2af4593448ab757a71f6dd63, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  InfoPrefab: {fileID: 0}
+--- !u!114 &8508675083703309701
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7073038767882426243}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f67cdb64673ba3b4d9a335c4c29ce810, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &2441654439853409636
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7073038767882426243}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3074db23d6b61cf4782ed3429fc863bc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 

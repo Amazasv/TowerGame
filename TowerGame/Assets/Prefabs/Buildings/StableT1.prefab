@@ -57,6 +57,12 @@ PrefabInstance:
       propertyPath: respawnTime
       value: 10
       objectReference: {fileID: 0}
+    - target: {fileID: 7600499129731595486, guid: 439f7b99486bec24d87f243b9dceef0b,
+        type: 3}
+      propertyPath: InfoPrefab
+      value: 
+      objectReference: {fileID: 2180197752390070914, guid: 8fe2839302059154a867afcc9d0e7e5f,
+        type: 3}
     - target: {fileID: 8387749977618719576, guid: 439f7b99486bec24d87f243b9dceef0b,
         type: 3}
       propertyPath: RAG

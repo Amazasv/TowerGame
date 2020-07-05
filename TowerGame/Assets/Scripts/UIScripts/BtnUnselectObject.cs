@@ -10,6 +10,6 @@ public class BtnUnselectObject : MonoBehaviour
     private void Awake()
     {
         btn = GetComponent<Button>();
-        btn.onClick.AddListener(delegate { GameManager.Instance.CurrentSelected = null; });
+        btn.onClick.AddListener(delegate { SelectableGameObject.CurrentSelected = null; });
     }
 }

@@ -10,7 +10,7 @@ PrefabInstance:
     - target: {fileID: 1885855618732706654, guid: 2896c1a6940a30a4387d1bb9cd280896,
         type: 3}
       propertyPath: m_Name
-      value: BarracksT3B
+      value: IntroBarracksT3B
       objectReference: {fileID: 0}
     - target: {fileID: 3525600715760592637, guid: 2896c1a6940a30a4387d1bb9cd280896,
         type: 3}
@@ -156,7 +156,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Text
       value: "\u8840\u91CF\uFF1A250         \u653B\u51FB\u529B\uFF1A4\r\n\u653B\u51FB\u901F\u5EA6\uFF1A\u4E2D  
-        \u79FB\u52A8\u901F\u5EA6\uFF1A\u5FEB\r"
+        \u79FB\u52A8\u901F\u5EA6\uFF1A\u4E2D"
       objectReference: {fileID: 0}
     - target: {fileID: 6623202427923576653, guid: 2896c1a6940a30a4387d1bb9cd280896,
         type: 3}

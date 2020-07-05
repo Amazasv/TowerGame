@@ -18,11 +18,10 @@ MonoBehaviour:
   autoCastPriority: 0
   boltPrefab: {fileID: 4120764536269680619, guid: 7ba2dfc5425e2024eb0c6cccbf151cbe,
     type: 3}
-  AOEPrefab: {fileID: 7389589439947134034, guid: 981379ba53548a440bdef1861f673a8e,
-    type: 3}
   PiercingDMG: 40
   RAG: 3.25
   piercingDecline: 0.1
+  minnDecline: 0.4
   cmdCirclePrefab: {fileID: 8547753435629759768, guid: fad0265fef576fb4c8c7342607b638f1,
     type: 3}
 --- !u!1001 &5988667160692575168
@@ -62,10 +61,15 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 6624201234383226699, guid: dee721e409cdd32429fb581085c12d1e,
         type: 3}
-    - target: {fileID: 3077227901969952386, guid: 7a71265d317e3e9488306dfcfda44d9c,
+    - target: {fileID: 1828029941707504552, guid: 7a71265d317e3e9488306dfcfda44d9c,
         type: 3}
-      propertyPath: invincible
-      value: 1
+      propertyPath: cost
+      value: 160
+      objectReference: {fileID: 0}
+    - target: {fileID: 1828029941707504552, guid: 7a71265d317e3e9488306dfcfda44d9c,
+        type: 3}
+      propertyPath: refund
+      value: 145
       objectReference: {fileID: 0}
     - target: {fileID: 3506032116536598652, guid: 7a71265d317e3e9488306dfcfda44d9c,
         type: 3}
@@ -132,6 +136,12 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8317560464037081755, guid: 7a71265d317e3e9488306dfcfda44d9c,
+        type: 3}
+      propertyPath: InfoPrefab
+      value: 
+      objectReference: {fileID: 5186597958672531537, guid: 44783ce3178247148b06bb3f074ded8d,
+        type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7a71265d317e3e9488306dfcfda44d9c, type: 3}
 --- !u!1 &7186593472917711804 stripped

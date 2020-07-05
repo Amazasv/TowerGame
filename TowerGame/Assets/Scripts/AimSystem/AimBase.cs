@@ -32,7 +32,7 @@ public class AimBase : MonoBehaviour
         assembleLayout = GetComponentInParent<AssembleLayout>();
         NPCinfo = GetComponent<NPCBase>();
         attackSystem = GetComponent<AutoAttackSystem>();
-        center = assembleLayout ? assembleLayout.assemblyPoint : transform;
+        center = assembleLayout ? assembleLayout.GetAssemblyPoint() : transform;
     }
     virtual protected void TryNewTarget(NPCBase newTarget)
     {

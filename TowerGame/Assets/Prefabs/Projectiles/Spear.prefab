@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 8395225399212894339}
   - component: {fileID: 1670304192711817001}
   - component: {fileID: 3692154532359107560}
-  - component: {fileID: 6535743437853606855}
+  - component: {fileID: -964367002429446068}
   m_Layer: 0
   m_Name: Spear
   m_TagString: Untagged
@@ -71,7 +71,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 6512918623523969662, guid: 8e93a0dab4a6b904a8f092d4b74765b4,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -103,7 +103,7 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &6535743437853606855
+--- !u!114 &-964367002429446068
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -112,9 +112,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 4120764536269680619}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 88306054760f8014f8a132b9bc56389d, type: 3}
+  m_Script: {fileID: 11500000, guid: c1a1373463a8b8d439273b358483eb49, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  targetPos: {x: 0, y: 0}
-  tangent: 0
-  speed: 0
+  destination: {fileID: 0}
+  tangent: 4
+  speed: 3

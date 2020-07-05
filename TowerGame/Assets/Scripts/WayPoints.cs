@@ -39,8 +39,4 @@ public class WayPoints : MonoBehaviour
             Gizmos.DrawLine(pointsPos[i - 1], pointsPos[i]);
         }
     }
-
-
-
 }
-

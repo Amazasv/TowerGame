@@ -16,7 +16,7 @@ public abstract class AbilityBase : MonoBehaviour
     protected UpdateFunc updateFunc;
 
     //private GameObject cmdCircle = null;
-    protected float cd = 0.0f;
+    public float cd = 0.0f;
     protected float channeling = 0.0f;
     //protected float animating = 0.0f;
     virtual protected void UpdateREF()

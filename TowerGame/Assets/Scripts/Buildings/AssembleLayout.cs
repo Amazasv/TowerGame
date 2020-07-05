@@ -4,7 +4,8 @@ using UnityEngine;
 
 public class AssembleLayout : MonoBehaviour
 {
-    public Transform assemblyPoint = null;
+    [SerializeField]
+    private Transform assemblyPoint = null;
     [SerializeField]
     private float offsetRadius = 0.2f;
 
@@ -22,5 +23,15 @@ public class AssembleLayout : MonoBehaviour
     {
         assemblyPoint.position = input;
         OnRelocate?.Invoke();
+    }
+
+    private void Start()
+    {
+        OnRelocate?.Invoke();
+    }
+
+    public Transform GetAssemblyPoint()//mark不满意
+    {
+        return assemblyPoint.transform;
     }
 }

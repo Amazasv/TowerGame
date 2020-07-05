@@ -169,6 +169,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: -7396883770901040167, guid: 8145617ed2f1df84bb639974781263c9,
         type: 3}
+    - target: {fileID: 5051664184015921377, guid: 74eb15a466ac7a34eb09c6116d41d53d,
+        type: 3}
+      propertyPath: InfoPrefab
+      value: 
+      objectReference: {fileID: 8103803551674683465, guid: 75d3c9b6fe4a918419671046d500fca8,
+        type: 3}
     - target: {fileID: 5462736602639062339, guid: 74eb15a466ac7a34eb09c6116d41d53d,
         type: 3}
       propertyPath: m_Name

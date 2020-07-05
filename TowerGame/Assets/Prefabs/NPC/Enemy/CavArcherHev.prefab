@@ -65,6 +65,17 @@ PrefabInstance:
       propertyPath: MoveSpeed
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 2114681890821729637, guid: 9ebb878b653b4974992048afaa855d46,
+        type: 3}
+      propertyPath: basicMovementSpeed
+      value: 1.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 2284674551926440467, guid: 9ebb878b653b4974992048afaa855d46,
+        type: 3}
+      propertyPath: InfoPrefab
+      value: 
+      objectReference: {fileID: 4992632179099424850, guid: f67279727bf2cb94097ac0795e3e97a1,
+        type: 3}
     - target: {fileID: 2848874882445405921, guid: 9ebb878b653b4974992048afaa855d46,
         type: 3}
       propertyPath: value

@@ -5,12 +5,12 @@ using UnityEngine.UI;
 [RequireComponent(typeof(Slider))]
 public class SliderHealthBar : MonoBehaviour
 {
-    private NPCBase NPCinfo = null;
+    public NPCBase NPCinfo = null;
     private Slider slider = null;
     private void Awake()
     {
         slider = GetComponentInChildren<Slider>();
-        NPCinfo = GetComponentInParent<NPCBase>();
+        if (NPCinfo == null) NPCinfo = GetComponentInParent<NPCBase>();
     }
 
     private void Update()

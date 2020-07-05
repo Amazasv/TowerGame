@@ -52,6 +52,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 5132629598503967168, guid: 55acbef0c17c7df4daf9402c1600f240,
         type: 3}
+    - target: {fileID: 7600499129731595486, guid: 439f7b99486bec24d87f243b9dceef0b,
+        type: 3}
+      propertyPath: InfoPrefab
+      value: 
+      objectReference: {fileID: 2180197752390070914, guid: 85b7e93f07eed4a44abba2f3600d2665,
+        type: 3}
     - target: {fileID: 8387749977618719576, guid: 439f7b99486bec24d87f243b9dceef0b,
         type: 3}
       propertyPath: RAG

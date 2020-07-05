@@ -10,10 +10,9 @@ public enum DMGType
 public class NPCBase : MonoBehaviour
 {
     public NPCBase target = null;
-    public List<StatusBase> statusList = new List<StatusBase>();
     public string NPCName = "";
     public float MaxHealth = 10.0f;
-
+    [SerializeField]
     private float m_Health = 10.0f;
     public float health
     {
@@ -37,30 +36,30 @@ public class NPCBase : MonoBehaviour
                 if (value)
                 {
                     if (invincible) return;
+                    OnDead?.Invoke();
                     m_dead = true;
                     NPCdie();
                 }
-                else InitializeState();
+                else
+                {
+                    m_dead = false;
+                    InitializeState();
+                    OnRespawn?.Invoke();
+                }
             }
         }
     }
+    public VoidDelegate OnDead = null;
+    public VoidDelegate OnRespawn = null;
 
     public float armor = 0.0f;
     public float shield = 0.0f;
     public float globalAttackMult = 0.0f;
     public bool invincible = false;
     private Animator anim = null;
-    private Moveable moveable = null;
-    private AutoAttackSystem autoAttackSystem = null;
     private void Awake()
     {
         anim = GetComponent<Animator>();
-        moveable = GetComponent<Moveable>();
-        autoAttackSystem = GetComponent<AutoAttackSystem>();
-    }
-
-    private void OnEnable()
-    {
         if (CompareTag("Ally")) NPCList.allies.Add(this);
         if (CompareTag("Enemy")) NPCList.enemys.Add(this);
     }
@@ -76,26 +75,17 @@ public class NPCBase : MonoBehaviour
 
     private void InitializeState()
     {
-        if (autoAttackSystem) autoAttackSystem.silence = false;
-        if (moveable) moveable.freeze = false;
-        foreach (StatusBase status in statusList) Destroy(status);
         health = MaxHealth;
     }
 
     private void NPCdie()
     {
-        if (!invincible)
-        {
-            SendMessageUpwards("StartRespawn", SendMessageOptions.DontRequireReceiver);
-            invincible = true;
-            if (autoAttackSystem) autoAttackSystem.silence = true;
-            if (moveable) moveable.freeze = true;
-            if (anim) anim.SetTrigger("die");
-            else Destroy(gameObject);
-        }
+        invincible = true;
+        if (anim) anim.SetTrigger("die");
+        else Destroy(gameObject);
     }
 
-    public void DealDmg2Target(float value,NPCBase target,DMGType type=DMGType.None)
+    public void DealDmg2Target(float value, NPCBase target, DMGType type = DMGType.None)
     {
         if (target) target.SufferDmg(value * (1.0f + globalAttackMult), type);
     }
@@ -104,8 +94,6 @@ public class NPCBase : MonoBehaviour
     {
         if (target) target.SufferDmg(value * (1.0f + globalAttackMult), type);
     }
-
-
     public void SufferDmg(float value, DMGType type = DMGType.None)
     {
         SendMessageUpwards("GetHit", SendMessageOptions.DontRequireReceiver);
@@ -131,7 +119,7 @@ public class NPCBase : MonoBehaviour
             target = null;
         }
     }
-    private void OnDisable()
+    private void OnDestroy()
     {
         if (CompareTag("Ally")) NPCList.allies.Remove(this);
         if (CompareTag("Enemy")) NPCList.enemys.Remove(this);

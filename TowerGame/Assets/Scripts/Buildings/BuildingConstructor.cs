@@ -15,7 +15,6 @@ public class BuildingConstructor : MonoBehaviour
     }
     public void Build(GameObject towerPrefab)
     {
-        //if (PanelController.Instance) PanelController.Instance.ClosePanel();//mark
         if (tower) Destroy(tower.gameObject);
         if (towerPrefab)
         {

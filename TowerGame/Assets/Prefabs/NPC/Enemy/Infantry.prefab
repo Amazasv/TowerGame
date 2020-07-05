@@ -16,9 +16,11 @@ MonoBehaviour:
   attackAnim: 0.3
   castAnim: 0
   autoCastPriority: 0
+  cd: 0
   AADmg: 3
   RAG: 1.5
   cmdCirclePrefab: {fileID: 0}
+  passive: 0
 --- !u!1001 &2771914435918265501
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -46,6 +48,12 @@ PrefabInstance:
       propertyPath: basicMovementSpeed
       value: 0.6
       objectReference: {fileID: 0}
+    - target: {fileID: 2284674551926440467, guid: 9ebb878b653b4974992048afaa855d46,
+        type: 3}
+      propertyPath: InfoPrefab
+      value: 
+      objectReference: {fileID: 4992632179099424850, guid: d8c8bdd28b57fb744bb26983cd727fcc,
+        type: 3}
     - target: {fileID: 2848874882445405921, guid: 9ebb878b653b4974992048afaa855d46,
         type: 3}
       propertyPath: value

@@ -13,27 +13,6 @@ public class GameManager : MonoBehaviour
     public GetClickPosObject NonWalkableArea = null;
     public Transform UICanvas = null;
 
-    [SerializeField]
-    private SelectableGameObject m_currentSelected = null;
-    public SelectableGameObject CurrentSelected
-    {
-        get { return m_currentSelected; }
-        set
-        {
-            if (m_currentSelected)
-            {
-                m_currentSelected.UnSelectEvent?.Invoke();
-            }
-            m_currentSelected = value;
-            if (m_currentSelected)
-            {
-                m_currentSelected.OnClickEvent?.Invoke();
-                m_currentSelected.OnClickTrigger?.Invoke();
-                m_currentSelected.OnClickTrigger = null;
-            }
-        }
-    }
-
     public int money = 1000;
     [SerializeField]
     private int m_hearts = 10;
@@ -43,7 +22,7 @@ public class GameManager : MonoBehaviour
         set
         {
             m_hearts = value;
-            if (value < 0) GameOver();
+            if (value <= 0) GameOver();
         }
     }
     private void Awake()
@@ -62,7 +41,7 @@ public class GameManager : MonoBehaviour
         Time.timeScale = 0.0f;
     }
 
-    public static bool CheckHostile(string tag1,string tag2)
+    public static bool CheckHostile(string tag1, string tag2)
     {
         bool res = false;
         if (tag1.Equals("Ally") && tag2.Equals("Enemy")) res = true;

@@ -55,6 +55,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Crossbow
       objectReference: {fileID: 0}
+    - target: {fileID: 2284674551926440467, guid: 9ebb878b653b4974992048afaa855d46,
+        type: 3}
+      propertyPath: InfoPrefab
+      value: 
+      objectReference: {fileID: 4992632179099424850, guid: 9d9e3aa14324c7540bfb7754faf388cd,
+        type: 3}
     - target: {fileID: 2848874882445405921, guid: 9ebb878b653b4974992048afaa855d46,
         type: 3}
       propertyPath: value

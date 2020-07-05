@@ -10,7 +10,7 @@ PrefabInstance:
     - target: {fileID: 1885855618732706654, guid: 2896c1a6940a30a4387d1bb9cd280896,
         type: 3}
       propertyPath: m_Name
-      value: TowerT1
+      value: IntroTowerT1
       objectReference: {fileID: 0}
     - target: {fileID: 3525600715760592637, guid: 2896c1a6940a30a4387d1bb9cd280896,
         type: 3}
@@ -155,7 +155,7 @@ PrefabInstance:
     - target: {fileID: 6620670756823212216, guid: 2896c1a6940a30a4387d1bb9cd280896,
         type: 3}
       propertyPath: m_Text
-      value: "\u653B\u51FB\u529B\uFF1A4  \r\n\u653B\u51FB\u901F\u5EA6\uFF1A\u4E2D\uFF1B\r"
+      value: "\u653B\u51FB\u529B\uFF1A5\n\u653B\u51FB\u901F\u5EA6\uFF1A\u4E2D"
       objectReference: {fileID: 0}
     - target: {fileID: 6623202427923576653, guid: 2896c1a6940a30a4387d1bb9cd280896,
         type: 3}

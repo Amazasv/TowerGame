@@ -14,6 +14,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   recoverRate: 0.1
   recoverTime: 5
+--- !u!114 &2085545848744038248
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5132629598503967168}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49c844a9b2c3eac4d94160f0695efc4a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &3860086838369451058
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -45,18 +57,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e5db7189f86283a4b92b7d57bbbba265, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &2085545848744038248
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5132629598503967168}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49c844a9b2c3eac4d94160f0695efc4a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1001 &696196790919684004
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -81,6 +81,12 @@ PrefabInstance:
       propertyPath: basicMovementSpeed
       value: 0.8
       objectReference: {fileID: 0}
+    - target: {fileID: 4847900800765309894, guid: 54e80fc15f220384b9645e6d1f5bedc2,
+        type: 3}
+      propertyPath: InfoPrefab
+      value: 
+      objectReference: {fileID: 2583775825577613904, guid: 6607c61f1fe8ece4ea8017d5e9c0e2ae,
+        type: 3}
     - target: {fileID: 5662045250176468580, guid: 54e80fc15f220384b9645e6d1f5bedc2,
         type: 3}
       propertyPath: m_Name

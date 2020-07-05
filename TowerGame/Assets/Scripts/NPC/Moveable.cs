@@ -1,30 +1,34 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using System;
 public class Moveable : MonoBehaviour
 {
 
     [SerializeField]
     private float basicMovementSpeed = 0.75f;
-    public bool freeze = false;
-    public VoidDelegate arriveDelegate;
-    //public bool freeze = false;
-    public float speedMult = 1.0f;
-    public Vector3 targetPos = Vector3.zero;
-    public Vector2 dirVec = Vector2.zero;
-    
 
+    public VoidDelegate arriveDelegate;
+    public float speedMult = 1.0f;
+    public Vector2 targetPos = Vector2.zero;
+    public Vector2 dirVec = Vector2.zero;
+    public bool freeze = false;
+
+
+    private NPCBase NPCbase = null;
     private static float eps = 0.01f;
     private Animator anim = null;
     private void Awake()
     {
         anim = GetComponent<Animator>();
+        NPCbase = GetComponent<NPCBase>();
+        if (NPCbase) NPCbase.OnDead += delegate { freeze = true; };
+        if (NPCbase) NPCbase.OnRespawn += delegate { freeze = false; };
     }
 
     private void Start()
     {
-        targetPos = transform.position;
+        //targetPos = transform.position;
     }
 
     private void Update()
@@ -49,17 +53,16 @@ public class Moveable : MonoBehaviour
             else anim.SetBool("walking", false);
         }
     }
-
     private void UpdatePosition()
     {
         if (Vector2.Distance(targetPos, transform.position) > eps)
         {
-            dirVec = targetPos - transform.position;
+            Vector2 currentPosition = transform.position;
+            dirVec = targetPos - currentPosition;
             transform.Translate(dirVec.normalized * basicMovementSpeed * speedMult * Time.deltaTime);
             CheckArrive();
         }
     }
-
     private void CheckArrive()
     {
         if (Vector2.Distance(targetPos, transform.position) <= eps)

@@ -35,11 +35,11 @@ MonoBehaviour:
   statusList: []
   NPCName: 
   MaxHealth: 10
-  m_Health: 10
   m_dead: 0
   armor: 0
   shield: 0
-  invincible: 0
+  globalAttackMult: 0
+  invincible: 1
 --- !u!114 &3528124884179870471
 MonoBehaviour:
   m_ObjectHideFlags: 0

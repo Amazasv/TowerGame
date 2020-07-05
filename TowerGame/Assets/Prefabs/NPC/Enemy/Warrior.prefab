@@ -46,6 +46,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Warrior
       objectReference: {fileID: 0}
+    - target: {fileID: 2284674551926440467, guid: 9ebb878b653b4974992048afaa855d46,
+        type: 3}
+      propertyPath: InfoPrefab
+      value: 
+      objectReference: {fileID: 4992632179099424850, guid: 6ff10636514f8224eab19c1531ac6829,
+        type: 3}
     - target: {fileID: 2848874882445405921, guid: 9ebb878b653b4974992048afaa855d46,
         type: 3}
       propertyPath: value

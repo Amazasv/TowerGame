@@ -10,9 +10,11 @@ public class ScorpionAttack : AbilityBase
     [SerializeField]
     private float piercingDecline = 0.1f;
     [SerializeField]
+    private float minnDecline = 0.4f;
+    [SerializeField]
     private GameObject cmdCirclePrefab = null;
 
-    private float piercingMult=1.0f;
+    private float piercingMult = 1.0f;
     private GameObject cmdCircle = null;
     protected override void StartWaitEffect()
     {
@@ -52,8 +54,9 @@ public class ScorpionAttack : AbilityBase
         if (GameManager.CheckHostile(NPCinfo.tag, collision.tag))
         {
             NPCBase target = collision.GetComponent<NPCBase>();
-            NPCinfo.DealDmg2Target(piercingMult*PiercingDMG, target, DMGType.None);
+            NPCinfo.DealDmg2Target(piercingMult * PiercingDMG, target, DMGType.None);
             piercingMult -= piercingDecline;
+            piercingMult = Mathf.Clamp(piercingMult, minnDecline, 1.0f);
         }
     }
     public override void ShowIndicator()
